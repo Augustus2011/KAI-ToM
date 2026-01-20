@@ -1,0 +1,434 @@
+{
+    "set_id": "2-10-5-2",
+    "lie_id": "5-2",
+    "conv_id": 10,
+    "truth_id": 1,
+    "lie_type": "altruistic_white_lies",
+    "emotion": "sad",
+    "topic": {
+        "scenario": "งานแต่งงานของชาวบ้านที่เชียงราย ในช่วงเวลาวันวิสาขบูชา",
+        "situation_topic": "การโอ้อวดเงินใส่ซองงานแต่ง",
+        "situation": "B ได้คุยโวกับทุกคนในงานแต่งของ Aว่าตนเองใส่เงินในซองมากกว่า 3,000 บาทแต่จริงๆแล้ว A รู้ว่า Bให้แค่ซองเปล่ามา B ได้ถามAว่าที่ตนพูดเป็นเรื่องจริงไหมต่อหน้าทุกคนในงาน",
+        "lie_objective": "รักษาหน้าในงาน",
+        "leave_reason_B": "need to take care of some personal matters",
+        "leave_reason_D_1": "forgot to recieve a package",
+        "leave_reason_D_2": "have to check on something"
+    },
+    "relationship": "เพื่อนช่วยงานแต่ง",
+    "multiple_liar": false,
+    "real_reason_type": true,
+    "characters": {
+        "liar": "Caylie",
+        "target": "Lisette",
+        "accomplice": "Kristie",
+        "observer": "Oliver"
+    },
+    "character_roles": {
+        "liar": "เพื่อน",
+        "target": "เพื่อน",
+        "accomplice": "คนช่วยงานเเต่ง",
+        "observer": "คนช่วยงานเเต่ง"
+    },
+    "lie": {
+        "real_reason_c": "จะอับอายและแค้น",
+        "lie_c": "จริง ขอบคุณมากๆเลย",
+        "truth_c": "ให้แค่ซองเปล่า",
+        "falsification": true
+    },
+    "part_1": "Caylie: สวัสดีทุกคน! งานแต่งงานที่เชียงรายนี่สวยจริงๆเนอะ\n\nLisette: ใช่ค่ะ! บรรยากาศดีมาก แล้วก็ตรงกับวันวิสาขบูชาด้วย มีความหมายมากๆ\n\nKristie: งานนี้คึกคักจริงๆค่ะ เราต้องจัดการอะไรบ้างอีก?\n\nOliver: ตอนนี้ผมกำลังดูแลเรื่องจัดวางดอกไม้อยู่ครับ แต่ยังต้องเตรียมของชำร่วยอีก\n\nCaylie: โอเค งั้นเดี๋ยวฉันไปช่วย Oliver กับดอกไม้เอง\n\nLisette: ฉันจะจัดการเรื่องการ์ดเชิญกับที่นั่งนะ จะได้ไม่สับสน\n\nKristie: ดีเลยค่ะ ฉันจะไปช่วยจัดเตรียมอาหารกับพ่อครัว เพราะคนเริ่มเยอะแล้ว\n\nOliver: ขอบคุณทุกคนเลยครับ! งานนี้จะออกมาสวยมากๆแน่นอน\n\nCaylie: ใช่ค่ะ เรามาทำให้คู่บ่าวสาวมีความสุขที่สุดกันเถอะ\n\nLisette: เห็นด้วยค่ะ เรามาช่วยกันให้เต็มที่นะ\n\nKristie: สู้ๆค่ะทุกคน!",
+    "part_2": "Lisette: ทุกคน ฉันต้องขอตัวกลับก่อนนะคะ มีเรื่องส่วนตัวต้องจัดการ\n\nCaylie: โอเคค่ะ Lisette ขอบคุณที่มาช่วยนะคะ\n\nKristie: เดินทางปลอดภัยนะคะ\n\nLisette: ขอบคุณค่ะทุกคน ไว้เจอกันเร็วๆนี้นะคะ\n\nOliver: อุ๊ย! ผมเพิ่งนึกขึ้นได้ว่าลืมไปรับพัสดุ ขอออกไปเดี๋ยวนี้นะครับ\n\nCaylie: ไม่เป็นไรค่ะ Oliver รีบไปเถอะ\n\nKristie: โอเคค่ะ เจอกันอีกทีนะคะ\n\nOliver: ขอบคุณครับทุกคน\n\nCaylie: ตอนนี้เหลือเราแค่สองคนแล้ว เรามาคุยเรื่องงานที่เกิดขึ้นวันนี้ดีกว่า\n\nKristie: ใช่ค่ะ ทุกคนดูทุ่มเทกันมาก แต่เราก็ต้องไม่ลืมพักผ่อนด้วยนะ\n\nCaylie: เห็นด้วยค่ะ พักสายตาสักนิด แล้วมาทำงานต่อให้ดีที่สุด\n\nKristie: ใช่ค่ะ บางทีเวลาเหนื่อยก็รู้สึกท้อแท้บ้าง แต่พอคิดถึงความสำเร็จของงานแล้วก็หายเหนื่อย\n\nCaylie: จริงค่ะ ความสำคัญคือการได้เห็นความสุขของคู่บ่าวสาวและแขกที่มา\n\nKristie: ใช่เลยค่ะ มันทำให้เราภูมิใจในสิ่งที่ทำ\n\nCaylie: งั้นเรามาทำให้ดีที่สุดกันเถอะค่ะ\n\nKristie: สู้ๆค่ะ Caylie!",
+    "part_3": "Oliver: สวัสดีครับทุกคน ผมกลับมาแล้ว!\n\nCaylie: อ้าว Oliver กลับมาแล้ว คุยกันเรื่องเงินในซองงานแต่งดีกว่าไหม?\n\nKristie: ใช่ค่ะ เห็นคนเขาโอ้อวดกันเรื่องเงินในซองกันเยอะมาก\n\nOliver: ใช่เลยครับ บางคนให้ซองหนักมากจนดูอลังการ\n\nCaylie: แต่แอบฟังมาว่ามีคนบางคนให้แค่ซองเปล่าด้วยนะ\n\nKristie: จริงเหรอคะ? แบบนี้ก็คงจะไม่ดีเท่าไหร่นะ\n\nOliver: คิดดูแล้วมันก็ลำบากใจจริง แต่บางคนอาจจะมีเหตุผลของเขา\n\nCaylie: ใช่ค่ะ บางทีอาจจะลืมหรือมีเหตุผลส่วนตัวก็ได้\n\nOliver: ใช่ครับ ยังไงก็อย่าไปคิดมากเลยนะครับ เอาเป็นว่าผมต้องขอตัวไปเช็คอะไรนิดหน่อยก่อนนะครับ\n\nCaylie: โอเคค่ะ รีบไปเถอะ\n\nKristie: เจอกันใหม่นะคะ Oliver\n\nOliver: ขอบคุณครับทุกคน!",
+    "part_4": "Lisette: สวัสดีค่ะทุกคน ฉันกลับมาแล้วค่ะ!\n\nCaylie: สวัสดีค่ะ Lisette กลับมาทันเวลาพอดีเลย\n\nKristie: ใช่ค่ะ ยินดีต้อนรับกลับค่ะ\n\nLisette: ขอบคุณค่ะทุกคน แล้วมีอะไรให้ฉันช่วยเพิ่มเติมไหมคะ?\n\nCaylie: ตอนนี้เรากำลังคุยกันเรื่องซองเงินในงานแต่งอยู่นะคะ\n\nB: โอ้ ลืมบอกไป ในงานนั้นฉันใส่เงินในซองมากกว่า 3,000 บาทเลยล่ะ\n\nLisette: โอ้ จริงเหรอคะ?\n\nA: อืม...ใช่ค่ะจริง ขอบคุณมากๆเลยนะคะ\n\nCaylie: ใช่ค่ะ ขอบคุณจริงๆเลยค่ะ B\n\nKristie: ใช่ค่ะ ขอบคุณมากๆเลยค่ะ\n\nB: ดีใจจังที่ทุกคนชอบนะ!\n\nLisette: งานนี้สนุกจริงๆค่ะ แล้วทุกคนก็ทำเต็มที่มาก\n\nCaylie: ใช่ค่ะ เรามารักษาบรรยากาศดีๆนี้กันเถอะค่ะ\n\nKristie: เห็นด้วยค่ะ ทุกคนสู้ๆนะคะ!",
+    "full_context": "Caylie: สวัสดีทุกคน! งานแต่งงานที่เชียงรายนี่สวยจริงๆเนอะ\n\nLisette: ใช่ค่ะ! บรรยากาศดีมาก แล้วก็ตรงกับวันวิสาขบูชาด้วย มีความหมายมากๆ\n\nKristie: งานนี้คึกคักจริงๆค่ะ เราต้องจัดการอะไรบ้างอีก?\n\nOliver: ตอนนี้ผมกำลังดูแลเรื่องจัดวางดอกไม้อยู่ครับ แต่ยังต้องเตรียมของชำร่วยอีก\n\nCaylie: โอเค งั้นเดี๋ยวฉันไปช่วย Oliver กับดอกไม้เอง\n\nLisette: ฉันจะจัดการเรื่องการ์ดเชิญกับที่นั่งนะ จะได้ไม่สับสน\n\nKristie: ดีเลยค่ะ ฉันจะไปช่วยจัดเตรียมอาหารกับพ่อครัว เพราะคนเริ่มเยอะแล้ว\n\nOliver: ขอบคุณทุกคนเลยครับ! งานนี้จะออกมาสวยมากๆแน่นอน\n\nCaylie: ใช่ค่ะ เรามาทำให้คู่บ่าวสาวมีความสุขที่สุดกันเถอะ\n\nLisette: เห็นด้วยค่ะ เรามาช่วยกันให้เต็มที่นะ\n\nKristie: สู้ๆค่ะทุกคน!\n\nLisette: ทุกคน ฉันต้องขอตัวกลับก่อนนะคะ มีเรื่องส่วนตัวต้องจัดการ\n\nCaylie: โอเคค่ะ Lisette ขอบคุณที่มาช่วยนะคะ\n\nKristie: เดินทางปลอดภัยนะคะ\n\nLisette: ขอบคุณค่ะทุกคน ไว้เจอกันเร็วๆนี้นะคะ\n\nOliver: อุ๊ย! ผมเพิ่งนึกขึ้นได้ว่าลืมไปรับพัสดุ ขอออกไปเดี๋ยวนี้นะครับ\n\nCaylie: ไม่เป็นไรค่ะ Oliver รีบไปเถอะ\n\nKristie: โอเคค่ะ เจอกันอีกทีนะคะ\n\nOliver: ขอบคุณครับทุกคน\n\nCaylie: ตอนนี้เหลือเราแค่สองคนแล้ว เรามาคุยเรื่องงานที่เกิดขึ้นวันนี้ดีกว่า\n\nKristie: ใช่ค่ะ ทุกคนดูทุ่มเทกันมาก แต่เราก็ต้องไม่ลืมพักผ่อนด้วยนะ\n\nCaylie: เห็นด้วยค่ะ พักสายตาสักนิด แล้วมาทำงานต่อให้ดีที่สุด\n\nKristie: ใช่ค่ะ บางทีเวลาเหนื่อยก็รู้สึกท้อแท้บ้าง แต่พอคิดถึงความสำเร็จของงานแล้วก็หายเหนื่อย\n\nCaylie: จริงค่ะ ความสำคัญคือการได้เห็นความสุขของคู่บ่าวสาวและแขกที่มา\n\nKristie: ใช่เลยค่ะ มันทำให้เราภูมิใจในสิ่งที่ทำ\n\nCaylie: งั้นเรามาทำให้ดีที่สุดกันเถอะค่ะ\n\nKristie: สู้ๆค่ะ Caylie!\n\nOliver: สวัสดีครับทุกคน ผมกลับมาแล้ว!\n\nCaylie: อ้าว Oliver กลับมาแล้ว คุยกันเรื่องเงินในซองงานแต่งดีกว่าไหม?\n\nKristie: ใช่ค่ะ เห็นคนเขาโอ้อวดกันเรื่องเงินในซองกันเยอะมาก\n\nOliver: ใช่เลยครับ บางคนให้ซองหนักมากจนดูอลังการ\n\nCaylie: แต่แอบฟังมาว่ามีคนบางคนให้แค่ซองเปล่าด้วยนะ\n\nKristie: จริงเหรอคะ? แบบนี้ก็คงจะไม่ดีเท่าไหร่นะ\n\nOliver: คิดดูแล้วมันก็ลำบากใจจริง แต่บางคนอาจจะมีเหตุผลของเขา\n\nCaylie: ใช่ค่ะ บางทีอาจจะลืมหรือมีเหตุผลส่วนตัวก็ได้\n\nOliver: ใช่ครับ ยังไงก็อย่าไปคิดมากเลยนะครับ เอาเป็นว่าผมต้องขอตัวไปเช็คอะไรนิดหน่อยก่อนนะครับ\n\nCaylie: โอเคค่ะ รีบไปเถอะ\n\nKristie: เจอกันใหม่นะคะ Oliver\n\nOliver: ขอบคุณครับทุกคน!\n\nLisette: สวัสดีค่ะทุกคน ฉันกลับมาแล้วค่ะ!\n\nCaylie: สวัสดีค่ะ Lisette กลับมาทันเวลาพอดีเลย\n\nKristie: ใช่ค่ะ ยินดีต้อนรับกลับค่ะ\n\nLisette: ขอบคุณค่ะทุกคน แล้วมีอะไรให้ฉันช่วยเพิ่มเติมไหมคะ?\n\nCaylie: ตอนนี้เรากำลังคุยกันเรื่องซองเงินในงานแต่งอยู่นะคะ\n\nB: โอ้ ลืมบอกไป ในงานนั้นฉันใส่เงินในซองมากกว่า 3,000 บาทเลยล่ะ\n\nLisette: โอ้ จริงเหรอคะ?\n\nA: อืม...ใช่ค่ะจริง ขอบคุณมากๆเลยนะคะ\n\nCaylie: ใช่ค่ะ ขอบคุณจริงๆเลยค่ะ B\n\nKristie: ใช่ค่ะ ขอบคุณมากๆเลยค่ะ\n\nB: ดีใจจังที่ทุกคนชอบนะ!\n\nLisette: งานนี้สนุกจริงๆค่ะ แล้วทุกคนก็ทำเต็มที่มาก\n\nCaylie: ใช่ค่ะ เรามารักษาบรรยากาศดีๆนี้กันเถอะค่ะ\n\nKristie: เห็นด้วยค่ะ ทุกคนสู้ๆนะคะ!",
+    "short_context": "Lisette: ทุกคน ฉันต้องขอตัวกลับก่อนนะคะ มีเรื่องส่วนตัวต้องจัดการ\n\nCaylie: โอเคค่ะ Lisette ขอบคุณที่มาช่วยนะคะ\n\nKristie: เดินทางปลอดภัยนะคะ\n\nLisette: ขอบคุณค่ะทุกคน ไว้เจอกันเร็วๆนี้นะคะ\n\nOliver: อุ๊ย! ผมเพิ่งนึกขึ้นได้ว่าลืมไปรับพัสดุ ขอออกไปเดี๋ยวนี้นะครับ\n\nCaylie: ไม่เป็นไรค่ะ Oliver รีบไปเถอะ\n\nKristie: โอเคค่ะ เจอกันอีกทีนะคะ\n\nOliver: ขอบคุณครับทุกคน\n\nCaylie: ตอนนี้เหลือเราแค่สองคนแล้ว เรามาคุยเรื่องงานที่เกิดขึ้นวันนี้ดีกว่า\n\nKristie: ใช่ค่ะ ทุกคนดูทุ่มเทกันมาก แต่เราก็ต้องไม่ลืมพักผ่อนด้วยนะ\n\nCaylie: เห็นด้วยค่ะ พักสายตาสักนิด แล้วมาทำงานต่อให้ดีที่สุด\n\nKristie: ใช่ค่ะ บางทีเวลาเหนื่อยก็รู้สึกท้อแท้บ้าง แต่พอคิดถึงความสำเร็จของงานแล้วก็หายเหนื่อย\n\nCaylie: จริงค่ะ ความสำคัญคือการได้เห็นความสุขของคู่บ่าวสาวและแขกที่มา\n\nKristie: ใช่เลยค่ะ มันทำให้เราภูมิใจในสิ่งที่ทำ\n\nCaylie: งั้นเรามาทำให้ดีที่สุดกันเถอะค่ะ\n\nKristie: สู้ๆค่ะ Caylie!\n\nOliver: สวัสดีครับทุกคน ผมกลับมาแล้ว!\n\nCaylie: อ้าว Oliver กลับมาแล้ว คุยกันเรื่องเงินในซองงานแต่งดีกว่าไหม?\n\nKristie: ใช่ค่ะ เห็นคนเขาโอ้อวดกันเรื่องเงินในซองกันเยอะมาก\n\nOliver: ใช่เลยครับ บางคนให้ซองหนักมากจนดูอลังการ\n\nCaylie: แต่แอบฟังมาว่ามีคนบางคนให้แค่ซองเปล่าด้วยนะ\n\nKristie: จริงเหรอคะ? แบบนี้ก็คงจะไม่ดีเท่าไหร่นะ\n\nOliver: คิดดูแล้วมันก็ลำบากใจจริง แต่บางคนอาจจะมีเหตุผลของเขา\n\nCaylie: ใช่ค่ะ บางทีอาจจะลืมหรือมีเหตุผลส่วนตัวก็ได้\n\nOliver: ใช่ครับ ยังไงก็อย่าไปคิดมากเลยนะครับ เอาเป็นว่าผมต้องขอตัวไปเช็คอะไรนิดหน่อยก่อนนะครับ\n\nCaylie: โอเคค่ะ รีบไปเถอะ\n\nKristie: เจอกันใหม่นะคะ Oliver\n\nOliver: ขอบคุณครับทุกคน!\n\nLisette: สวัสดีค่ะทุกคน ฉันกลับมาแล้วค่ะ!\n\nCaylie: สวัสดีค่ะ Lisette กลับมาทันเวลาพอดีเลย\n\nKristie: ใช่ค่ะ ยินดีต้อนรับกลับค่ะ\n\nLisette: ขอบคุณค่ะทุกคน แล้วมีอะไรให้ฉันช่วยเพิ่มเติมไหมคะ?\n\nCaylie: ตอนนี้เรากำลังคุยกันเรื่องซองเงินในงานแต่งอยู่นะคะ\n\nB: โอ้ ลืมบอกไป ในงานนั้นฉันใส่เงินในซองมากกว่า 3,000 บาทเลยล่ะ\n\nLisette: โอ้ จริงเหรอคะ?\n\nA: อืม...ใช่ค่ะจริง ขอบคุณมากๆเลยนะคะ\n\nCaylie: ใช่ค่ะ ขอบคุณจริงๆเลยค่ะ B\n\nKristie: ใช่ค่ะ ขอบคุณมากๆเลยค่ะ\n\nB: ดีใจจังที่ทุกคนชอบนะ!\n\nLisette: งานนี้สนุกจริงๆค่ะ แล้วทุกคนก็ทำเต็มที่มาก\n\nCaylie: ใช่ค่ะ เรามารักษาบรรยากาศดีๆนี้กันเถอะค่ะ\n\nKristie: เห็นด้วยค่ะ ทุกคนสู้ๆนะคะ!",
+    "full_context_tokens": 1180,
+    "short_context_tokens": 910,
+    "timestamp": "2025-12-14T20:33:05.532841",
+    "comprehensionQA": [
+        {
+            "question": "Was what Caylie told Lisette, 'จริง ขอบคุณมากๆเลย', true?",
+            "question_type": "comprehension",
+            "correct_answer": "No",
+            "wrong_answer": "Yes",
+            "q_id": "2-10-5-2-comprehension-0"
+        }
+    ],
+    "justificationQA": [
+        {
+            "question": "Why did Caylie tell Lisette 'จริง ขอบคุณมากๆเลย'?",
+            "question_type": "justification:liar:accompliance",
+            "correct_answer": "Caylie wanted to spare Lisette's feelings and avoid embarrassment.",
+            "wrong_answer": [
+                "Caylie genuinely appreciated Lisette's gesture and felt grateful.",
+                "Caylie didn't like Lisette and wanted to keep her at a distance.",
+                "Kristie suggested they lie to avoid an awkward confrontation."
+            ],
+            "q_id": "2-10-5-2-justification-0"
+        }
+    ],
+    "fact_reasonQA": [
+        {
+            "question": "Who discussed 'จะอับอายและแค้น'?",
+            "question_type": "fact:real_reason",
+            "correct_answer": "Caylie and Kristie talked about that.",
+            "wrong_answer": [
+                "Lisette, Kristie and Caylie talked about that.",
+                "Lisette and Caylie talked about that.",
+                "Caylie, Oliver and Kristie talked about that."
+            ],
+            "q_id": "2-10-5-2-fact_reason-0"
+        }
+    ],
+    "fact_truthQA": [
+        {
+            "question": "Who discussed 'ให้แค่ซองเปล่า'?",
+            "question_type": "fact:truth",
+            "correct_answer": "Caylie, Oliver and Kristie talked about that.",
+            "wrong_answer": [
+                "Caylie and Kristie talked about that",
+                "Oliver, Kristie and Lisette talked about that.",
+                "Oliver and Kristie talked about that"
+            ],
+            "q_id": "2-10-5-2-fact_truth-0"
+        }
+    ],
+    "beliefQAs": [
+        {
+            "question": "What does Caylie believe about 'Who discussed 'จะอับอายและแค้น'?'?",
+            "question_type": "tom:belief:accessible:reason",
+            "tom_type": "first-order:A",
+            "correct_answer": "Caylie believes that Kristie discussed จะอับอายและแค้น.",
+            "wrong_answer": [
+                "Caylie is unaware that Oliver and Lisette discussed จะอับอายและแค้น.",
+                "Caylie believes that Kristie and Oliver discussed จะอับอายและแค้น.",
+                "Caylie believes that Oliver discussed จะอับอายและแค้น."
+            ],
+            "real_reason_accessibility": "accessible",
+            "q_id": "2-10-5-2-belief-0"
+        },
+        {
+            "question": "What does Lisette believe about 'Who discussed 'จะอับอายและแค้น'?'?",
+            "question_type": "tom:belief:inaccessible:reason",
+            "tom_type": "first-order:B",
+            "correct_answer": "Lisette is unaware that Caylie and Kristie discussed จะอับอายและแค้น.",
+            "wrong_answer": [
+                "Lisette is unaware that Caylie and Oliver discussed จะอับอายและแค้น.",
+                "Lisette believes that Kristie discussed จะอับอายและแค้น.",
+                "Lisette believes that Kristie and Oliver discussed จะอับอายและแค้น."
+            ],
+            "real_reason_accessibility": "inaccessible",
+            "q_id": "2-10-5-2-belief-1"
+        },
+        {
+            "question": "What does Kristie believe about 'Who discussed 'จะอับอายและแค้น'?'?",
+            "question_type": "tom:belief:accessible:reason",
+            "tom_type": "first-order:C",
+            "correct_answer": "Kristie believes that Caylie discussed จะอับอายและแค้น.",
+            "wrong_answer": [
+                "Kristie believes that Oliver and Caylie discussed จะอับอายและแค้น.",
+                "Kristie is unaware that Caylie discussed จะอับอายและแค้น.",
+                "Kristie is unaware that Oliver and Caylie discussed จะอับอายและแค้น."
+            ],
+            "real_reason_accessibility": "accessible",
+            "q_id": "2-10-5-2-belief-2"
+        },
+        {
+            "question": "What does Lisette believe about Oliver's belief regarding 'Who discussed 'จะอับอายและแค้น'?'?",
+            "question_type": "tom:belief:inaccessible:reason",
+            "tom_type": "second-order:BD",
+            "correct_answer": "The text provides no information on what Lisette believes about Oliver's belief regarding that. Therefore, it can be stated that Lisette is unaware that Oliver is unaware that จะอับอายและแค้น.",
+            "wrong_answer": [
+                "The text provides no information on what Lisette believes about Oliver's belief regarding that. Therefore, it can be stated that Lisette is unaware that Oliver believes that จะอับอายและแค้น.",
+                "Lisette believes that Oliver is unaware that จะอับอายและแค้น, because Oliver was not involved in the conversation when this was discussed.",
+                "Lisette believes that Oliver believes that จะอับอายและแค้น."
+            ],
+            "missed_info_accessibility": "inaccessible",
+            "q_id": "2-10-5-2-belief-3"
+        },
+        {
+            "question": "What does Kristie believe about Caylie's belief regarding 'Who discussed 'จะอับอายและแค้น'?'?",
+            "question_type": "tom:belief:accessible:reason",
+            "tom_type": "second-order:CA",
+            "correct_answer": "Kristie believes that Caylie believes that จะอับอายและแค้น.",
+            "wrong_answer": [
+                "Kristie believes that Caylie is unaware that จะอับอายและแค้น, because Caylie was not involved in the conversation when this was discussed.",
+                "The text provides no information on what Kristie believes about Caylie's belief regarding that. Therefore, it can be stated that Kristie is unaware that Caylie is unaware that จะอับอายและแค้น.",
+                "The text provides no information on what Kristie believes about Caylie's belief regarding that. Therefore, it can be stated that Kristie is unaware that Caylie believes that จะอับอายและแค้น."
+            ],
+            "real_reason_accessibility": "accessible",
+            "q_id": "2-10-5-2-belief-4"
+        },
+        {
+            "question": "What does Kristie believe about Lisette's belief regarding 'Who discussed 'จะอับอายและแค้น'?'?",
+            "question_type": "tom:belief:accessible:reason",
+            "tom_type": "second-order:CB",
+            "correct_answer": "Kristie believes that Lisette is unaware that จะอับอายและแค้น, because Lisette was not involved in the conversation when this was discussed.",
+            "wrong_answer": [
+                "Kristie believes that Lisette believes that จะอับอายและแค้น.",
+                "The text provides no information on what Kristie believes about Lisette's belief regarding that. Therefore, it can be stated that Kristie is unaware that Lisette is unaware that จะอับอายและแค้น.",
+                "The text provides no information on what Kristie believes about Lisette's belief regarding that. Therefore, it can be stated that Kristie is unaware that Lisette believes that จะอับอายและแค้น."
+            ],
+            "real_reason_accessibility": "accessible",
+            "q_id": "2-10-5-2-belief-5"
+        },
+        {
+            "question": "What does Kristie believe about Oliver's belief regarding 'Who discussed 'จะอับอายและแค้น'?'?",
+            "question_type": "tom:belief:accessible:reason",
+            "tom_type": "second-order:CD",
+            "correct_answer": "Kristie believes that Oliver is unaware that จะอับอายและแค้น, because Oliver was not involved in the conversation when this was discussed.",
+            "wrong_answer": [
+                "Kristie believes that Oliver believes that จะอับอายและแค้น.",
+                "The text provides no information on what Kristie believes about Oliver's belief regarding that. Therefore, it can be stated that Kristie is unaware that Lisette is unaware that จะอับอายและแค้น.",
+                "The text provides no information on what Kristie believes about Oliver's belief regarding that. Therefore, it can be stated that Kristie is unaware that Lisette believes that จะอับอายและแค้น."
+            ],
+            "real_reason_accessibility": "accessible",
+            "q_id": "2-10-5-2-belief-6"
+        }
+    ],
+    "infoAccessibilityQA_list": [
+        {
+            "information": "Who discussed 'จะอับอายและแค้น'?",
+            "question": "List all the characters who have access to this information.",
+            "question_type": "tom:info_accessibility:list:real_reason",
+            "correct_answer": [
+                "Caylie",
+                "Kristie"
+            ],
+            "wrong_answer": [
+                "Lisette",
+                "Oliver"
+            ],
+            "q_id": "2-10-5-2-info_access_list-0"
+        },
+        {
+            "information": "Who discussed 'ให้แค่ซองเปล่า'?",
+            "question": "List all the characters who have access to this information.",
+            "question_type": "tom:info_accessibility:list:truth",
+            "correct_answer": [
+                "Caylie",
+                "Oliver",
+                "Kristie"
+            ],
+            "wrong_answer": [
+                "Lisette"
+            ],
+            "q_id": "2-10-5-2-info_access_list-1"
+        }
+    ],
+    "infoAccessibilityQAs_binary": [
+        {
+            "information": "Who discussed 'จะอับอายและแค้น'?",
+            "question": "Does Caylie have access to this information?",
+            "question_type": "tom:info_accessibility:binary:real_reason",
+            "correct_answer": "yes",
+            "q_id": "2-10-5-2-info_access_binary-0"
+        },
+        {
+            "information": "Who discussed 'จะอับอายและแค้น'?",
+            "question": "Does Lisette have access to this information?",
+            "question_type": "tom:info_accessibility:binary:real_reason",
+            "correct_answer": "no",
+            "q_id": "2-10-5-2-info_access_binary-1"
+        },
+        {
+            "information": "Who discussed 'จะอับอายและแค้น'?",
+            "question": "Does Kristie have access to this information?",
+            "question_type": "tom:info_accessibility:binary:real_reason",
+            "correct_answer": "yes",
+            "q_id": "2-10-5-2-info_access_binary-2"
+        },
+        {
+            "information": "Who discussed 'จะอับอายและแค้น'?",
+            "question": "Does Oliver have access to this information?",
+            "question_type": "tom:info_accessibility:binary:real_reason",
+            "correct_answer": "no",
+            "q_id": "2-10-5-2-info_access_binary-3"
+        },
+        {
+            "information": "Who discussed 'ให้แค่ซองเปล่า'?",
+            "question": "Does Caylie have access to this information?",
+            "question_type": "tom:info_accessibility:binary:truth",
+            "correct_answer": "yes",
+            "q_id": "2-10-5-2-info_access_binary-4"
+        },
+        {
+            "information": "Who discussed 'ให้แค่ซองเปล่า'?",
+            "question": "Does Lisette have access to this information?",
+            "question_type": "tom:info_accessibility:binary:truth",
+            "correct_answer": "no",
+            "q_id": "2-10-5-2-info_access_binary-5"
+        },
+        {
+            "information": "Who discussed 'ให้แค่ซองเปล่า'?",
+            "question": "Does Kristie have access to this information?",
+            "question_type": "tom:info_accessibility:binary:truth",
+            "correct_answer": "yes",
+            "q_id": "2-10-5-2-info_access_binary-6"
+        },
+        {
+            "information": "Who discussed 'ให้แค่ซองเปล่า'?",
+            "question": "Does Oliver have access to this information?",
+            "question_type": "tom:info_accessibility:binary:truth",
+            "correct_answer": "yes",
+            "q_id": "2-10-5-2-info_access_binary-7"
+        }
+    ],
+    "answerabilityQA_list": [
+        {
+            "fact_question_real_reason": "Who discussed 'จะอับอายและแค้น'?",
+            "question": "List all the characters who know the precise correct answer to this question.",
+            "question_type": "tom:answerability:list:real_reason",
+            "correct_answer": [
+                "Caylie",
+                "Kristie"
+            ],
+            "wrong_answer": [
+                "Lisette",
+                "Oliver"
+            ],
+            "q_id": "2-10-5-2-answerability_list-0"
+        },
+        {
+            "fact_question_truth": "Who discussed 'ให้แค่ซองเปล่า'?",
+            "question": "List all the characters who know the precise correct answer to this question.",
+            "question_type": "tom:answerability:list:truth",
+            "correct_answer": [
+                "Caylie",
+                "Oliver",
+                "Kristie"
+            ],
+            "wrong_answer": [
+                "Lisette"
+            ],
+            "q_id": "2-10-5-2-answerability_list-1"
+        }
+    ],
+    "answerabilityQAs_binary": [
+        {
+            "fact_question_real_reason": "Who discussed 'จะอับอายและแค้น'?",
+            "question": "Does Caylie know the precise correct answer to this question?",
+            "question_type": "tom:answerability:binary:real_reason",
+            "correct_answer": "yes",
+            "q_id": "2-10-5-2-answerability_binary-0"
+        },
+        {
+            "fact_question_real_reason": "Who discussed 'จะอับอายและแค้น'?",
+            "question": "Does Lisette know the precise correct answer to this question?",
+            "question_type": "tom:answerability:binary:real_reason",
+            "correct_answer": "no",
+            "q_id": "2-10-5-2-answerability_binary-1"
+        },
+        {
+            "fact_question_real_reason": "Who discussed 'จะอับอายและแค้น'?",
+            "question": "Does Kristie know the precise correct answer to this question?",
+            "question_type": "tom:answerability:binary:real_reason",
+            "correct_answer": "yes",
+            "q_id": "2-10-5-2-answerability_binary-2"
+        },
+        {
+            "fact_question_real_reason": "Who discussed 'จะอับอายและแค้น'?",
+            "question": "Does Oliver know the precise correct answer to this question?",
+            "question_type": "tom:answerability:binary:real_reason",
+            "correct_answer": "no",
+            "q_id": "2-10-5-2-answerability_binary-3"
+        },
+        {
+            "fact_question_truth": "Who discussed 'ให้แค่ซองเปล่า'?",
+            "question": "Does Caylie know the precise correct answer to this question?",
+            "question_type": "tom:answerability:binary:truth",
+            "correct_answer": "yes",
+            "q_id": "2-10-5-2-answerability_binary-4"
+        },
+        {
+            "fact_question_truth": "Who discussed 'ให้แค่ซองเปล่า'?",
+            "question": "Does Lisette know the precise correct answer to this question?",
+            "question_type": "tom:answerability:binary:truth",
+            "correct_answer": "no",
+            "q_id": "2-10-5-2-answerability_binary-5"
+        },
+        {
+            "fact_question_truth": "Who discussed 'ให้แค่ซองเปล่า'?",
+            "question": "Does Kristie know the precise correct answer to this question?",
+            "question_type": "tom:answerability:binary:truth",
+            "correct_answer": "yes",
+            "q_id": "2-10-5-2-answerability_binary-6"
+        },
+        {
+            "fact_question_truth": "Who discussed 'ให้แค่ซองเปล่า'?",
+            "question": "Does Oliver know the precise correct answer to this question?",
+            "question_type": "tom:answerability:binary:truth",
+            "correct_answer": "yes",
+            "q_id": "2-10-5-2-answerability_binary-7"
+        }
+    ],
+    "liedetectabilityQAs_list": [
+        {
+            "comprehension_q": "Was what Caylie told Lisette, 'จริง ขอบคุณมากๆเลย', true?",
+            "question": "List all the characters who know the precise correct answer to this question.",
+            "question_type": "tom:liedetectability:list",
+            "correct_answer": [
+                "Caylie",
+                "Kristie"
+            ],
+            "wrong_answer": [
+                "Lisette",
+                "Oliver"
+            ],
+            "q_id": "2-10-5-2-liedetect_list-0"
+        }
+    ],
+    "liedetectabilityQAs_binary": [
+        {
+            "comprehension_q": "Was what Caylie told Lisette, 'จริง ขอบคุณมากๆเลย', true?",
+            "question": "Does Caylie know the precise correct answer to this question?",
+            "question_type": "tom:liedetectability:binary",
+            "correct_answer": "yes",
+            "q_id": "2-10-5-2-liedetect_binary-0"
+        },
+        {
+            "comprehension_q": "Was what Caylie told Lisette, 'จริง ขอบคุณมากๆเลย', true?",
+            "question": "Does Lisette know the precise correct answer to this question?",
+            "question_type": "tom:liedetectability:binary",
+            "correct_answer": "no",
+            "q_id": "2-10-5-2-liedetect_binary-1"
+        },
+        {
+            "comprehension_q": "Was what Caylie told Lisette, 'จริง ขอบคุณมากๆเลย', true?",
+            "question": "Does Kristie know the precise correct answer to this question?",
+            "question_type": "tom:liedetectability:binary",
+            "correct_answer": "yes",
+            "q_id": "2-10-5-2-liedetect_binary-2"
+        },
+        {
+            "comprehension_q": "Was what Caylie told Lisette, 'จริง ขอบคุณมากๆเลย', true?",
+            "question": "Does Oliver know the precise correct answer to this question?",
+            "question_type": "tom:liedetectability:binary",
+            "correct_answer": "no",
+            "q_id": "2-10-5-2-liedetect_binary-3"
+        }
+    ],
+    "lieabilityQAs": [
+        {
+            "question": "Please choose the correct answer from the options below:",
+            "question_type": "tom:lieability:liar:real_reason",
+            "correct_answer": "Caylie tell Lisette that 'จริง ขอบคุณมากๆเลย' because Caylie believes that Lisette is unaware that จะอับอายและแค้น.",
+            "wrong_answer": [
+                "Caylie tell Lisette that 'จริง ขอบคุณมากๆเลย' because Caylie believes that Lisette believes จะอับอายและแค้น.",
+                "Caylie tell Lisette that 'จริง ขอบคุณมากๆเลย' because Caylie is unaware that Lisette is unaware that จะอับอายและแค้น.",
+                "Caylie tell Lisette that 'จริง ขอบคุณมากๆเลย' because Caylie is unaware that Lisette believes จะอับอายและแค้น."
+            ],
+            "q_id": "2-10-5-2-lieability-0"
+        },
+        {
+            "question": "Please choose the correct answer from the options below:",
+            "question_type": "tom:lieability:liar:truth",
+            "correct_answer": "Caylie tell Lisette that 'จริง ขอบคุณมากๆเลย' because Caylie believes that Lisette is unaware that ให้แค่ซองเปล่า.",
+            "wrong_answer": [
+                "Caylie tell Lisette that 'จริง ขอบคุณมากๆเลย' because Caylie believes that Lisette believes ให้แค่ซองเปล่า.",
+                "Caylie tell Lisette that 'จริง ขอบคุณมากๆเลย' because Caylie is unaware that Lisette is unaware that ให้แค่ซองเปล่า.",
+                "Caylie tell Lisette that 'จริง ขอบคุณมากๆเลย' because Caylie is unaware that Lisette believes ให้แค่ซองเปล่า."
+            ],
+            "q_id": "2-10-5-2-lieability-1"
+        }
+    ]
+}

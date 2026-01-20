@@ -1,0 +1,1751 @@
+[
+  {
+    "setup_file": "",
+    "language": "en",
+    "set_id": "2-3-1-0-0",
+    "lie_id": "0-0",
+    "conv_id": 1,
+    "truth_id": 0,
+    "lie_type": "Fear respect",
+    "emotion": "Angry",
+    "falsification": "-",
+    "multiple_liar": false,
+    "real_reason_type": true,
+    "topic": {
+      "scenario": "Hospital Staff Lyndariefing",
+      "situation_topic": "a patient complaint.",
+      "situation": "Lynda asks Avelyn about patient's complaint but previously, Lynda cut staffing for the night shift, leading to Avelyn handling too many patients.",
+      "lie_objective": "Avelynvoid discipline.",
+      "leave_reason_B": "need to briefly leave to verify appointment details",
+      "leave_reason_D_1": "have to check on something",
+      "leave_reason_D_2": "forgot to print some documents"
+    },
+    "relationship": "Medical team: Kerry, Clinton are coworkers of Avelyn, Lynda admin of Avelyn",
+    "characters": {
+      "liar": "Avelyn",
+      "target": "Lynda",
+      "accomplice": "Kerry",
+      "observer": "Clinton"
+    },
+    "character_roles": "Medical team: Kerry, Clinton are coworkers of Avelyn, Lynda admin of Avelyn",
+    "lie": {
+      "real_reason_c": "Lynda could suspend because Lynda made an earlier scheduling error.",
+      "lie_c": "It was a rare allergic reaction, not preventable.",
+      "truth_c": ""
+    },
+    "entity": {
+      "PLACE": 0,
+      "PERSON": 0,
+      "ORGANISM": 0,
+      "ARTIFACT/OBJECT": 0,
+      "TRADITION/EVENT": 0,
+      "ORGANIZATION": 0,
+      "FOOD": 0,
+      "TIME": 0
+    },
+    "part_1": "Avelyn: Alright, everyone, thanks for gathering here. I know it's been a hectic week, but we need to go over a few important updates for the upcoming shifts.\n\nLynda: Absolutely, Avelyn. We need to ensure everything's in place, especially with the new protocols coming into effect next week.\n\nKerry: I've been reviewing those protocols, and I think we might need to adjust our current patient flow to accommodate them. It could get tricky during peak hours.\n\nClinton: I agree with Kerry. We should probably run a few simulations to see how the changes might impact our efficiency. Better to be prepared than caught off guard.\n\nAvelyn: Good points, both of you. Lynda, do you think we can arrange some time for a simulation session before the weekend?\n\nLynda: I'll check the schedule and see where we can fit it in. We might have to shuffle a few things around, but it’s doable.\n\nKerry: Great. Also, I wanted to bring up the issue with the supply chain. We've been experiencing delays, and it's starting to affect our inventory levels.\n\nClinton: Yeah, I noticed that too. Some of our essential supplies are running low. We need to address this before it becomes a bigger problem.\n\nAvelyn: Lynda, can you look into this and see if there's anything we can do to expedite the process?\n\nLynda: Of course. I'll contact our suppliers and see if we can get any updates or prioritize our orders.\n\nKerry: Thanks, Lynda. It's crucial we stay on top of this. We can't afford to run out of critical supplies.\n\nClinton: On a lighter note, I heard there's a team-building event planned for next month. Any details on that, Lynda?\n\nLynda: Yes, we're organizing a small retreat. It's a chance for everyone to unwind and strengthen our teamwork. More details will be sent out soon.\n\nAvelyn: Sounds like a great idea. We could all use a little break and some fun. Alright, if there’s nothing else, let’s get back to our duties. Thanks, everyone.\n\nKerry: Thanks, Avelyn. Let’s make sure we’re all set for the changes.\n\nClinton: Agreed. Let’s keep the momentum going.\n\nLynda: I’ll follow up on the action items. Have a good shift, everyone!",
+    "part_2": "Lynda: I’ll follow up on the action items. Have a good shift, everyone! Oh, I need to step out for a moment to verify some appointment details. I'll be back shortly.\n\nClinton: And I have to check on something real quick. Catch you both later.\n\nAvelyn: Alright, see you both soon. Kerry, while it's just us, I wanted to discuss something about Lynda. I noticed there was a mix-up with the schedule last week.\n\nKerry: Yeah, I remember that. It caused a bit of confusion with the shifts. Do you think it might be worth having a chat with her about it?\n\nAvelyn: I think so. It’s important we address it before it becomes a recurring issue. Maybe we can offer some support or resources to help her manage the scheduling better.\n\nKerry: That sounds like a good plan. Lynda’s usually on top of things, so it might just be a one-off mistake. But it’s better to be proactive.\n\nAvelyn: Exactly. I’ll bring it up with her once she’s back. We all make mistakes, but it’s crucial to learn from them and improve.\n\nKerry: Agreed. And who knows, maybe there are some tools or strategies we can suggest to make her job easier.\n\nAvelyn: Definitely. Let’s keep an open mind and see how we can help. Thanks for your input, Kerry. It’s always good to have your perspective.\n\nKerry: Anytime, Avelyn. We’re all in this together, after all.",
+    "part_3": "Clinton: Hey, I'm back. Did I miss anything important?\n\nAvelyn: Not much, Clinton. We were just discussing some internal matters. But since you're here, I wanted to talk about a patient complaint we received yesterday.\n\nClinton: Oh, really? What happened?\n\nKerry: It seems there was a mix-up with a medication order. The patient was understandably upset, and we need to ensure it doesn’t happen again.\n\nClinton: That's concerning. Do we know how the mix-up occurred?\n\nAvelyn: We're still looking into it, but it seems like a communication error between the pharmacy and our team. We need to tighten our processes.\n\nKerry: Maybe we should have a meeting with the pharmacy staff to discuss how we can improve coordination.\n\nClinton: Agreed. It's crucial we address this quickly. I’ll make a note to follow up on it.\n\nAvelyn: Thanks, Clinton. Your input is always valuable. \n\nClinton: No problem. Oh, I just remembered—I forgot to print some documents I need for later. I have to leave again now, but I'll be back soon.\n\nAvelyn: Alright, Clinton. We'll catch up later.\n\nKerry: See you, Clinton. Let us know if you need any help with those documents.\n\nClinton: Will do. Thanks, both of you.",
+    "part_4": "Lynda: Hey, I'm back. Sorry for the delay. Did I miss anything?\n\nAvelyn: Welcome back, Lynda. We were just wrapping up a few things.\n\nLynda: Great. By the way, I heard there was a patient complaint yesterday. Do you know what happened?\n\nAvelyn: Yes, there was an issue, but it turned out to be a rare allergic reaction. It wasn't something we could have prevented.\n\nKerry: Exactly. We looked into it, and everything was handled according to protocol. Just one of those unpredictable situations.\n\nLynda: Oh, I see. That's a relief to hear. I was worried it might have been related to the staffing adjustments I made.\n\nAvelyn: No, it wasn't related to that. We managed fine, even with the changes. \n\nKerry: Yeah, the team pulled together well. No need to worry about the adjustments.\n\nLynda: Thanks for clarifying. I appreciate you both handling it so smoothly.",
+    "full_context": "Avelyn: Alright, everyone, thanks for gathering here. I know it's been a hectic week, but we need to go over a few important updates for the upcoming shifts.\n\nLynda: Absolutely, Avelyn. We need to ensure everything's in place, especially with the new protocols coming into effect next week.\n\nKerry: I've been reviewing those protocols, and I think we might need to adjust our current patient flow to accommodate them. It could get tricky during peak hours.\n\nClinton: I agree with Kerry. We should probably run a few simulations to see how the changes might impact our efficiency. Better to be prepared than caught off guard.\n\nAvelyn: Good points, both of you. Lynda, do you think we can arrange some time for a simulation session before the weekend?\n\nLynda: I'll check the schedule and see where we can fit it in. We might have to shuffle a few things around, but it’s doable.\n\nKerry: Great. Also, I wanted to bring up the issue with the supply chain. We've been experiencing delays, and it's starting to affect our inventory levels.\n\nClinton: Yeah, I noticed that too. Some of our essential supplies are running low. We need to address this before it becomes a bigger problem.\n\nAvelyn: Lynda, can you look into this and see if there's anything we can do to expedite the process?\n\nLynda: Of course. I'll contact our suppliers and see if we can get any updates or prioritize our orders.\n\nKerry: Thanks, Lynda. It's crucial we stay on top of this. We can't afford to run out of critical supplies.\n\nClinton: On a lighter note, I heard there's a team-building event planned for next month. Any details on that, Lynda?\n\nLynda: Yes, we're organizing a small retreat. It's a chance for everyone to unwind and strengthen our teamwork. More details will be sent out soon.\n\nAvelyn: Sounds like a great idea. We could all use a little break and some fun. Alright, if there’s nothing else, let’s get back to our duties. Thanks, everyone.\n\nKerry: Thanks, Avelyn. Let’s make sure we’re all set for the changes.\n\nClinton: Agreed. Let’s keep the momentum going.\n\nLynda: I’ll follow up on the action items. Have a good shift, everyone!\n\nLynda: I’ll follow up on the action items. Have a good shift, everyone! Oh, I need to step out for a moment to verify some appointment details. I'll be back shortly.\n\nClinton: And I have to check on something real quick. Catch you both later.\n\nAvelyn: Alright, see you both soon. Kerry, while it's just us, I wanted to discuss something about Lynda. I noticed there was a mix-up with the schedule last week.\n\nKerry: Yeah, I remember that. It caused a bit of confusion with the shifts. Do you think it might be worth having a chat with her about it?\n\nAvelyn: I think so. It’s important we address it before it becomes a recurring issue. Maybe we can offer some support or resources to help her manage the scheduling better.\n\nKerry: That sounds like a good plan. Lynda’s usually on top of things, so it might just be a one-off mistake. But it’s better to be proactive.\n\nAvelyn: Exactly. I’ll bring it up with her once she’s back. We all make mistakes, but it’s crucial to learn from them and improve.\n\nKerry: Agreed. And who knows, maybe there are some tools or strategies we can suggest to make her job easier.\n\nAvelyn: Definitely. Let’s keep an open mind and see how we can help. Thanks for your input, Kerry. It’s always good to have your perspective.\n\nKerry: Anytime, Avelyn. We’re all in this together, after all.\n\nClinton: Hey, I'm back. Did I miss anything important?\n\nAvelyn: Not much, Clinton. We were just discussing some internal matters. But since you're here, I wanted to talk about a patient complaint we received yesterday.\n\nClinton: Oh, really? What happened?\n\nKerry: It seems there was a mix-up with a medication order. The patient was understandably upset, and we need to ensure it doesn’t happen again.\n\nClinton: That's concerning. Do we know how the mix-up occurred?\n\nAvelyn: We're still looking into it, but it seems like a communication error between the pharmacy and our team. We need to tighten our processes.\n\nKerry: Maybe we should have a meeting with the pharmacy staff to discuss how we can improve coordination.\n\nClinton: Agreed. It's crucial we address this quickly. I’ll make a note to follow up on it.\n\nAvelyn: Thanks, Clinton. Your input is always valuable. \n\nClinton: No problem. Oh, I just remembered—I forgot to print some documents I need for later. I have to leave again now, but I'll be back soon.\n\nAvelyn: Alright, Clinton. We'll catch up later.\n\nKerry: See you, Clinton. Let us know if you need any help with those documents.\n\nClinton: Will do. Thanks, both of you.\n\nLynda: Hey, I'm back. Sorry for the delay. Did I miss anything?\n\nAvelyn: Welcome back, Lynda. We were just wrapping up a few things.\n\nLynda: Great. By the way, I heard there was a patient complaint yesterday. Do you know what happened?\n\nAvelyn: Yes, there was an issue, but it turned out to be a rare allergic reaction. It wasn't something we could have prevented.\n\nKerry: Exactly. We looked into it, and everything was handled according to protocol. Just one of those unpredictable situations.\n\nLynda: Oh, I see. That's a relief to hear. I was worried it might have been related to the staffing adjustments I made.\n\nAvelyn: No, it wasn't related to that. We managed fine, even with the changes. \n\nKerry: Yeah, the team pulled together well. No need to worry about the adjustments.\n\nLynda: Thanks for clarifying. I appreciate you both handling it so smoothly.",
+    "short_context": "Lynda: I’ll follow up on the action items. Have a good shift, everyone! Oh, I need to step out for a moment to verify some appointment details. I'll be back shortly.\n\nClinton: And I have to check on something real quick. Catch you both later.\n\nAvelyn: Alright, see you both soon. Kerry, while it's just us, I wanted to discuss something about Lynda. I noticed there was a mix-up with the schedule last week.\n\nKerry: Yeah, I remember that. It caused a bit of confusion with the shifts. Do you think it might be worth having a chat with her about it?\n\nAvelyn: I think so. It’s important we address it before it becomes a recurring issue. Maybe we can offer some support or resources to help her manage the scheduling better.\n\nKerry: That sounds like a good plan. Lynda’s usually on top of things, so it might just be a one-off mistake. But it’s better to be proactive.\n\nAvelyn: Exactly. I’ll bring it up with her once she’s back. We all make mistakes, but it’s crucial to learn from them and improve.\n\nKerry: Agreed. And who knows, maybe there are some tools or strategies we can suggest to make her job easier.\n\nAvelyn: Definitely. Let’s keep an open mind and see how we can help. Thanks for your input, Kerry. It’s always good to have your perspective.\n\nKerry: Anytime, Avelyn. We’re all in this together, after all.\n\nClinton: Hey, I'm back. Did I miss anything important?\n\nAvelyn: Not much, Clinton. We were just discussing some internal matters. But since you're here, I wanted to talk about a patient complaint we received yesterday.\n\nClinton: Oh, really? What happened?\n\nKerry: It seems there was a mix-up with a medication order. The patient was understandably upset, and we need to ensure it doesn’t happen again.\n\nClinton: That's concerning. Do we know how the mix-up occurred?\n\nAvelyn: We're still looking into it, but it seems like a communication error between the pharmacy and our team. We need to tighten our processes.\n\nKerry: Maybe we should have a meeting with the pharmacy staff to discuss how we can improve coordination.\n\nClinton: Agreed. It's crucial we address this quickly. I’ll make a note to follow up on it.\n\nAvelyn: Thanks, Clinton. Your input is always valuable. \n\nClinton: No problem. Oh, I just remembered—I forgot to print some documents I need for later. I have to leave again now, but I'll be back soon.\n\nAvelyn: Alright, Clinton. We'll catch up later.\n\nKerry: See you, Clinton. Let us know if you need any help with those documents.\n\nClinton: Will do. Thanks, both of you.\n\nLynda: Hey, I'm back. Sorry for the delay. Did I miss anything?\n\nAvelyn: Welcome back, Lynda. We were just wrapping up a few things.\n\nLynda: Great. By the way, I heard there was a patient complaint yesterday. Do you know what happened?\n\nAvelyn: Yes, there was an issue, but it turned out to be a rare allergic reaction. It wasn't something we could have prevented.\n\nKerry: Exactly. We looked into it, and everything was handled according to protocol. Just one of those unpredictable situations.\n\nLynda: Oh, I see. That's a relief to hear. I was worried it might have been related to the staffing adjustments I made.\n\nAvelyn: No, it wasn't related to that. We managed fine, even with the changes. \n\nKerry: Yeah, the team pulled together well. No need to worry about the adjustments.\n\nLynda: Thanks for clarifying. I appreciate you both handling it so smoothly.",
+    "full_context_tokens": 1288,
+    "short_context_tokens": 801,
+    "comprehensionQA": [
+      {
+        "question": "Was what Avelyn told Lynda, 'It was a rare allergic reaction, not preventable', true?",
+        "question_type": "comprehension",
+        "correct_answer": "No",
+        "wrong_answer": "Yes",
+        "q_id": "2-3-1-0-0-comprehension-0"
+      }
+    ],
+    "justificationQA": [
+      {
+        "question": "Why did Avelyn tell Lynda 'It was a rare allergic reaction'?",
+        "question_type": "justification:liar:accompliance",
+        "correct_answer": "To prevent Lynda from feeling guilty about her earlier scheduling error.",
+        "wrong_answer": [
+          "Because it was truly a rare allergic reaction that couldn't be prevented.",
+          "Avelyn was annoyed with Lynda and wanted to avoid dealing with her.",
+          "Kerry suggested they blame an allergy to keep things simple."
+        ],
+        "q_id": "2-3-1-0-0-justification-0"
+      }
+    ],
+    "fact_reasonQA": [
+      {
+        "question": "Who discussed 'Lynda could suspend because Lynda made an earlier scheduling error'?",
+        "question_type": "fact:real_reason",
+        "correct_answer": "Avelyn and Kerry talked about that.",
+        "wrong_answer": [
+          "Kerry and Lynda talked about that.",
+          "Lynda and Avelyn talked about that.",
+          "Clinton and Kerry talked about that."
+        ],
+        "q_id": "2-3-1-0-0-fact_reason-0"
+      }
+    ],
+    "fact_truthQA": [],
+    "beliefQAs": [
+      {
+        "question": "What does Avelyn believe about 'Who discussed 'Lynda could suspend because Lynda made an earlier scheduling error'?'?",
+        "question_type": "tom:belief:accessible:reason",
+        "tom_type": "first-order:A",
+        "correct_answer": "Avelyn believes that Kerry discussed Lynda could suspend because Lynda made an earlier scheduling error.",
+        "wrong_answer": [
+          "Avelyn is unaware that Clinton discussed Lynda could suspend because Lynda made an earlier scheduling error.",
+          "Avelyn believes that Kerry and Lynda discussed Lynda could suspend because Lynda made an earlier scheduling error.",
+          "Avelyn believes that Clinton discussed Lynda could suspend because Lynda made an earlier scheduling error."
+        ],
+        "real_reason_accessibility": "accessible",
+        "q_id": "2-3-1-0-0-belief-0"
+      },
+      {
+        "question": "What does Lynda believe about 'Who discussed 'Lynda could suspend because Lynda made an earlier scheduling error'?'?",
+        "question_type": "tom:belief:inaccessible:reason",
+        "tom_type": "first-order:B",
+        "correct_answer": "Lynda is unaware that Avelyn and Kerry discussed Lynda could suspend because Lynda made an earlier scheduling error.",
+        "wrong_answer": [
+          "Lynda is unaware that Clinton discussed Lynda could suspend because Lynda made an earlier scheduling error.",
+          "Lynda believes that Avelyn and Kerry discussed Lynda could suspend because Lynda made an earlier scheduling error.",
+          "Lynda believes that Clinton discussed Lynda could suspend because Lynda made an earlier scheduling error."
+        ],
+        "real_reason_accessibility": "inaccessible",
+        "q_id": "2-3-1-0-0-belief-1"
+      },
+      {
+        "question": "What does Kerry believe about 'Who discussed 'Lynda could suspend because Lynda made an earlier scheduling error'?'?",
+        "question_type": "tom:belief:accessible:reason",
+        "tom_type": "first-order:C",
+        "correct_answer": "Kerry believes that Avelyn discussed Lynda could suspend because Lynda made an earlier scheduling error.",
+        "wrong_answer": [
+          "Kerry believes that Lynda discussed Lynda could suspend because Lynda made an earlier scheduling error.",
+          "Kerry is unaware that Avelyn discussed Lynda could suspend because Lynda made an earlier scheduling error.",
+          "Kerry is unaware that Lynda discussed Lynda could suspend because Lynda made an earlier scheduling error."
+        ],
+        "real_reason_accessibility": "accessible",
+        "q_id": "2-3-1-0-0-belief-2"
+      },
+      {
+        "question": "What does Lynda believe about Clinton's belief regarding 'Who discussed 'Lynda could suspend because Lynda made an earlier scheduling error'?'?",
+        "question_type": "tom:belief:inaccessible:reason",
+        "tom_type": "second-order:BD",
+        "correct_answer": "The text provides no information on what Lynda believes about Clinton's belief regarding that. Therefore, it can be stated that Lynda is unaware that Clinton is unaware that Lynda could suspend because Lynda made an earlier scheduling error.",
+        "wrong_answer": [
+          "The text provides no information on what Lynda believes about Clinton's belief regarding that. Therefore, it can be stated that Lynda is unaware that Clinton believes that Lynda could suspend because Lynda made an earlier scheduling error.",
+          "Lynda believes that Clinton is unaware that Lynda could suspend because Lynda made an earlier scheduling error, because Clinton was not involved in the conversation when this was discussed.",
+          "Lynda believes that Clinton believes that Lynda could suspend because Lynda made an earlier scheduling error."
+        ],
+        "missed_info_accessibility": "inaccessible",
+        "q_id": "2-3-1-0-0-belief-3"
+      },
+      {
+        "question": "What does Kerry believe about Avelyn's belief regarding 'Who discussed 'Lynda could suspend because Lynda made an earlier scheduling error'?'?",
+        "question_type": "tom:belief:accessible:reason",
+        "tom_type": "second-order:CA",
+        "correct_answer": "Kerry believes that Avelyn believes that Lynda could suspend because Lynda made an earlier scheduling error.",
+        "wrong_answer": [
+          "Kerry believes that Avelyn is unaware that Lynda could suspend because Lynda made an earlier scheduling error, because Avelyn was not involved in the conversation when this was discussed.",
+          "The text provides no information on what Kerry believes about Avelyn's belief regarding that. Therefore, it can be stated that Kerry is unaware that Avelyn is unaware that Lynda could suspend because Lynda made an earlier scheduling error.",
+          "The text provides no information on what Kerry believes about Avelyn's belief regarding that. Therefore, it can be stated that Kerry is unaware that Avelyn believes that Lynda could suspend because Lynda made an earlier scheduling error."
+        ],
+        "real_reason_accessibility": "accessible",
+        "q_id": "2-3-1-0-0-belief-4"
+      },
+      {
+        "question": "What does Kerry believe about Lynda's belief regarding 'Who discussed 'Lynda could suspend because Lynda made an earlier scheduling error'?'?",
+        "question_type": "tom:belief:accessible:reason",
+        "tom_type": "second-order:CB",
+        "correct_answer": "Kerry believes that Lynda is unaware that Lynda could suspend because Lynda made an earlier scheduling error, because Lynda was not involved in the conversation when this was discussed.",
+        "wrong_answer": [
+          "Kerry believes that Lynda believes that Lynda could suspend because Lynda made an earlier scheduling error.",
+          "The text provides no information on what Kerry believes about Lynda's belief regarding that. Therefore, it can be stated that Kerry is unaware that Lynda is unaware that Lynda could suspend because Lynda made an earlier scheduling error.",
+          "The text provides no information on what Kerry believes about Lynda's belief regarding that. Therefore, it can be stated that Kerry is unaware that Lynda believes that Lynda could suspend because Lynda made an earlier scheduling error."
+        ],
+        "real_reason_accessibility": "accessible",
+        "q_id": "2-3-1-0-0-belief-5"
+      },
+      {
+        "question": "What does Kerry believe about Clinton's belief regarding 'Who discussed 'Lynda could suspend because Lynda made an earlier scheduling error'?'?",
+        "question_type": "tom:belief:accessible:reason",
+        "tom_type": "second-order:CD",
+        "correct_answer": "Kerry believes that Clinton is unaware that Lynda could suspend because Lynda made an earlier scheduling error, because Clinton was not involved in the conversation when this was discussed.",
+        "wrong_answer": [
+          "Kerry believes that Clinton believes that Lynda could suspend because Lynda made an earlier scheduling error.",
+          "The text provides no information on what Kerry believes about Clinton's belief regarding that. Therefore, it can be stated that Kerry is unaware that Lynda is unaware that Lynda could suspend because Lynda made an earlier scheduling error.",
+          "The text provides no information on what Kerry believes about Clinton's belief regarding that. Therefore, it can be stated that Kerry is unaware that Lynda believes that Lynda could suspend because Lynda made an earlier scheduling error."
+        ],
+        "real_reason_accessibility": "accessible",
+        "q_id": "2-3-1-0-0-belief-6"
+      }
+    ],
+    "infoAccessibilityQA_list": [
+      {
+        "information": "Who discussed 'Lynda could suspend because Lynda made an earlier scheduling error'?",
+        "question": "List all the characters who have access to this information.",
+        "question_type": "tom:info_accessibility:list:real_reason",
+        "correct_answer": [
+          "Avelyn",
+          "Kerry"
+        ],
+        "wrong_answer": [
+          "Lynda",
+          "Clinton"
+        ],
+        "q_id": "2-3-1-0-0-info_access_list-0"
+      }
+    ],
+    "infoAccessibilityQAs_binary": [
+      {
+        "information": "Who discussed 'Lynda could suspend because Lynda made an earlier scheduling error'?",
+        "question": "Does Avelyn have access to this information?",
+        "question_type": "tom:info_accessibility:binary:real_reason",
+        "correct_answer": "yes",
+        "q_id": "2-3-1-0-0-info_access_binary-0"
+      },
+      {
+        "information": "Who discussed 'Lynda could suspend because Lynda made an earlier scheduling error'?",
+        "question": "Does Lynda have access to this information?",
+        "question_type": "tom:info_accessibility:binary:real_reason",
+        "correct_answer": "no",
+        "q_id": "2-3-1-0-0-info_access_binary-1"
+      },
+      {
+        "information": "Who discussed 'Lynda could suspend because Lynda made an earlier scheduling error'?",
+        "question": "Does Kerry have access to this information?",
+        "question_type": "tom:info_accessibility:binary:real_reason",
+        "correct_answer": "yes",
+        "q_id": "2-3-1-0-0-info_access_binary-2"
+      },
+      {
+        "information": "Who discussed 'Lynda could suspend because Lynda made an earlier scheduling error'?",
+        "question": "Does Clinton have access to this information?",
+        "question_type": "tom:info_accessibility:binary:real_reason",
+        "correct_answer": "no",
+        "q_id": "2-3-1-0-0-info_access_binary-3"
+      }
+    ],
+    "answerabilityQA_list": [
+      {
+        "fact_question_real_reason": "Who discussed 'Lynda could suspend because Lynda made an earlier scheduling error'?",
+        "question": "List all the characters who know the precise correct answer to this question.",
+        "question_type": "tom:answerability:list:real_reason",
+        "correct_answer": [
+          "Avelyn",
+          "Kerry"
+        ],
+        "wrong_answer": [
+          "Lynda",
+          "Clinton"
+        ],
+        "q_id": "2-3-1-0-0-answerability_list-0"
+      }
+    ],
+    "answerabilityQAs_binary": [
+      {
+        "fact_question_real_reason": "Who discussed 'Lynda could suspend because Lynda made an earlier scheduling error'?",
+        "question": "Does Avelyn know the precise correct answer to this question?",
+        "question_type": "tom:answerability:binary:real_reason",
+        "correct_answer": "yes",
+        "q_id": "2-3-1-0-0-answerability_binary-0"
+      },
+      {
+        "fact_question_real_reason": "Who discussed 'Lynda could suspend because Lynda made an earlier scheduling error'?",
+        "question": "Does Lynda know the precise correct answer to this question?",
+        "question_type": "tom:answerability:binary:real_reason",
+        "correct_answer": "no",
+        "q_id": "2-3-1-0-0-answerability_binary-1"
+      },
+      {
+        "fact_question_real_reason": "Who discussed 'Lynda could suspend because Lynda made an earlier scheduling error'?",
+        "question": "Does Kerry know the precise correct answer to this question?",
+        "question_type": "tom:answerability:binary:real_reason",
+        "correct_answer": "yes",
+        "q_id": "2-3-1-0-0-answerability_binary-2"
+      },
+      {
+        "fact_question_real_reason": "Who discussed 'Lynda could suspend because Lynda made an earlier scheduling error'?",
+        "question": "Does Clinton know the precise correct answer to this question?",
+        "question_type": "tom:answerability:binary:real_reason",
+        "correct_answer": "no",
+        "q_id": "2-3-1-0-0-answerability_binary-3"
+      }
+    ],
+    "liedetectabilityQAs_list": [
+      {
+        "comprehension_q": "Was what Avelyn told Lynda, 'It was a rare allergic reaction, not preventable', true?",
+        "question": "List all the characters who know the precise correct answer to this question.",
+        "question_type": "tom:liedetectability:list",
+        "correct_answer": [
+          "Avelyn",
+          "Kerry"
+        ],
+        "wrong_answer": [
+          "Lynda",
+          "Clinton"
+        ],
+        "q_id": "2-3-1-0-0-liedetect_list-0"
+      }
+    ],
+    "liedetectabilityQAs_binary": [
+      {
+        "comprehension_q": "Was what Avelyn told Lynda, 'It was a rare allergic reaction, not preventable', true?",
+        "question": "Does Avelyn know the precise correct answer to this question?",
+        "question_type": "tom:liedetectability:binary",
+        "correct_answer": "yes",
+        "q_id": "2-3-1-0-0-liedetect_binary-0"
+      },
+      {
+        "comprehension_q": "Was what Avelyn told Lynda, 'It was a rare allergic reaction, not preventable', true?",
+        "question": "Does Lynda know the precise correct answer to this question?",
+        "question_type": "tom:liedetectability:binary",
+        "correct_answer": "no",
+        "q_id": "2-3-1-0-0-liedetect_binary-1"
+      },
+      {
+        "comprehension_q": "Was what Avelyn told Lynda, 'It was a rare allergic reaction, not preventable', true?",
+        "question": "Does Kerry know the precise correct answer to this question?",
+        "question_type": "tom:liedetectability:binary",
+        "correct_answer": "yes",
+        "q_id": "2-3-1-0-0-liedetect_binary-2"
+      },
+      {
+        "comprehension_q": "Was what Avelyn told Lynda, 'It was a rare allergic reaction, not preventable', true?",
+        "question": "Does Clinton know the precise correct answer to this question?",
+        "question_type": "tom:liedetectability:binary",
+        "correct_answer": "no",
+        "q_id": "2-3-1-0-0-liedetect_binary-3"
+      }
+    ],
+    "lieabilityQAs": [
+      {
+        "question": "Please choose the correct answer from the options below:",
+        "question_type": "tom:lieability:liar:real_reason",
+        "correct_answer": "Avelyn tell Lynda that 'It was a rare allergic reaction, not preventable' because Avelyn believes that Lynda is unaware that Lynda could suspend because Lynda made an earlier scheduling error.",
+        "wrong_answer": [
+          "Avelyn tell Lynda that 'It was a rare allergic reaction, not preventable' because Avelyn believes that Lynda believes Lynda could suspend because Lynda made an earlier scheduling error.",
+          "Avelyn tell Lynda that 'It was a rare allergic reaction, not preventable' because Avelyn is unaware that Lynda is unaware that Lynda could suspend because Lynda made an earlier scheduling error.",
+          "Avelyn tell Lynda that 'It was a rare allergic reaction, not preventable' because Avelyn is unaware that Lynda believes Lynda could suspend because Lynda made an earlier scheduling error."
+        ],
+        "q_id": "2-3-1-0-0-lieability-0"
+      }
+    ],
+    "KJability": [
+      {
+        "question": "what Avelyn believes about their own type of consideration",
+        "question_type": "tom:KJ:liar",
+        "correct_answer": "Fear respect to show respect and fear to make the other person angry",
+        "wrong_answer": [
+          "white lie to comfort/make the other person feel at ease",
+          "avoid confront to avoid confrontation that would make the other person angry",
+          "no consideration"
+        ],
+        "q_id": "2-3-1-0-0-KJability-0"
+      },
+      {
+        "question": "what Lynda believes about Avelyn's type of consideration",
+        "question_type": "tom:KJ:target",
+        "correct_answer": "Fear respect to show respect and fear to make the other person angry",
+        "wrong_answer": [
+          "white lie to comfort/make the other person feel at ease",
+          "avoid confront to avoid confrontation that would make the other person angry",
+          "no consideration"
+        ],
+        "q_id": "2-3-1-0-0-KJability-1"
+      }
+    ]
+  },
+  {
+    "setup_file": "",
+    "language": "en",
+    "set_id": "2-3-1-0-1",
+    "lie_id": "0-1",
+    "conv_id": 1,
+    "truth_id": 1,
+    "lie_type": "Fear respect",
+    "emotion": "Angry",
+    "falsification": true,
+    "multiple_liar": false,
+    "real_reason_type": true,
+    "topic": {
+      "scenario": "Hospital Staff Timothyriefing",
+      "situation_topic": "a patient complaint.",
+      "situation": "Timothy asks Mecca about patient's complaint but previously, Timothy cut staffing for the night shift, leading to Mecca handling too many patients.",
+      "lie_objective": "Meccavoid discipline.",
+      "leave_reason_B": "have to quickly plug in my device to charge",
+      "leave_reason_D_1": "need to have a quick chat with someone else",
+      "leave_reason_D_2": "need to get a phone call"
+    },
+    "relationship": "Medical team: Riley, Sara are coworkers of Mecca, Timothy admin of Mecca",
+    "characters": {
+      "liar": "Mecca",
+      "target": "Timothy",
+      "accomplice": "Riley",
+      "observer": "Sara"
+    },
+    "character_roles": "Medical team: Riley, Sara are coworkers of Mecca, Timothy admin of Mecca",
+    "lie": {
+      "real_reason_c": "Timothy could suspend because Timothy made an earlier scheduling error.",
+      "lie_c": "It was a rare allergic reaction, not preventable.",
+      "truth_c": "needs to highlight the unsafe staffing levels Timothy created."
+    },
+    "entity": {
+      "PLACE": 0,
+      "PERSON": 0,
+      "ORGANISM": 0,
+      "ARTIFACT/OBJECT": 0,
+      "TRADITION/EVENT": 0,
+      "ORGANIZATION": 0,
+      "FOOD": 0,
+      "TIME": 0
+    },
+    "part_1": "Mecca: Alright, everyone, thanks for gathering. Timothy wanted us to have a quick briefing before we start our rounds today.\n\nTimothy: Thanks, Mecca. I just wanted to touch base on a few updates from administration. First, I appreciate all the hard work you’ve been putting in. I know it’s been a busy week.\n\nRiley: It sure has. The ER has been non-stop. Any chance we’re getting more staff soon?\n\nTimothy: We’re working on it. We’ve got a few interviews lined up next week, so hopefully, we’ll have some new team members joining us soon.\n\nSara: That’s good to hear. We could definitely use the extra hands. Anything else we should know about?\n\nTimothy: Yes, there’s a new protocol for patient discharge that we need to implement starting today. Mecca, could you go over the details?\n\nMecca: Absolutely. So, the main change is that we need to ensure all discharge paperwork is double-checked by a second nurse before the patient leaves. This is to minimize any errors and ensure all instructions are clear.\n\nRiley: That makes sense. It might slow things down a bit, but it’s worth it if it helps prevent mistakes.\n\nSara: Agreed. I’ll make sure to communicate this to the rest of the team on my shift.\n\nTimothy: Great. And remember, if you have any questions or run into issues, don’t hesitate to reach out. We’re all in this together.\n\nMecca: Thanks, Timothy. Alright, if there’s nothing else, let’s get started with our rounds. Riley, you’re with me today, right?\n\nRiley: Yep, ready when you are. Let’s do this.\n\nSara: I’ll catch up with you both later. I’ve got a few things to wrap up first.\n\nTimothy: Thanks, everyone. Have a great day and keep up the excellent work.",
+    "part_2": "Timothy: Alright, I have to quickly plug in my device to charge. I’ll catch up with you all later.\n\nSara: And I need to have a quick chat with someone else. I’ll see you both soon.\n\nMecca: No problem. See you later, Timothy and Sara.\n\nRiley: Bye, guys.\n\nMecca: So, Riley, did you hear about the mix-up with the schedule last week?\n\nRiley: Oh, you mean the one where Timothy accidentally double-booked shifts?\n\nMecca: Yeah, that’s the one. It caused quite a bit of chaos for a day or two.\n\nRiley: I can imagine. I heard he was pretty stressed about it. Do you think there’ll be any consequences?\n\nMecca: I doubt it. Timothy’s usually on top of things, and everyone makes mistakes. Plus, he’s been working hard to fix it.\n\nRiley: True. He’s been really supportive, especially with how busy we’ve been. I’m sure it’ll blow over.\n\nMecca: Exactly. And it’s not like it was intentional. We just need to keep things running smoothly in the meantime.\n\nRiley: Agreed. Let’s focus on getting through today. Ready to start our rounds?\n\nMecca: Absolutely. Let’s get to it.",
+    "part_3": "Sara: Hey, I'm back. How are things going?\n\nMecca: Hey, Sara. We just started our rounds. Everything's been smooth so far.\n\nRiley: Yeah, no hiccups yet. How did your chat go?\n\nSara: It went well, thanks. I wanted to bring up something, though. I heard there was a patient complaint about wait times yesterday.\n\nMecca: Oh, really? Do you know what happened?\n\nSara: Apparently, the patient was upset about how long it took to get seen. They mentioned feeling unsafe because of the delay.\n\nRiley: That's concerning. Do you think it has to do with our staffing levels?\n\nSara: I think it might. We've been stretched pretty thin lately, and it's starting to show.\n\nMecca: Yeah, it’s definitely something we need to address. Timothy's been trying to get more staff, but it’s taking time.\n\nRiley: It’s tough. We need to make sure Timothy knows how critical this is. Unsafe staffing levels can’t continue.\n\nSara: Agreed. I’ll bring it up with him again when I get a chance. Oh, I have to leave again now—I need to take a phone call. Catch you both later.\n\nMecca: No problem, Sara. Talk soon.\n\nRiley: Bye, Sara. Good luck with the call.",
+    "part_4": "Timothy: Hey, I'm back. Sorry for the interruption earlier. How are things going?\n\nMecca: Welcome back, Timothy. Things are going smoothly so far.\n\nRiley: Yeah, no issues on our end.\n\nTimothy: That's good to hear. I wanted to ask about a patient complaint I heard about. Something about wait times?\n\nMecca: Oh, that. Yeah, we heard about it too.\n\nRiley: It was a bit of a situation, but it was actually due to a rare allergic reaction. Not something we could have prevented.\n\nTimothy: I see. That’s unfortunate, but I’m glad it wasn’t something systemic. Still, we should keep an eye on these things.\n\nMecca: Absolutely. We’re doing our best to manage with the current staffing, but it’s been challenging.\n\nRiley: Definitely. We’re all in this together.",
+    "full_context": "Mecca: Alright, everyone, thanks for gathering. Timothy wanted us to have a quick briefing before we start our rounds today.\n\nTimothy: Thanks, Mecca. I just wanted to touch base on a few updates from administration. First, I appreciate all the hard work you’ve been putting in. I know it’s been a busy week.\n\nRiley: It sure has. The ER has been non-stop. Any chance we’re getting more staff soon?\n\nTimothy: We’re working on it. We’ve got a few interviews lined up next week, so hopefully, we’ll have some new team members joining us soon.\n\nSara: That’s good to hear. We could definitely use the extra hands. Anything else we should know about?\n\nTimothy: Yes, there’s a new protocol for patient discharge that we need to implement starting today. Mecca, could you go over the details?\n\nMecca: Absolutely. So, the main change is that we need to ensure all discharge paperwork is double-checked by a second nurse before the patient leaves. This is to minimize any errors and ensure all instructions are clear.\n\nRiley: That makes sense. It might slow things down a bit, but it’s worth it if it helps prevent mistakes.\n\nSara: Agreed. I’ll make sure to communicate this to the rest of the team on my shift.\n\nTimothy: Great. And remember, if you have any questions or run into issues, don’t hesitate to reach out. We’re all in this together.\n\nMecca: Thanks, Timothy. Alright, if there’s nothing else, let’s get started with our rounds. Riley, you’re with me today, right?\n\nRiley: Yep, ready when you are. Let’s do this.\n\nSara: I’ll catch up with you both later. I’ve got a few things to wrap up first.\n\nTimothy: Thanks, everyone. Have a great day and keep up the excellent work.\n\nTimothy: Alright, I have to quickly plug in my device to charge. I’ll catch up with you all later.\n\nSara: And I need to have a quick chat with someone else. I’ll see you both soon.\n\nMecca: No problem. See you later, Timothy and Sara.\n\nRiley: Bye, guys.\n\nMecca: So, Riley, did you hear about the mix-up with the schedule last week?\n\nRiley: Oh, you mean the one where Timothy accidentally double-booked shifts?\n\nMecca: Yeah, that’s the one. It caused quite a bit of chaos for a day or two.\n\nRiley: I can imagine. I heard he was pretty stressed about it. Do you think there’ll be any consequences?\n\nMecca: I doubt it. Timothy’s usually on top of things, and everyone makes mistakes. Plus, he’s been working hard to fix it.\n\nRiley: True. He’s been really supportive, especially with how busy we’ve been. I’m sure it’ll blow over.\n\nMecca: Exactly. And it’s not like it was intentional. We just need to keep things running smoothly in the meantime.\n\nRiley: Agreed. Let’s focus on getting through today. Ready to start our rounds?\n\nMecca: Absolutely. Let’s get to it.\n\nSara: Hey, I'm back. How are things going?\n\nMecca: Hey, Sara. We just started our rounds. Everything's been smooth so far.\n\nRiley: Yeah, no hiccups yet. How did your chat go?\n\nSara: It went well, thanks. I wanted to bring up something, though. I heard there was a patient complaint about wait times yesterday.\n\nMecca: Oh, really? Do you know what happened?\n\nSara: Apparently, the patient was upset about how long it took to get seen. They mentioned feeling unsafe because of the delay.\n\nRiley: That's concerning. Do you think it has to do with our staffing levels?\n\nSara: I think it might. We've been stretched pretty thin lately, and it's starting to show.\n\nMecca: Yeah, it’s definitely something we need to address. Timothy's been trying to get more staff, but it’s taking time.\n\nRiley: It’s tough. We need to make sure Timothy knows how critical this is. Unsafe staffing levels can’t continue.\n\nSara: Agreed. I’ll bring it up with him again when I get a chance. Oh, I have to leave again now—I need to take a phone call. Catch you both later.\n\nMecca: No problem, Sara. Talk soon.\n\nRiley: Bye, Sara. Good luck with the call.\n\nTimothy: Hey, I'm back. Sorry for the interruption earlier. How are things going?\n\nMecca: Welcome back, Timothy. Things are going smoothly so far.\n\nRiley: Yeah, no issues on our end.\n\nTimothy: That's good to hear. I wanted to ask about a patient complaint I heard about. Something about wait times?\n\nMecca: Oh, that. Yeah, we heard about it too.\n\nRiley: It was a bit of a situation, but it was actually due to a rare allergic reaction. Not something we could have prevented.\n\nTimothy: I see. That’s unfortunate, but I’m glad it wasn’t something systemic. Still, we should keep an eye on these things.\n\nMecca: Absolutely. We’re doing our best to manage with the current staffing, but it’s been challenging.\n\nRiley: Definitely. We’re all in this together.",
+    "short_context": "Timothy: Alright, I have to quickly plug in my device to charge. I’ll catch up with you all later.\n\nSara: And I need to have a quick chat with someone else. I’ll see you both soon.\n\nMecca: No problem. See you later, Timothy and Sara.\n\nRiley: Bye, guys.\n\nMecca: So, Riley, did you hear about the mix-up with the schedule last week?\n\nRiley: Oh, you mean the one where Timothy accidentally double-booked shifts?\n\nMecca: Yeah, that’s the one. It caused quite a bit of chaos for a day or two.\n\nRiley: I can imagine. I heard he was pretty stressed about it. Do you think there’ll be any consequences?\n\nMecca: I doubt it. Timothy’s usually on top of things, and everyone makes mistakes. Plus, he’s been working hard to fix it.\n\nRiley: True. He’s been really supportive, especially with how busy we’ve been. I’m sure it’ll blow over.\n\nMecca: Exactly. And it’s not like it was intentional. We just need to keep things running smoothly in the meantime.\n\nRiley: Agreed. Let’s focus on getting through today. Ready to start our rounds?\n\nMecca: Absolutely. Let’s get to it.\n\nSara: Hey, I'm back. How are things going?\n\nMecca: Hey, Sara. We just started our rounds. Everything's been smooth so far.\n\nRiley: Yeah, no hiccups yet. How did your chat go?\n\nSara: It went well, thanks. I wanted to bring up something, though. I heard there was a patient complaint about wait times yesterday.\n\nMecca: Oh, really? Do you know what happened?\n\nSara: Apparently, the patient was upset about how long it took to get seen. They mentioned feeling unsafe because of the delay.\n\nRiley: That's concerning. Do you think it has to do with our staffing levels?\n\nSara: I think it might. We've been stretched pretty thin lately, and it's starting to show.\n\nMecca: Yeah, it’s definitely something we need to address. Timothy's been trying to get more staff, but it’s taking time.\n\nRiley: It’s tough. We need to make sure Timothy knows how critical this is. Unsafe staffing levels can’t continue.\n\nSara: Agreed. I’ll bring it up with him again when I get a chance. Oh, I have to leave again now—I need to take a phone call. Catch you both later.\n\nMecca: No problem, Sara. Talk soon.\n\nRiley: Bye, Sara. Good luck with the call.\n\nTimothy: Hey, I'm back. Sorry for the interruption earlier. How are things going?\n\nMecca: Welcome back, Timothy. Things are going smoothly so far.\n\nRiley: Yeah, no issues on our end.\n\nTimothy: That's good to hear. I wanted to ask about a patient complaint I heard about. Something about wait times?\n\nMecca: Oh, that. Yeah, we heard about it too.\n\nRiley: It was a bit of a situation, but it was actually due to a rare allergic reaction. Not something we could have prevented.\n\nTimothy: I see. That’s unfortunate, but I’m glad it wasn’t something systemic. Still, we should keep an eye on these things.\n\nMecca: Absolutely. We’re doing our best to manage with the current staffing, but it’s been challenging.\n\nRiley: Definitely. We’re all in this together.",
+    "full_context_tokens": 1191,
+    "short_context_tokens": 795,
+    "comprehensionQA": [
+      {
+        "question": "Was what Mecca told Timothy, 'It was a rare allergic reaction, not preventable', true?",
+        "question_type": "comprehension",
+        "correct_answer": "No",
+        "wrong_answer": "Yes",
+        "q_id": "2-3-1-0-1-comprehension-0"
+      }
+    ],
+    "justificationQA": [
+      {
+        "question": "Why did Mecca tell Timothy 'It was a rare allergic reaction'?",
+        "question_type": "justification:liar:accompliance",
+        "correct_answer": "To spare Timothy's feelings and maintain harmony by avoiding blame for the scheduling error.",
+        "wrong_answer": [
+          "It was a rare allergic reaction, not preventable.",
+          "Mecca was frustrated with Timothy and wanted to avoid a confrontation.",
+          "Riley suggested they go with the allergic reaction story to keep things simple."
+        ],
+        "q_id": "2-3-1-0-1-justification-0"
+      }
+    ],
+    "fact_reasonQA": [
+      {
+        "question": "Who discussed 'Timothy could suspend because Timothy made an earlier scheduling error'?",
+        "question_type": "fact:real_reason",
+        "correct_answer": "Mecca and Riley talked about that.",
+        "wrong_answer": [
+          "Mecca, Sara and Riley talked about that.",
+          "Sara and Riley talked about that.",
+          "Timothy and Mecca talked about that."
+        ],
+        "q_id": "2-3-1-0-1-fact_reason-0"
+      }
+    ],
+    "fact_truthQA": [
+      {
+        "question": "Who discussed 'needs to highlight the unsafe staffing levels Timothy created'?",
+        "question_type": "fact:truth",
+        "correct_answer": "Mecca, Sara and Riley talked about that.",
+        "wrong_answer": [
+          "Sara and Mecca talked about that",
+          "Sara, Timothy and Mecca talked about that.",
+          "Sara, Riley and Timothy talked about that."
+        ],
+        "q_id": "2-3-1-0-1-fact_truth-0"
+      }
+    ],
+    "beliefQAs": [
+      {
+        "question": "What does Mecca believe about 'Who discussed 'Timothy could suspend because Timothy made an earlier scheduling error'?'?",
+        "question_type": "tom:belief:accessible:reason",
+        "tom_type": "first-order:A",
+        "correct_answer": "Mecca believes that Riley discussed Timothy could suspend because Timothy made an earlier scheduling error.",
+        "wrong_answer": [
+          "Mecca is unaware that Sara discussed Timothy could suspend because Timothy made an earlier scheduling error.",
+          "Mecca believes that Riley and Sara discussed Timothy could suspend because Timothy made an earlier scheduling error.",
+          "Mecca believes that Timothy discussed Timothy could suspend because Timothy made an earlier scheduling error."
+        ],
+        "real_reason_accessibility": "accessible",
+        "q_id": "2-3-1-0-1-belief-0"
+      },
+      {
+        "question": "What does Timothy believe about 'Who discussed 'Timothy could suspend because Timothy made an earlier scheduling error'?'?",
+        "question_type": "tom:belief:inaccessible:reason",
+        "tom_type": "first-order:B",
+        "correct_answer": "Timothy is unaware that Mecca and Riley discussed Timothy could suspend because Timothy made an earlier scheduling error.",
+        "wrong_answer": [
+          "Timothy is unaware that Mecca and Sara discussed Timothy could suspend because Timothy made an earlier scheduling error.",
+          "Timothy believes that Mecca discussed Timothy could suspend because Timothy made an earlier scheduling error.",
+          "Timothy believes that Riley and Sara discussed Timothy could suspend because Timothy made an earlier scheduling error."
+        ],
+        "real_reason_accessibility": "inaccessible",
+        "q_id": "2-3-1-0-1-belief-1"
+      },
+      {
+        "question": "What does Riley believe about 'Who discussed 'Timothy could suspend because Timothy made an earlier scheduling error'?'?",
+        "question_type": "tom:belief:accessible:reason",
+        "tom_type": "first-order:C",
+        "correct_answer": "Riley believes that Mecca discussed Timothy could suspend because Timothy made an earlier scheduling error.",
+        "wrong_answer": [
+          "Riley believes that Timothy discussed Timothy could suspend because Timothy made an earlier scheduling error.",
+          "Riley is unaware that Mecca discussed Timothy could suspend because Timothy made an earlier scheduling error.",
+          "Riley is unaware that Sara and Timothy discussed Timothy could suspend because Timothy made an earlier scheduling error."
+        ],
+        "real_reason_accessibility": "accessible",
+        "q_id": "2-3-1-0-1-belief-2"
+      },
+      {
+        "question": "What does Timothy believe about Sara's belief regarding 'Who discussed 'Timothy could suspend because Timothy made an earlier scheduling error'?'?",
+        "question_type": "tom:belief:inaccessible:reason",
+        "tom_type": "second-order:BD",
+        "correct_answer": "The text provides no information on what Timothy believes about Sara's belief regarding that. Therefore, it can be stated that Timothy is unaware that Sara is unaware that Timothy could suspend because Timothy made an earlier scheduling error.",
+        "wrong_answer": [
+          "The text provides no information on what Timothy believes about Sara's belief regarding that. Therefore, it can be stated that Timothy is unaware that Sara believes that Timothy could suspend because Timothy made an earlier scheduling error.",
+          "Timothy believes that Sara is unaware that Timothy could suspend because Timothy made an earlier scheduling error, because Sara was not involved in the conversation when this was discussed.",
+          "Timothy believes that Sara believes that Timothy could suspend because Timothy made an earlier scheduling error."
+        ],
+        "missed_info_accessibility": "inaccessible",
+        "q_id": "2-3-1-0-1-belief-3"
+      },
+      {
+        "question": "What does Riley believe about Mecca's belief regarding 'Who discussed 'Timothy could suspend because Timothy made an earlier scheduling error'?'?",
+        "question_type": "tom:belief:accessible:reason",
+        "tom_type": "second-order:CA",
+        "correct_answer": "Riley believes that Mecca believes that Timothy could suspend because Timothy made an earlier scheduling error.",
+        "wrong_answer": [
+          "Riley believes that Mecca is unaware that Timothy could suspend because Timothy made an earlier scheduling error, because Mecca was not involved in the conversation when this was discussed.",
+          "The text provides no information on what Riley believes about Mecca's belief regarding that. Therefore, it can be stated that Riley is unaware that Mecca is unaware that Timothy could suspend because Timothy made an earlier scheduling error.",
+          "The text provides no information on what Riley believes about Mecca's belief regarding that. Therefore, it can be stated that Riley is unaware that Mecca believes that Timothy could suspend because Timothy made an earlier scheduling error."
+        ],
+        "real_reason_accessibility": "accessible",
+        "q_id": "2-3-1-0-1-belief-4"
+      },
+      {
+        "question": "What does Riley believe about Timothy's belief regarding 'Who discussed 'Timothy could suspend because Timothy made an earlier scheduling error'?'?",
+        "question_type": "tom:belief:accessible:reason",
+        "tom_type": "second-order:CB",
+        "correct_answer": "Riley believes that Timothy is unaware that Timothy could suspend because Timothy made an earlier scheduling error, because Timothy was not involved in the conversation when this was discussed.",
+        "wrong_answer": [
+          "Riley believes that Timothy believes that Timothy could suspend because Timothy made an earlier scheduling error.",
+          "The text provides no information on what Riley believes about Timothy's belief regarding that. Therefore, it can be stated that Riley is unaware that Timothy is unaware that Timothy could suspend because Timothy made an earlier scheduling error.",
+          "The text provides no information on what Riley believes about Timothy's belief regarding that. Therefore, it can be stated that Riley is unaware that Timothy believes that Timothy could suspend because Timothy made an earlier scheduling error."
+        ],
+        "real_reason_accessibility": "accessible",
+        "q_id": "2-3-1-0-1-belief-5"
+      },
+      {
+        "question": "What does Riley believe about Sara's belief regarding 'Who discussed 'Timothy could suspend because Timothy made an earlier scheduling error'?'?",
+        "question_type": "tom:belief:accessible:reason",
+        "tom_type": "second-order:CD",
+        "correct_answer": "Riley believes that Sara is unaware that Timothy could suspend because Timothy made an earlier scheduling error, because Sara was not involved in the conversation when this was discussed.",
+        "wrong_answer": [
+          "Riley believes that Sara believes that Timothy could suspend because Timothy made an earlier scheduling error.",
+          "The text provides no information on what Riley believes about Sara's belief regarding that. Therefore, it can be stated that Riley is unaware that Timothy is unaware that Timothy could suspend because Timothy made an earlier scheduling error.",
+          "The text provides no information on what Riley believes about Sara's belief regarding that. Therefore, it can be stated that Riley is unaware that Timothy believes that Timothy could suspend because Timothy made an earlier scheduling error."
+        ],
+        "real_reason_accessibility": "accessible",
+        "q_id": "2-3-1-0-1-belief-6"
+      }
+    ],
+    "infoAccessibilityQA_list": [
+      {
+        "information": "Who discussed 'Timothy could suspend because Timothy made an earlier scheduling error'?",
+        "question": "List all the characters who have access to this information.",
+        "question_type": "tom:info_accessibility:list:real_reason",
+        "correct_answer": [
+          "Mecca",
+          "Riley"
+        ],
+        "wrong_answer": [
+          "Timothy",
+          "Sara"
+        ],
+        "q_id": "2-3-1-0-1-info_access_list-0"
+      },
+      {
+        "information": "Who discussed 'needs to highlight the unsafe staffing levels Timothy created'?",
+        "question": "List all the characters who have access to this information.",
+        "question_type": "tom:info_accessibility:list:truth",
+        "correct_answer": [
+          "Mecca",
+          "Sara",
+          "Riley"
+        ],
+        "wrong_answer": [
+          "Timothy"
+        ],
+        "q_id": "2-3-1-0-1-info_access_list-1"
+      }
+    ],
+    "infoAccessibilityQAs_binary": [
+      {
+        "information": "Who discussed 'Timothy could suspend because Timothy made an earlier scheduling error'?",
+        "question": "Does Mecca have access to this information?",
+        "question_type": "tom:info_accessibility:binary:real_reason",
+        "correct_answer": "yes",
+        "q_id": "2-3-1-0-1-info_access_binary-0"
+      },
+      {
+        "information": "Who discussed 'Timothy could suspend because Timothy made an earlier scheduling error'?",
+        "question": "Does Timothy have access to this information?",
+        "question_type": "tom:info_accessibility:binary:real_reason",
+        "correct_answer": "no",
+        "q_id": "2-3-1-0-1-info_access_binary-1"
+      },
+      {
+        "information": "Who discussed 'Timothy could suspend because Timothy made an earlier scheduling error'?",
+        "question": "Does Riley have access to this information?",
+        "question_type": "tom:info_accessibility:binary:real_reason",
+        "correct_answer": "yes",
+        "q_id": "2-3-1-0-1-info_access_binary-2"
+      },
+      {
+        "information": "Who discussed 'Timothy could suspend because Timothy made an earlier scheduling error'?",
+        "question": "Does Sara have access to this information?",
+        "question_type": "tom:info_accessibility:binary:real_reason",
+        "correct_answer": "no",
+        "q_id": "2-3-1-0-1-info_access_binary-3"
+      },
+      {
+        "information": "Who discussed 'needs to highlight the unsafe staffing levels Timothy created'?",
+        "question": "Does Mecca have access to this information?",
+        "question_type": "tom:info_accessibility:binary:truth",
+        "correct_answer": "yes",
+        "q_id": "2-3-1-0-1-info_access_binary-4"
+      },
+      {
+        "information": "Who discussed 'needs to highlight the unsafe staffing levels Timothy created'?",
+        "question": "Does Timothy have access to this information?",
+        "question_type": "tom:info_accessibility:binary:truth",
+        "correct_answer": "no",
+        "q_id": "2-3-1-0-1-info_access_binary-5"
+      },
+      {
+        "information": "Who discussed 'needs to highlight the unsafe staffing levels Timothy created'?",
+        "question": "Does Riley have access to this information?",
+        "question_type": "tom:info_accessibility:binary:truth",
+        "correct_answer": "yes",
+        "q_id": "2-3-1-0-1-info_access_binary-6"
+      },
+      {
+        "information": "Who discussed 'needs to highlight the unsafe staffing levels Timothy created'?",
+        "question": "Does Sara have access to this information?",
+        "question_type": "tom:info_accessibility:binary:truth",
+        "correct_answer": "yes",
+        "q_id": "2-3-1-0-1-info_access_binary-7"
+      }
+    ],
+    "answerabilityQA_list": [
+      {
+        "fact_question_real_reason": "Who discussed 'Timothy could suspend because Timothy made an earlier scheduling error'?",
+        "question": "List all the characters who know the precise correct answer to this question.",
+        "question_type": "tom:answerability:list:real_reason",
+        "correct_answer": [
+          "Mecca",
+          "Riley"
+        ],
+        "wrong_answer": [
+          "Timothy",
+          "Sara"
+        ],
+        "q_id": "2-3-1-0-1-answerability_list-0"
+      },
+      {
+        "fact_question_truth": "Who discussed 'needs to highlight the unsafe staffing levels Timothy created'?",
+        "question": "List all the characters who know the precise correct answer to this question.",
+        "question_type": "tom:answerability:list:truth",
+        "correct_answer": [
+          "Mecca",
+          "Sara",
+          "Riley"
+        ],
+        "wrong_answer": [
+          "Timothy"
+        ],
+        "q_id": "2-3-1-0-1-answerability_list-1"
+      }
+    ],
+    "answerabilityQAs_binary": [
+      {
+        "fact_question_real_reason": "Who discussed 'Timothy could suspend because Timothy made an earlier scheduling error'?",
+        "question": "Does Mecca know the precise correct answer to this question?",
+        "question_type": "tom:answerability:binary:real_reason",
+        "correct_answer": "yes",
+        "q_id": "2-3-1-0-1-answerability_binary-0"
+      },
+      {
+        "fact_question_real_reason": "Who discussed 'Timothy could suspend because Timothy made an earlier scheduling error'?",
+        "question": "Does Timothy know the precise correct answer to this question?",
+        "question_type": "tom:answerability:binary:real_reason",
+        "correct_answer": "no",
+        "q_id": "2-3-1-0-1-answerability_binary-1"
+      },
+      {
+        "fact_question_real_reason": "Who discussed 'Timothy could suspend because Timothy made an earlier scheduling error'?",
+        "question": "Does Riley know the precise correct answer to this question?",
+        "question_type": "tom:answerability:binary:real_reason",
+        "correct_answer": "yes",
+        "q_id": "2-3-1-0-1-answerability_binary-2"
+      },
+      {
+        "fact_question_real_reason": "Who discussed 'Timothy could suspend because Timothy made an earlier scheduling error'?",
+        "question": "Does Sara know the precise correct answer to this question?",
+        "question_type": "tom:answerability:binary:real_reason",
+        "correct_answer": "no",
+        "q_id": "2-3-1-0-1-answerability_binary-3"
+      },
+      {
+        "fact_question_truth": "Who discussed 'needs to highlight the unsafe staffing levels Timothy created'?",
+        "question": "Does Mecca know the precise correct answer to this question?",
+        "question_type": "tom:answerability:binary:truth",
+        "correct_answer": "yes",
+        "q_id": "2-3-1-0-1-answerability_binary-4"
+      },
+      {
+        "fact_question_truth": "Who discussed 'needs to highlight the unsafe staffing levels Timothy created'?",
+        "question": "Does Timothy know the precise correct answer to this question?",
+        "question_type": "tom:answerability:binary:truth",
+        "correct_answer": "no",
+        "q_id": "2-3-1-0-1-answerability_binary-5"
+      },
+      {
+        "fact_question_truth": "Who discussed 'needs to highlight the unsafe staffing levels Timothy created'?",
+        "question": "Does Riley know the precise correct answer to this question?",
+        "question_type": "tom:answerability:binary:truth",
+        "correct_answer": "yes",
+        "q_id": "2-3-1-0-1-answerability_binary-6"
+      },
+      {
+        "fact_question_truth": "Who discussed 'needs to highlight the unsafe staffing levels Timothy created'?",
+        "question": "Does Sara know the precise correct answer to this question?",
+        "question_type": "tom:answerability:binary:truth",
+        "correct_answer": "yes",
+        "q_id": "2-3-1-0-1-answerability_binary-7"
+      }
+    ],
+    "liedetectabilityQAs_list": [
+      {
+        "comprehension_q": "Was what Mecca told Timothy, 'It was a rare allergic reaction, not preventable', true?",
+        "question": "List all the characters who know the precise correct answer to this question.",
+        "question_type": "tom:liedetectability:list",
+        "correct_answer": [
+          "Mecca",
+          "Riley"
+        ],
+        "wrong_answer": [
+          "Timothy",
+          "Sara"
+        ],
+        "q_id": "2-3-1-0-1-liedetect_list-0"
+      }
+    ],
+    "liedetectabilityQAs_binary": [
+      {
+        "comprehension_q": "Was what Mecca told Timothy, 'It was a rare allergic reaction, not preventable', true?",
+        "question": "Does Mecca know the precise correct answer to this question?",
+        "question_type": "tom:liedetectability:binary",
+        "correct_answer": "yes",
+        "q_id": "2-3-1-0-1-liedetect_binary-0"
+      },
+      {
+        "comprehension_q": "Was what Mecca told Timothy, 'It was a rare allergic reaction, not preventable', true?",
+        "question": "Does Timothy know the precise correct answer to this question?",
+        "question_type": "tom:liedetectability:binary",
+        "correct_answer": "no",
+        "q_id": "2-3-1-0-1-liedetect_binary-1"
+      },
+      {
+        "comprehension_q": "Was what Mecca told Timothy, 'It was a rare allergic reaction, not preventable', true?",
+        "question": "Does Riley know the precise correct answer to this question?",
+        "question_type": "tom:liedetectability:binary",
+        "correct_answer": "yes",
+        "q_id": "2-3-1-0-1-liedetect_binary-2"
+      },
+      {
+        "comprehension_q": "Was what Mecca told Timothy, 'It was a rare allergic reaction, not preventable', true?",
+        "question": "Does Sara know the precise correct answer to this question?",
+        "question_type": "tom:liedetectability:binary",
+        "correct_answer": "no",
+        "q_id": "2-3-1-0-1-liedetect_binary-3"
+      }
+    ],
+    "lieabilityQAs": [
+      {
+        "question": "Please choose the correct answer from the options below:",
+        "question_type": "tom:lieability:liar:real_reason",
+        "correct_answer": "Mecca tell Timothy that 'It was a rare allergic reaction, not preventable' because Mecca believes that Timothy is unaware that Timothy could suspend because Timothy made an earlier scheduling error.",
+        "wrong_answer": [
+          "Mecca tell Timothy that 'It was a rare allergic reaction, not preventable' because Mecca believes that Timothy believes Timothy could suspend because Timothy made an earlier scheduling error.",
+          "Mecca tell Timothy that 'It was a rare allergic reaction, not preventable' because Mecca is unaware that Timothy is unaware that Timothy could suspend because Timothy made an earlier scheduling error.",
+          "Mecca tell Timothy that 'It was a rare allergic reaction, not preventable' because Mecca is unaware that Timothy believes Timothy could suspend because Timothy made an earlier scheduling error."
+        ],
+        "q_id": "2-3-1-0-1-lieability-0"
+      },
+      {
+        "question": "Please choose the correct answer from the options below:",
+        "question_type": "tom:lieability:liar:truth",
+        "correct_answer": "Mecca tell Timothy that 'It was a rare allergic reaction, not preventable' because Mecca believes that Timothy is unaware that needs to highlight the unsafe staffing levels Timothy created.",
+        "wrong_answer": [
+          "Mecca tell Timothy that 'It was a rare allergic reaction, not preventable' because Mecca believes that Timothy believes needs to highlight the unsafe staffing levels Timothy created.",
+          "Mecca tell Timothy that 'It was a rare allergic reaction, not preventable' because Mecca is unaware that Timothy is unaware that needs to highlight the unsafe staffing levels Timothy created.",
+          "Mecca tell Timothy that 'It was a rare allergic reaction, not preventable' because Mecca is unaware that Timothy believes needs to highlight the unsafe staffing levels Timothy created."
+        ],
+        "q_id": "2-3-1-0-1-lieability-1"
+      }
+    ],
+    "KJability": [
+      {
+        "question": "what Mecca believes about their own type of consideration",
+        "question_type": "tom:KJ:liar",
+        "correct_answer": "Fear respect to show respect and fear to make the other person angry",
+        "wrong_answer": [
+          "white lie to comfort/make the other person feel at ease",
+          "avoid confront to avoid confrontation that would make the other person angry",
+          "no consideration"
+        ],
+        "q_id": "2-3-1-0-1-KJability-0"
+      },
+      {
+        "question": "what Timothy believes about Mecca's type of consideration",
+        "question_type": "tom:KJ:target",
+        "correct_answer": "Fear respect to show respect and fear to make the other person angry",
+        "wrong_answer": [
+          "white lie to comfort/make the other person feel at ease",
+          "avoid confront to avoid confrontation that would make the other person angry",
+          "no consideration"
+        ],
+        "q_id": "2-3-1-0-1-KJability-1"
+      }
+    ]
+  },
+  {
+    "setup_file": "",
+    "language": "en",
+    "set_id": "2-3-1-0-2",
+    "lie_id": "0-2",
+    "conv_id": 1,
+    "truth_id": 1,
+    "lie_type": "Fear respect",
+    "emotion": "Angry",
+    "falsification": false,
+    "multiple_liar": false,
+    "real_reason_type": true,
+    "topic": {
+      "scenario": "Hospital Staff Bensonriefing",
+      "situation_topic": "a patient complaint.",
+      "situation": "Benson asks Joslyn about patient's complaint but previously, Benson cut staffing for the night shift, leading to Joslyn handling too many patients.",
+      "lie_objective": "Joslynvoid discipline.",
+      "leave_reason_B": "must respond to a phone call",
+      "leave_reason_D_1": "have to pick up dry cleaning",
+      "leave_reason_D_2": "have to quickly plug in my device to charge"
+    },
+    "relationship": "Medical team: Geneva, Tillie are coworkers of Joslyn, Benson admin of Joslyn",
+    "characters": {
+      "liar": "Joslyn",
+      "target": "Benson",
+      "accomplice": "Geneva",
+      "observer": "Tillie"
+    },
+    "character_roles": "Medical team: Geneva, Tillie are coworkers of Joslyn, Benson admin of Joslyn",
+    "lie": {
+      "real_reason_c": "Benson could suspend because Benson made an earlier scheduling error.",
+      "lie_c": "Sorry but may be the environment changes",
+      "truth_c": "needs to highlight the unsafe staffing levels Benson created."
+    },
+    "entity": {
+      "PLACE": 0,
+      "PERSON": 0,
+      "ORGANISM": 0,
+      "ARTIFACT/OBJECT": 0,
+      "TRADITION/EVENT": 0,
+      "ORGANIZATION": 0,
+      "FOOD": 0,
+      "TIME": 0
+    },
+    "part_1": "Benson: Good morning, everyone. Thanks for joining this briefing. I know it's been a hectic week, so let's dive right in. Joslyn, could you start with the updates on the patient rounds?\n\nJoslyn: Sure, Benson. We've seen some improvements in the post-op patients. Room 204, Mr. Harris, is responding well to the new medication regimen. However, we need to keep an eye on his blood pressure. It's been fluctuating.\n\nGeneva: That's good to hear about Mr. Harris. I'll make sure to check in on him during my rounds today. How about the new admissions?\n\nTillie: We had three new admissions overnight. Two are stable, but one, Mrs. Lee in Room 210, is showing signs of respiratory distress. I've already started her on oxygen therapy, but we might need to escalate if there's no improvement.\n\nBenson: Thanks for the heads-up, Tillie. Geneva, can you coordinate with respiratory therapy to ensure Mrs. Lee gets the support she needs?\n\nGeneva: Absolutely, Benson. I'll reach out to them right after this meeting. Joslyn, do you need any additional support with your rounds today?\n\nJoslyn: I think I'm covered, but I might need a hand with the paperwork later. The new electronic system is still a bit of a challenge for me.\n\nTillie: I can help with that, Joslyn. I've been getting the hang of it, and we can go through it together after lunch.\n\nBenson: Great teamwork, everyone. Let's keep communication open, especially with the new system in place. Anything else we need to address before we wrap up?\n\nGeneva: Just a quick note, the supply room is running low on some essentials. I'll send a list to procurement, but if anyone notices anything else, let me know.\n\nBenson: Perfect. Thanks, Geneva. If there's nothing else, let's get to it. Keep up the great work, team.\n\nJoslyn: Thanks, Benson. Let's make it a good day.\n\nTillie: Agreed. See you all on the floor.",
+    "part_2": "Benson: If there's nothing else, let's get to it. Keep up the great work, team.\n\nJoslyn: Thanks, Benson. Let's make it a good day.\n\nTillie: Agreed. See you all on the floor.\n\nBenson: Actually, I need to step out for a moment. I have a call I must take. Catch up with you later.\n\nTillie: And I have to run out for a bit to pick up my dry cleaning. I'll be back soon.\n\nGeneva: No worries. See you both later.\n\n(Joslyn and Geneva continue the conversation.)\n\nJoslyn: You know, Geneva, I was thinking about the schedule mix-up last week. It really threw us off.\n\nGeneva: Oh, you mean when Benson accidentally double-booked the shifts?\n\nJoslyn: Exactly. It was a bit of a scramble to cover everything.\n\nGeneva: True, but I think we managed to handle it pretty well. Hopefully, it won't happen again.\n\nJoslyn: I hope so too. Maybe we can suggest a double-check system to Benson when he's back.\n\nGeneva: That's a good idea. It might help prevent any future confusion.\n\nJoslyn: Agreed. Let's bring it up at the next meeting. For now, let's focus on getting through today.\n\nGeneva: Sounds like a plan. Let's make it a smooth one.",
+    "part_3": "Tillie: I'm back. Sorry for the quick exit earlier. Did I miss anything important?\n\nGeneva: Not much, just some brainstorming with Joslyn about improving our scheduling system.\n\nJoslyn: Yeah, we were thinking of suggesting a double-check system to Benson to avoid any future mix-ups.\n\nTillie: That sounds like a solid plan. Speaking of plans, I just dealt with a patient complaint. Mrs. Thompson in Room 215 wasn't happy with the wait time for her medication.\n\nGeneva: Oh no, what happened?\n\nTillie: It seems like we were short-staffed during the shift change, and it took longer than usual to get to her.\n\nJoslyn: That's frustrating. It's tough when we're stretched so thin. \n\nTillie: Exactly. It's becoming a pattern, and it's not safe for the patients or us.\n\nGeneva: We should definitely bring this up with Benson. The staffing levels need to be addressed urgently.\n\nTillie: Agreed. It's not sustainable, and it puts everyone at risk.\n\nJoslyn: Let's make sure we highlight this in our next meeting. It's too important to ignore.\n\nTillie: Absolutely. Oh, I have to leave again now. My device is about to die, and I need to plug it in. I'll catch up with you both later.\n\nGeneva: No problem, Tillie. See you later.\n\nJoslyn: Take care, Tillie. We'll keep things going here.",
+    "part_4": "Benson: I'm back, everyone. Sorry for stepping out earlier. Joslyn, I heard there was a patient complaint today. Can you fill me in?\n\nJoslyn: Yes, Benson. Mrs. Thompson in Room 215 was upset about the delay in receiving her medication.\n\nBenson: That's concerning. Do we know what caused the delay?\n\nJoslyn: Well, it happened during the shift change. We were a bit short-staffed, which made it difficult to keep up with everything.\n\nGeneva: It's been a recurring issue, Benson. The reduced staffing levels at night are really stretching us thin.\n\nBenson: I see. I thought the adjustments would help streamline things, but it seems like it's causing more problems.\n\nJoslyn: Sorry, but maybe the environment changes are making it harder to manage patient care effectively.\n\nGeneva: Exactly. We need to ensure we have enough hands on deck, especially during critical times like shift changes.\n\nBenson: Understood. Let's look into this further and see how we can improve the situation. Thanks for bringing it to my attention.",
+    "full_context": "Benson: Good morning, everyone. Thanks for joining this briefing. I know it's been a hectic week, so let's dive right in. Joslyn, could you start with the updates on the patient rounds?\n\nJoslyn: Sure, Benson. We've seen some improvements in the post-op patients. Room 204, Mr. Harris, is responding well to the new medication regimen. However, we need to keep an eye on his blood pressure. It's been fluctuating.\n\nGeneva: That's good to hear about Mr. Harris. I'll make sure to check in on him during my rounds today. How about the new admissions?\n\nTillie: We had three new admissions overnight. Two are stable, but one, Mrs. Lee in Room 210, is showing signs of respiratory distress. I've already started her on oxygen therapy, but we might need to escalate if there's no improvement.\n\nBenson: Thanks for the heads-up, Tillie. Geneva, can you coordinate with respiratory therapy to ensure Mrs. Lee gets the support she needs?\n\nGeneva: Absolutely, Benson. I'll reach out to them right after this meeting. Joslyn, do you need any additional support with your rounds today?\n\nJoslyn: I think I'm covered, but I might need a hand with the paperwork later. The new electronic system is still a bit of a challenge for me.\n\nTillie: I can help with that, Joslyn. I've been getting the hang of it, and we can go through it together after lunch.\n\nBenson: Great teamwork, everyone. Let's keep communication open, especially with the new system in place. Anything else we need to address before we wrap up?\n\nGeneva: Just a quick note, the supply room is running low on some essentials. I'll send a list to procurement, but if anyone notices anything else, let me know.\n\nBenson: Perfect. Thanks, Geneva. If there's nothing else, let's get to it. Keep up the great work, team.\n\nJoslyn: Thanks, Benson. Let's make it a good day.\n\nTillie: Agreed. See you all on the floor.\n\nBenson: If there's nothing else, let's get to it. Keep up the great work, team.\n\nJoslyn: Thanks, Benson. Let's make it a good day.\n\nTillie: Agreed. See you all on the floor.\n\nBenson: Actually, I need to step out for a moment. I have a call I must take. Catch up with you later.\n\nTillie: And I have to run out for a bit to pick up my dry cleaning. I'll be back soon.\n\nGeneva: No worries. See you both later.\n\n(Joslyn and Geneva continue the conversation.)\n\nJoslyn: You know, Geneva, I was thinking about the schedule mix-up last week. It really threw us off.\n\nGeneva: Oh, you mean when Benson accidentally double-booked the shifts?\n\nJoslyn: Exactly. It was a bit of a scramble to cover everything.\n\nGeneva: True, but I think we managed to handle it pretty well. Hopefully, it won't happen again.\n\nJoslyn: I hope so too. Maybe we can suggest a double-check system to Benson when he's back.\n\nGeneva: That's a good idea. It might help prevent any future confusion.\n\nJoslyn: Agreed. Let's bring it up at the next meeting. For now, let's focus on getting through today.\n\nGeneva: Sounds like a plan. Let's make it a smooth one.\n\nTillie: I'm back. Sorry for the quick exit earlier. Did I miss anything important?\n\nGeneva: Not much, just some brainstorming with Joslyn about improving our scheduling system.\n\nJoslyn: Yeah, we were thinking of suggesting a double-check system to Benson to avoid any future mix-ups.\n\nTillie: That sounds like a solid plan. Speaking of plans, I just dealt with a patient complaint. Mrs. Thompson in Room 215 wasn't happy with the wait time for her medication.\n\nGeneva: Oh no, what happened?\n\nTillie: It seems like we were short-staffed during the shift change, and it took longer than usual to get to her.\n\nJoslyn: That's frustrating. It's tough when we're stretched so thin. \n\nTillie: Exactly. It's becoming a pattern, and it's not safe for the patients or us.\n\nGeneva: We should definitely bring this up with Benson. The staffing levels need to be addressed urgently.\n\nTillie: Agreed. It's not sustainable, and it puts everyone at risk.\n\nJoslyn: Let's make sure we highlight this in our next meeting. It's too important to ignore.\n\nTillie: Absolutely. Oh, I have to leave again now. My device is about to die, and I need to plug it in. I'll catch up with you both later.\n\nGeneva: No problem, Tillie. See you later.\n\nJoslyn: Take care, Tillie. We'll keep things going here.\n\nBenson: I'm back, everyone. Sorry for stepping out earlier. Joslyn, I heard there was a patient complaint today. Can you fill me in?\n\nJoslyn: Yes, Benson. Mrs. Thompson in Room 215 was upset about the delay in receiving her medication.\n\nBenson: That's concerning. Do we know what caused the delay?\n\nJoslyn: Well, it happened during the shift change. We were a bit short-staffed, which made it difficult to keep up with everything.\n\nGeneva: It's been a recurring issue, Benson. The reduced staffing levels at night are really stretching us thin.\n\nBenson: I see. I thought the adjustments would help streamline things, but it seems like it's causing more problems.\n\nJoslyn: Sorry, but maybe the environment changes are making it harder to manage patient care effectively.\n\nGeneva: Exactly. We need to ensure we have enough hands on deck, especially during critical times like shift changes.\n\nBenson: Understood. Let's look into this further and see how we can improve the situation. Thanks for bringing it to my attention.",
+    "short_context": "Benson: If there's nothing else, let's get to it. Keep up the great work, team.\n\nJoslyn: Thanks, Benson. Let's make it a good day.\n\nTillie: Agreed. See you all on the floor.\n\nBenson: Actually, I need to step out for a moment. I have a call I must take. Catch up with you later.\n\nTillie: And I have to run out for a bit to pick up my dry cleaning. I'll be back soon.\n\nGeneva: No worries. See you both later.\n\n(Joslyn and Geneva continue the conversation.)\n\nJoslyn: You know, Geneva, I was thinking about the schedule mix-up last week. It really threw us off.\n\nGeneva: Oh, you mean when Benson accidentally double-booked the shifts?\n\nJoslyn: Exactly. It was a bit of a scramble to cover everything.\n\nGeneva: True, but I think we managed to handle it pretty well. Hopefully, it won't happen again.\n\nJoslyn: I hope so too. Maybe we can suggest a double-check system to Benson when he's back.\n\nGeneva: That's a good idea. It might help prevent any future confusion.\n\nJoslyn: Agreed. Let's bring it up at the next meeting. For now, let's focus on getting through today.\n\nGeneva: Sounds like a plan. Let's make it a smooth one.\n\nTillie: I'm back. Sorry for the quick exit earlier. Did I miss anything important?\n\nGeneva: Not much, just some brainstorming with Joslyn about improving our scheduling system.\n\nJoslyn: Yeah, we were thinking of suggesting a double-check system to Benson to avoid any future mix-ups.\n\nTillie: That sounds like a solid plan. Speaking of plans, I just dealt with a patient complaint. Mrs. Thompson in Room 215 wasn't happy with the wait time for her medication.\n\nGeneva: Oh no, what happened?\n\nTillie: It seems like we were short-staffed during the shift change, and it took longer than usual to get to her.\n\nJoslyn: That's frustrating. It's tough when we're stretched so thin. \n\nTillie: Exactly. It's becoming a pattern, and it's not safe for the patients or us.\n\nGeneva: We should definitely bring this up with Benson. The staffing levels need to be addressed urgently.\n\nTillie: Agreed. It's not sustainable, and it puts everyone at risk.\n\nJoslyn: Let's make sure we highlight this in our next meeting. It's too important to ignore.\n\nTillie: Absolutely. Oh, I have to leave again now. My device is about to die, and I need to plug it in. I'll catch up with you both later.\n\nGeneva: No problem, Tillie. See you later.\n\nJoslyn: Take care, Tillie. We'll keep things going here.\n\nBenson: I'm back, everyone. Sorry for stepping out earlier. Joslyn, I heard there was a patient complaint today. Can you fill me in?\n\nJoslyn: Yes, Benson. Mrs. Thompson in Room 215 was upset about the delay in receiving her medication.\n\nBenson: That's concerning. Do we know what caused the delay?\n\nJoslyn: Well, it happened during the shift change. We were a bit short-staffed, which made it difficult to keep up with everything.\n\nGeneva: It's been a recurring issue, Benson. The reduced staffing levels at night are really stretching us thin.\n\nBenson: I see. I thought the adjustments would help streamline things, but it seems like it's causing more problems.\n\nJoslyn: Sorry, but maybe the environment changes are making it harder to manage patient care effectively.\n\nGeneva: Exactly. We need to ensure we have enough hands on deck, especially during critical times like shift changes.\n\nBenson: Understood. Let's look into this further and see how we can improve the situation. Thanks for bringing it to my attention.",
+    "full_context_tokens": 1215,
+    "short_context_tokens": 792,
+    "comprehensionQA": [
+      {
+        "question": "Was what Joslyn told Benson, 'Sorry but may be the environment changes', true?",
+        "question_type": "comprehension",
+        "correct_answer": "No",
+        "wrong_answer": "Yes",
+        "q_id": "2-3-1-0-2-comprehension-0"
+      }
+    ],
+    "justificationQA": [
+      {
+        "question": "Why did Joslyn tell Benson 'may be the environment changes'?",
+        "question_type": "justification:liar:accompliance",
+        "correct_answer": "To spare Benson's feelings and avoid confrontation about the unsafe staffing levels.",
+        "wrong_answer": [
+          "Because the environment might actually change and affect the situation.",
+          "Joslyn was frustrated with Benson and wanted to avoid him.",
+          "Geneva suggested they blame the environment to keep things simple."
+        ],
+        "q_id": "2-3-1-0-2-justification-0"
+      }
+    ],
+    "fact_reasonQA": [
+      {
+        "question": "Who discussed 'Benson could suspend because Benson made an earlier scheduling error'?",
+        "question_type": "fact:real_reason",
+        "correct_answer": "Joslyn and Geneva talked about that.",
+        "wrong_answer": [
+          "Benson and Joslyn talked about that.",
+          "Tillie and Geneva talked about that.",
+          "Benson, Geneva and Joslyn talked about that."
+        ],
+        "q_id": "2-3-1-0-2-fact_reason-0"
+      }
+    ],
+    "fact_truthQA": [
+      {
+        "question": "Who discussed 'needs to highlight the unsafe staffing levels Benson created'?",
+        "question_type": "fact:truth",
+        "correct_answer": "Joslyn, Tillie and Geneva talked about that.",
+        "wrong_answer": [
+          "Joslyn and Geneva talked about that",
+          "Tillie and Joslyn talked about that",
+          "Tillie, Benson and Joslyn talked about that."
+        ],
+        "q_id": "2-3-1-0-2-fact_truth-0"
+      }
+    ],
+    "beliefQAs": [
+      {
+        "question": "What does Joslyn believe about 'Who discussed 'Benson could suspend because Benson made an earlier scheduling error'?'?",
+        "question_type": "tom:belief:accessible:reason",
+        "tom_type": "first-order:A",
+        "correct_answer": "Joslyn believes that Geneva discussed Benson could suspend because Benson made an earlier scheduling error.",
+        "wrong_answer": [
+          "Joslyn is unaware that Tillie discussed Benson could suspend because Benson made an earlier scheduling error.",
+          "Joslyn believes that Geneva and Tillie discussed Benson could suspend because Benson made an earlier scheduling error.",
+          "Joslyn believes that Tillie discussed Benson could suspend because Benson made an earlier scheduling error."
+        ],
+        "real_reason_accessibility": "accessible",
+        "q_id": "2-3-1-0-2-belief-0"
+      },
+      {
+        "question": "What does Benson believe about 'Who discussed 'Benson could suspend because Benson made an earlier scheduling error'?'?",
+        "question_type": "tom:belief:inaccessible:reason",
+        "tom_type": "first-order:B",
+        "correct_answer": "Benson is unaware that Joslyn and Geneva discussed Benson could suspend because Benson made an earlier scheduling error.",
+        "wrong_answer": [
+          "Benson is unaware that Geneva and Tillie discussed Benson could suspend because Benson made an earlier scheduling error.",
+          "Benson believes that Joslyn discussed Benson could suspend because Benson made an earlier scheduling error.",
+          "Benson believes that Geneva, Joslyn and Tillie discussed Benson could suspend because Benson made an earlier scheduling error."
+        ],
+        "real_reason_accessibility": "inaccessible",
+        "q_id": "2-3-1-0-2-belief-1"
+      },
+      {
+        "question": "What does Geneva believe about 'Who discussed 'Benson could suspend because Benson made an earlier scheduling error'?'?",
+        "question_type": "tom:belief:accessible:reason",
+        "tom_type": "first-order:C",
+        "correct_answer": "Geneva believes that Joslyn discussed Benson could suspend because Benson made an earlier scheduling error.",
+        "wrong_answer": [
+          "Geneva believes that Tillie discussed Benson could suspend because Benson made an earlier scheduling error.",
+          "Geneva is unaware that Joslyn discussed Benson could suspend because Benson made an earlier scheduling error.",
+          "Geneva is unaware that Joslyn and Benson discussed Benson could suspend because Benson made an earlier scheduling error."
+        ],
+        "real_reason_accessibility": "accessible",
+        "q_id": "2-3-1-0-2-belief-2"
+      },
+      {
+        "question": "What does Benson believe about Tillie's belief regarding 'Who discussed 'Benson could suspend because Benson made an earlier scheduling error'?'?",
+        "question_type": "tom:belief:inaccessible:reason",
+        "tom_type": "second-order:BD",
+        "correct_answer": "The text provides no information on what Benson believes about Tillie's belief regarding that. Therefore, it can be stated that Benson is unaware that Tillie is unaware that Benson could suspend because Benson made an earlier scheduling error.",
+        "wrong_answer": [
+          "The text provides no information on what Benson believes about Tillie's belief regarding that. Therefore, it can be stated that Benson is unaware that Tillie believes that Benson could suspend because Benson made an earlier scheduling error.",
+          "Benson believes that Tillie is unaware that Benson could suspend because Benson made an earlier scheduling error, because Tillie was not involved in the conversation when this was discussed.",
+          "Benson believes that Tillie believes that Benson could suspend because Benson made an earlier scheduling error."
+        ],
+        "missed_info_accessibility": "inaccessible",
+        "q_id": "2-3-1-0-2-belief-3"
+      },
+      {
+        "question": "What does Geneva believe about Joslyn's belief regarding 'Who discussed 'Benson could suspend because Benson made an earlier scheduling error'?'?",
+        "question_type": "tom:belief:accessible:reason",
+        "tom_type": "second-order:CA",
+        "correct_answer": "Geneva believes that Joslyn believes that Benson could suspend because Benson made an earlier scheduling error.",
+        "wrong_answer": [
+          "Geneva believes that Joslyn is unaware that Benson could suspend because Benson made an earlier scheduling error, because Joslyn was not involved in the conversation when this was discussed.",
+          "The text provides no information on what Geneva believes about Joslyn's belief regarding that. Therefore, it can be stated that Geneva is unaware that Joslyn is unaware that Benson could suspend because Benson made an earlier scheduling error.",
+          "The text provides no information on what Geneva believes about Joslyn's belief regarding that. Therefore, it can be stated that Geneva is unaware that Joslyn believes that Benson could suspend because Benson made an earlier scheduling error."
+        ],
+        "real_reason_accessibility": "accessible",
+        "q_id": "2-3-1-0-2-belief-4"
+      },
+      {
+        "question": "What does Geneva believe about Benson's belief regarding 'Who discussed 'Benson could suspend because Benson made an earlier scheduling error'?'?",
+        "question_type": "tom:belief:accessible:reason",
+        "tom_type": "second-order:CB",
+        "correct_answer": "Geneva believes that Benson is unaware that Benson could suspend because Benson made an earlier scheduling error, because Benson was not involved in the conversation when this was discussed.",
+        "wrong_answer": [
+          "Geneva believes that Benson believes that Benson could suspend because Benson made an earlier scheduling error.",
+          "The text provides no information on what Geneva believes about Benson's belief regarding that. Therefore, it can be stated that Geneva is unaware that Benson is unaware that Benson could suspend because Benson made an earlier scheduling error.",
+          "The text provides no information on what Geneva believes about Benson's belief regarding that. Therefore, it can be stated that Geneva is unaware that Benson believes that Benson could suspend because Benson made an earlier scheduling error."
+        ],
+        "real_reason_accessibility": "accessible",
+        "q_id": "2-3-1-0-2-belief-5"
+      },
+      {
+        "question": "What does Geneva believe about Tillie's belief regarding 'Who discussed 'Benson could suspend because Benson made an earlier scheduling error'?'?",
+        "question_type": "tom:belief:accessible:reason",
+        "tom_type": "second-order:CD",
+        "correct_answer": "Geneva believes that Tillie is unaware that Benson could suspend because Benson made an earlier scheduling error, because Tillie was not involved in the conversation when this was discussed.",
+        "wrong_answer": [
+          "Geneva believes that Tillie believes that Benson could suspend because Benson made an earlier scheduling error.",
+          "The text provides no information on what Geneva believes about Tillie's belief regarding that. Therefore, it can be stated that Geneva is unaware that Benson is unaware that Benson could suspend because Benson made an earlier scheduling error.",
+          "The text provides no information on what Geneva believes about Tillie's belief regarding that. Therefore, it can be stated that Geneva is unaware that Benson believes that Benson could suspend because Benson made an earlier scheduling error."
+        ],
+        "real_reason_accessibility": "accessible",
+        "q_id": "2-3-1-0-2-belief-6"
+      }
+    ],
+    "infoAccessibilityQA_list": [
+      {
+        "information": "Who discussed 'Benson could suspend because Benson made an earlier scheduling error'?",
+        "question": "List all the characters who have access to this information.",
+        "question_type": "tom:info_accessibility:list:real_reason",
+        "correct_answer": [
+          "Joslyn",
+          "Geneva"
+        ],
+        "wrong_answer": [
+          "Benson",
+          "Tillie"
+        ],
+        "q_id": "2-3-1-0-2-info_access_list-0"
+      },
+      {
+        "information": "Who discussed 'needs to highlight the unsafe staffing levels Benson created'?",
+        "question": "List all the characters who have access to this information.",
+        "question_type": "tom:info_accessibility:list:truth",
+        "correct_answer": [
+          "Joslyn",
+          "Tillie",
+          "Geneva"
+        ],
+        "wrong_answer": [
+          "Benson"
+        ],
+        "q_id": "2-3-1-0-2-info_access_list-1"
+      }
+    ],
+    "infoAccessibilityQAs_binary": [
+      {
+        "information": "Who discussed 'Benson could suspend because Benson made an earlier scheduling error'?",
+        "question": "Does Joslyn have access to this information?",
+        "question_type": "tom:info_accessibility:binary:real_reason",
+        "correct_answer": "yes",
+        "q_id": "2-3-1-0-2-info_access_binary-0"
+      },
+      {
+        "information": "Who discussed 'Benson could suspend because Benson made an earlier scheduling error'?",
+        "question": "Does Benson have access to this information?",
+        "question_type": "tom:info_accessibility:binary:real_reason",
+        "correct_answer": "no",
+        "q_id": "2-3-1-0-2-info_access_binary-1"
+      },
+      {
+        "information": "Who discussed 'Benson could suspend because Benson made an earlier scheduling error'?",
+        "question": "Does Geneva have access to this information?",
+        "question_type": "tom:info_accessibility:binary:real_reason",
+        "correct_answer": "yes",
+        "q_id": "2-3-1-0-2-info_access_binary-2"
+      },
+      {
+        "information": "Who discussed 'Benson could suspend because Benson made an earlier scheduling error'?",
+        "question": "Does Tillie have access to this information?",
+        "question_type": "tom:info_accessibility:binary:real_reason",
+        "correct_answer": "no",
+        "q_id": "2-3-1-0-2-info_access_binary-3"
+      },
+      {
+        "information": "Who discussed 'needs to highlight the unsafe staffing levels Benson created'?",
+        "question": "Does Joslyn have access to this information?",
+        "question_type": "tom:info_accessibility:binary:truth",
+        "correct_answer": "yes",
+        "q_id": "2-3-1-0-2-info_access_binary-4"
+      },
+      {
+        "information": "Who discussed 'needs to highlight the unsafe staffing levels Benson created'?",
+        "question": "Does Benson have access to this information?",
+        "question_type": "tom:info_accessibility:binary:truth",
+        "correct_answer": "no",
+        "q_id": "2-3-1-0-2-info_access_binary-5"
+      },
+      {
+        "information": "Who discussed 'needs to highlight the unsafe staffing levels Benson created'?",
+        "question": "Does Geneva have access to this information?",
+        "question_type": "tom:info_accessibility:binary:truth",
+        "correct_answer": "yes",
+        "q_id": "2-3-1-0-2-info_access_binary-6"
+      },
+      {
+        "information": "Who discussed 'needs to highlight the unsafe staffing levels Benson created'?",
+        "question": "Does Tillie have access to this information?",
+        "question_type": "tom:info_accessibility:binary:truth",
+        "correct_answer": "yes",
+        "q_id": "2-3-1-0-2-info_access_binary-7"
+      }
+    ],
+    "answerabilityQA_list": [
+      {
+        "fact_question_real_reason": "Who discussed 'Benson could suspend because Benson made an earlier scheduling error'?",
+        "question": "List all the characters who know the precise correct answer to this question.",
+        "question_type": "tom:answerability:list:real_reason",
+        "correct_answer": [
+          "Joslyn",
+          "Geneva"
+        ],
+        "wrong_answer": [
+          "Benson",
+          "Tillie"
+        ],
+        "q_id": "2-3-1-0-2-answerability_list-0"
+      },
+      {
+        "fact_question_truth": "Who discussed 'needs to highlight the unsafe staffing levels Benson created'?",
+        "question": "List all the characters who know the precise correct answer to this question.",
+        "question_type": "tom:answerability:list:truth",
+        "correct_answer": [
+          "Joslyn",
+          "Tillie",
+          "Geneva"
+        ],
+        "wrong_answer": [
+          "Benson"
+        ],
+        "q_id": "2-3-1-0-2-answerability_list-1"
+      }
+    ],
+    "answerabilityQAs_binary": [
+      {
+        "fact_question_real_reason": "Who discussed 'Benson could suspend because Benson made an earlier scheduling error'?",
+        "question": "Does Joslyn know the precise correct answer to this question?",
+        "question_type": "tom:answerability:binary:real_reason",
+        "correct_answer": "yes",
+        "q_id": "2-3-1-0-2-answerability_binary-0"
+      },
+      {
+        "fact_question_real_reason": "Who discussed 'Benson could suspend because Benson made an earlier scheduling error'?",
+        "question": "Does Benson know the precise correct answer to this question?",
+        "question_type": "tom:answerability:binary:real_reason",
+        "correct_answer": "no",
+        "q_id": "2-3-1-0-2-answerability_binary-1"
+      },
+      {
+        "fact_question_real_reason": "Who discussed 'Benson could suspend because Benson made an earlier scheduling error'?",
+        "question": "Does Geneva know the precise correct answer to this question?",
+        "question_type": "tom:answerability:binary:real_reason",
+        "correct_answer": "yes",
+        "q_id": "2-3-1-0-2-answerability_binary-2"
+      },
+      {
+        "fact_question_real_reason": "Who discussed 'Benson could suspend because Benson made an earlier scheduling error'?",
+        "question": "Does Tillie know the precise correct answer to this question?",
+        "question_type": "tom:answerability:binary:real_reason",
+        "correct_answer": "no",
+        "q_id": "2-3-1-0-2-answerability_binary-3"
+      },
+      {
+        "fact_question_truth": "Who discussed 'needs to highlight the unsafe staffing levels Benson created'?",
+        "question": "Does Joslyn know the precise correct answer to this question?",
+        "question_type": "tom:answerability:binary:truth",
+        "correct_answer": "yes",
+        "q_id": "2-3-1-0-2-answerability_binary-4"
+      },
+      {
+        "fact_question_truth": "Who discussed 'needs to highlight the unsafe staffing levels Benson created'?",
+        "question": "Does Benson know the precise correct answer to this question?",
+        "question_type": "tom:answerability:binary:truth",
+        "correct_answer": "no",
+        "q_id": "2-3-1-0-2-answerability_binary-5"
+      },
+      {
+        "fact_question_truth": "Who discussed 'needs to highlight the unsafe staffing levels Benson created'?",
+        "question": "Does Geneva know the precise correct answer to this question?",
+        "question_type": "tom:answerability:binary:truth",
+        "correct_answer": "yes",
+        "q_id": "2-3-1-0-2-answerability_binary-6"
+      },
+      {
+        "fact_question_truth": "Who discussed 'needs to highlight the unsafe staffing levels Benson created'?",
+        "question": "Does Tillie know the precise correct answer to this question?",
+        "question_type": "tom:answerability:binary:truth",
+        "correct_answer": "yes",
+        "q_id": "2-3-1-0-2-answerability_binary-7"
+      }
+    ],
+    "liedetectabilityQAs_list": [
+      {
+        "comprehension_q": "Was what Joslyn told Benson, 'Sorry but may be the environment changes', true?",
+        "question": "List all the characters who know the precise correct answer to this question.",
+        "question_type": "tom:liedetectability:list",
+        "correct_answer": [
+          "Joslyn",
+          "Geneva"
+        ],
+        "wrong_answer": [
+          "Benson",
+          "Tillie"
+        ],
+        "q_id": "2-3-1-0-2-liedetect_list-0"
+      }
+    ],
+    "liedetectabilityQAs_binary": [
+      {
+        "comprehension_q": "Was what Joslyn told Benson, 'Sorry but may be the environment changes', true?",
+        "question": "Does Joslyn know the precise correct answer to this question?",
+        "question_type": "tom:liedetectability:binary",
+        "correct_answer": "yes",
+        "q_id": "2-3-1-0-2-liedetect_binary-0"
+      },
+      {
+        "comprehension_q": "Was what Joslyn told Benson, 'Sorry but may be the environment changes', true?",
+        "question": "Does Benson know the precise correct answer to this question?",
+        "question_type": "tom:liedetectability:binary",
+        "correct_answer": "no",
+        "q_id": "2-3-1-0-2-liedetect_binary-1"
+      },
+      {
+        "comprehension_q": "Was what Joslyn told Benson, 'Sorry but may be the environment changes', true?",
+        "question": "Does Geneva know the precise correct answer to this question?",
+        "question_type": "tom:liedetectability:binary",
+        "correct_answer": "yes",
+        "q_id": "2-3-1-0-2-liedetect_binary-2"
+      },
+      {
+        "comprehension_q": "Was what Joslyn told Benson, 'Sorry but may be the environment changes', true?",
+        "question": "Does Tillie know the precise correct answer to this question?",
+        "question_type": "tom:liedetectability:binary",
+        "correct_answer": "no",
+        "q_id": "2-3-1-0-2-liedetect_binary-3"
+      }
+    ],
+    "lieabilityQAs": [
+      {
+        "question": "Please choose the correct answer from the options below:",
+        "question_type": "tom:lieability:liar:real_reason",
+        "correct_answer": "Joslyn tell Benson that 'Sorry but may be the environment changes' because Joslyn believes that Benson is unaware that Benson could suspend because Benson made an earlier scheduling error.",
+        "wrong_answer": [
+          "Joslyn tell Benson that 'Sorry but may be the environment changes' because Joslyn believes that Benson believes Benson could suspend because Benson made an earlier scheduling error.",
+          "Joslyn tell Benson that 'Sorry but may be the environment changes' because Joslyn is unaware that Benson is unaware that Benson could suspend because Benson made an earlier scheduling error.",
+          "Joslyn tell Benson that 'Sorry but may be the environment changes' because Joslyn is unaware that Benson believes Benson could suspend because Benson made an earlier scheduling error."
+        ],
+        "q_id": "2-3-1-0-2-lieability-0"
+      },
+      {
+        "question": "Please choose the correct answer from the options below:",
+        "question_type": "tom:lieability:liar:truth",
+        "correct_answer": "Joslyn tell Benson that 'Sorry but may be the environment changes' because Joslyn believes that Benson is unaware that needs to highlight the unsafe staffing levels Benson created.",
+        "wrong_answer": [
+          "Joslyn tell Benson that 'Sorry but may be the environment changes' because Joslyn believes that Benson believes needs to highlight the unsafe staffing levels Benson created.",
+          "Joslyn tell Benson that 'Sorry but may be the environment changes' because Joslyn is unaware that Benson is unaware that needs to highlight the unsafe staffing levels Benson created.",
+          "Joslyn tell Benson that 'Sorry but may be the environment changes' because Joslyn is unaware that Benson believes needs to highlight the unsafe staffing levels Benson created."
+        ],
+        "q_id": "2-3-1-0-2-lieability-1"
+      }
+    ],
+    "KJability": [
+      {
+        "question": "what Joslyn believes about their own type of consideration",
+        "question_type": "tom:KJ:liar",
+        "correct_answer": "Fear respect to show respect and fear to make the other person angry",
+        "wrong_answer": [
+          "white lie to comfort/make the other person feel at ease",
+          "avoid confront to avoid confrontation that would make the other person angry",
+          "no consideration"
+        ],
+        "q_id": "2-3-1-0-2-KJability-0"
+      },
+      {
+        "question": "what Benson believes about Joslyn's type of consideration",
+        "question_type": "tom:KJ:target",
+        "correct_answer": "Fear respect to show respect and fear to make the other person angry",
+        "wrong_answer": [
+          "white lie to comfort/make the other person feel at ease",
+          "avoid confront to avoid confrontation that would make the other person angry",
+          "no consideration"
+        ],
+        "q_id": "2-3-1-0-2-KJability-1"
+      }
+    ]
+  },
+  {
+    "setup_file": "",
+    "language": "en",
+    "set_id": "2-3-33-0-2",
+    "lie_id": "0-2",
+    "conv_id": 33,
+    "truth_id": 1,
+    "lie_type": "Fear respect",
+    "emotion": "Angry",
+    "falsification": false,
+    "multiple_liar": false,
+    "real_reason_type": true,
+    "topic": {
+      "scenario": "Vanesair Traffic Cecilyontrol Tower",
+      "situation_topic": "Kyrieiscussing a near-miss landing",
+      "situation": "Valorie asks Vanesa why the two incoming aircraft were placed on a collision course while Valorie left the console to take a personal call, forcing Vanesa to cover two sectors simultaneously.",
+      "lie_objective": "Vanesavoid career-ending suspension",
+      "leave_reason_B": "parking meter expiring",
+      "leave_reason_D_1": "have to briefly assist someone else in the household",
+      "leave_reason_D_2": "need to schedule a haircut or salon appointment"
+    },
+    "relationship": "Cecilyolleagues:: Cecily Kyrie are fellow controllers; Valorie is the Shift Supervisor.",
+    "characters": {
+      "liar": "Vanesa",
+      "target": "Valorie",
+      "accomplice": "Cecily",
+      "observer": "Kyrie"
+    },
+    "character_roles": "Cecilyolleagues:: Cecily Kyrie are fellow controllers; Valorie is the Shift Supervisor.",
+    "lie": {
+      "real_reason_c": "Valorie will suspend the license because the near-miss reflects badly on Valorie's supervision.",
+      "lie_c": "Sorry and think is because a thunderstorm.",
+      "truth_c": "It's not Vanesa's fault, Valorie left the console to take a personal call, leading to the error."
+    },
+    "entity": {
+      "PLACE": 0,
+      "PERSON": 0,
+      "ORGANISM": 0,
+      "ARTIFACT/OBJECT": 0,
+      "TRADITION/EVENT": 0,
+      "ORGANIZATION": 0,
+      "FOOD": 0,
+      "TIME": 0
+    },
+    "part_1": "Vanesa: Hey everyone, how's the shift going so far?\n\nValorie: Pretty smooth, Vanesa. We had a bit of a rush earlier, but things have calmed down now. How about you?\n\nCecily: Just finished coordinating that incoming flight from Denver. It was a bit tricky with the weather, but we managed.\n\nKyrie: Yeah, Cecily handled it like a pro. I was just about to check on the next set of arrivals. Anything I should know, Valorie?\n\nValorie: Just keep an eye on the wind speeds. They're picking up again, and we might need to adjust some of the landing sequences.\n\nVanesa: Got it. I'll monitor the radar closely. If anything changes, I'll let you know right away.\n\nCecily: Thanks, Vanesa. It's always good to have an extra set of eyes on these things.\n\nKyrie: Agreed. By the way, Valorie, do we have any updates on the maintenance schedule for runway three?\n\nValorie: Yes, actually. Maintenance is scheduled for late tonight, after the last flight. So, it shouldn't affect us during peak hours.\n\nVanesa: Perfect. That gives us some breathing room. Anything else on the agenda?\n\nCecily: Just the usual. I'll be handling the handover notes for the next shift. Anything specific you want me to include, Valorie?\n\nValorie: Just make sure to highlight the weather conditions and any changes in flight paths. Other than that, I think we're good.\n\nKyrie: Sounds like a plan. Let's keep everything running smoothly. Thanks for the updates, everyone.\n\nVanesa: No problem. Let's keep up the good work!",
+    "part_2": "Valorie: Sorry, everyone, I need to step out for a bit. My parking meter is about to expire. I'll be back soon.\n\nKyrie: And I need to help someone at home real quick. I'll catch up with you all later.\n\nVanesa: No worries, take your time. We'll hold down the fort.\n\nCecily: Yeah, we've got it covered. See you both later!\n\n[Valorie and Kyrie leave the conversation.]\n\nVanesa: So, Cecily, have you heard anything more about that incident last week?\n\nCecily: You mean the near-miss? Yeah, I heard Valorie's been under a lot of pressure because of it.\n\nVanesa: I can imagine. It's tough when something like that happens on your watch.\n\nCecily: Definitely. I think there might be some serious consequences for her. It's not easy being in charge when things go wrong.\n\nVanesa: True. It’s unfortunate, but I guess it’s part of the job. Hopefully, it won’t impact her too harshly.\n\nCecily: I hope so too. Valorie's a great supervisor, and it would be a shame if this incident overshadowed all her good work.\n\nVanesa: Agreed. Let's just hope everything gets resolved smoothly.",
+    "part_3": "Kyrie: Hey, I'm back. Did I miss anything important?\n\nVanesa: Not much, just chatting with Cecily about some recent events.\n\nCecily: Yeah, we were just discussing that near-miss landing incident.\n\nKyrie: Oh, right. That was a close call. I heard there were some issues with the console during that time.\n\nVanesa: It's not Valorie's fault, though. She had to leave the console to take a personal call, which led to the error.\n\nKyrie: That's tough. It's unfortunate how quickly things can go wrong in those situations.\n\nCecily: Exactly. It’s a reminder of how critical our roles are. We just have to support each other through these challenges.\n\nKyrie: Absolutely. Anyway, I have to leave again now. I need to schedule a haircut before the weekend sneaks up on me.\n\nVanesa: No problem, Kyrie. Take care of that, and we'll see you later.\n\nCecily: Yeah, don't worry about us. We'll keep things steady here.\n\nKyrie: Thanks, both of you. I'll catch up with you later!",
+    "part_4": "Valorie: Hey, I'm back. Sorry for the delay. Did everything go smoothly while I was gone?\n\nVanesa: Welcome back, Valorie! We managed, but there was a bit of a situation.\n\nValorie: Oh? What happened?\n\nCecily: Well, there was a bit of a mix-up with the flight paths. Two aircraft ended up on a converging course.\n\nValorie: That's concerning. How did that happen?\n\nVanesa: I'm really sorry, Valorie. I think it was because of the thunderstorm. It caused some unexpected shifts, and I was covering two sectors at once.\n\nValorie: I see. That storm's been causing all sorts of trouble. I'm just glad you were able to handle it.\n\nCecily: Yeah, Vanesa did a great job managing under pressure. It was a tough spot.\n\nValorie: Thanks for stepping up, Vanesa. I know it's not easy juggling multiple tasks like that.\n\nVanesa: No problem. I just hope it doesn't lead to any major issues for you.\n\nValorie: We'll sort it out. Let's just keep communicating and supporting each other. That's what matters most.",
+    "full_context": "Vanesa: Hey everyone, how's the shift going so far?\n\nValorie: Pretty smooth, Vanesa. We had a bit of a rush earlier, but things have calmed down now. How about you?\n\nCecily: Just finished coordinating that incoming flight from Denver. It was a bit tricky with the weather, but we managed.\n\nKyrie: Yeah, Cecily handled it like a pro. I was just about to check on the next set of arrivals. Anything I should know, Valorie?\n\nValorie: Just keep an eye on the wind speeds. They're picking up again, and we might need to adjust some of the landing sequences.\n\nVanesa: Got it. I'll monitor the radar closely. If anything changes, I'll let you know right away.\n\nCecily: Thanks, Vanesa. It's always good to have an extra set of eyes on these things.\n\nKyrie: Agreed. By the way, Valorie, do we have any updates on the maintenance schedule for runway three?\n\nValorie: Yes, actually. Maintenance is scheduled for late tonight, after the last flight. So, it shouldn't affect us during peak hours.\n\nVanesa: Perfect. That gives us some breathing room. Anything else on the agenda?\n\nCecily: Just the usual. I'll be handling the handover notes for the next shift. Anything specific you want me to include, Valorie?\n\nValorie: Just make sure to highlight the weather conditions and any changes in flight paths. Other than that, I think we're good.\n\nKyrie: Sounds like a plan. Let's keep everything running smoothly. Thanks for the updates, everyone.\n\nVanesa: No problem. Let's keep up the good work!\n\nValorie: Sorry, everyone, I need to step out for a bit. My parking meter is about to expire. I'll be back soon.\n\nKyrie: And I need to help someone at home real quick. I'll catch up with you all later.\n\nVanesa: No worries, take your time. We'll hold down the fort.\n\nCecily: Yeah, we've got it covered. See you both later!\n\n[Valorie and Kyrie leave the conversation.]\n\nVanesa: So, Cecily, have you heard anything more about that incident last week?\n\nCecily: You mean the near-miss? Yeah, I heard Valorie's been under a lot of pressure because of it.\n\nVanesa: I can imagine. It's tough when something like that happens on your watch.\n\nCecily: Definitely. I think there might be some serious consequences for her. It's not easy being in charge when things go wrong.\n\nVanesa: True. It’s unfortunate, but I guess it’s part of the job. Hopefully, it won’t impact her too harshly.\n\nCecily: I hope so too. Valorie's a great supervisor, and it would be a shame if this incident overshadowed all her good work.\n\nVanesa: Agreed. Let's just hope everything gets resolved smoothly.\n\nKyrie: Hey, I'm back. Did I miss anything important?\n\nVanesa: Not much, just chatting with Cecily about some recent events.\n\nCecily: Yeah, we were just discussing that near-miss landing incident.\n\nKyrie: Oh, right. That was a close call. I heard there were some issues with the console during that time.\n\nVanesa: It's not Valorie's fault, though. She had to leave the console to take a personal call, which led to the error.\n\nKyrie: That's tough. It's unfortunate how quickly things can go wrong in those situations.\n\nCecily: Exactly. It’s a reminder of how critical our roles are. We just have to support each other through these challenges.\n\nKyrie: Absolutely. Anyway, I have to leave again now. I need to schedule a haircut before the weekend sneaks up on me.\n\nVanesa: No problem, Kyrie. Take care of that, and we'll see you later.\n\nCecily: Yeah, don't worry about us. We'll keep things steady here.\n\nKyrie: Thanks, both of you. I'll catch up with you later!\n\nValorie: Hey, I'm back. Sorry for the delay. Did everything go smoothly while I was gone?\n\nVanesa: Welcome back, Valorie! We managed, but there was a bit of a situation.\n\nValorie: Oh? What happened?\n\nCecily: Well, there was a bit of a mix-up with the flight paths. Two aircraft ended up on a converging course.\n\nValorie: That's concerning. How did that happen?\n\nVanesa: I'm really sorry, Valorie. I think it was because of the thunderstorm. It caused some unexpected shifts, and I was covering two sectors at once.\n\nValorie: I see. That storm's been causing all sorts of trouble. I'm just glad you were able to handle it.\n\nCecily: Yeah, Vanesa did a great job managing under pressure. It was a tough spot.\n\nValorie: Thanks for stepping up, Vanesa. I know it's not easy juggling multiple tasks like that.\n\nVanesa: No problem. I just hope it doesn't lead to any major issues for you.\n\nValorie: We'll sort it out. Let's just keep communicating and supporting each other. That's what matters most.",
+    "short_context": "Valorie: Sorry, everyone, I need to step out for a bit. My parking meter is about to expire. I'll be back soon.\n\nKyrie: And I need to help someone at home real quick. I'll catch up with you all later.\n\nVanesa: No worries, take your time. We'll hold down the fort.\n\nCecily: Yeah, we've got it covered. See you both later!\n\n[Valorie and Kyrie leave the conversation.]\n\nVanesa: So, Cecily, have you heard anything more about that incident last week?\n\nCecily: You mean the near-miss? Yeah, I heard Valorie's been under a lot of pressure because of it.\n\nVanesa: I can imagine. It's tough when something like that happens on your watch.\n\nCecily: Definitely. I think there might be some serious consequences for her. It's not easy being in charge when things go wrong.\n\nVanesa: True. It’s unfortunate, but I guess it’s part of the job. Hopefully, it won’t impact her too harshly.\n\nCecily: I hope so too. Valorie's a great supervisor, and it would be a shame if this incident overshadowed all her good work.\n\nVanesa: Agreed. Let's just hope everything gets resolved smoothly.\n\nKyrie: Hey, I'm back. Did I miss anything important?\n\nVanesa: Not much, just chatting with Cecily about some recent events.\n\nCecily: Yeah, we were just discussing that near-miss landing incident.\n\nKyrie: Oh, right. That was a close call. I heard there were some issues with the console during that time.\n\nVanesa: It's not Valorie's fault, though. She had to leave the console to take a personal call, which led to the error.\n\nKyrie: That's tough. It's unfortunate how quickly things can go wrong in those situations.\n\nCecily: Exactly. It’s a reminder of how critical our roles are. We just have to support each other through these challenges.\n\nKyrie: Absolutely. Anyway, I have to leave again now. I need to schedule a haircut before the weekend sneaks up on me.\n\nVanesa: No problem, Kyrie. Take care of that, and we'll see you later.\n\nCecily: Yeah, don't worry about us. We'll keep things steady here.\n\nKyrie: Thanks, both of you. I'll catch up with you later!\n\nValorie: Hey, I'm back. Sorry for the delay. Did everything go smoothly while I was gone?\n\nVanesa: Welcome back, Valorie! We managed, but there was a bit of a situation.\n\nValorie: Oh? What happened?\n\nCecily: Well, there was a bit of a mix-up with the flight paths. Two aircraft ended up on a converging course.\n\nValorie: That's concerning. How did that happen?\n\nVanesa: I'm really sorry, Valorie. I think it was because of the thunderstorm. It caused some unexpected shifts, and I was covering two sectors at once.\n\nValorie: I see. That storm's been causing all sorts of trouble. I'm just glad you were able to handle it.\n\nCecily: Yeah, Vanesa did a great job managing under pressure. It was a tough spot.\n\nValorie: Thanks for stepping up, Vanesa. I know it's not easy juggling multiple tasks like that.\n\nVanesa: No problem. I just hope it doesn't lead to any major issues for you.\n\nValorie: We'll sort it out. Let's just keep communicating and supporting each other. That's what matters most.",
+    "full_context_tokens": 1083,
+    "short_context_tokens": 736,
+    "comprehensionQA": [
+      {
+        "question": "Was what Vanesa told Valorie, 'Sorry and think is because a thunderstorm', true?",
+        "question_type": "comprehension",
+        "correct_answer": "No",
+        "wrong_answer": "Yes",
+        "q_id": "2-3-33-0-2-comprehension-0"
+      }
+    ],
+    "justificationQA": [
+      {
+        "question": "Why did Vanesa tell Valorie 'it's because a thunderstorm'?",
+        "question_type": "justification:liar:accompliance",
+        "correct_answer": "To protect Valorie from the consequences of her own mistake and maintain their professional relationship.",
+        "wrong_answer": [
+          "Because a thunderstorm actually caused the issue.",
+          "Vanesa was frustrated with Valorie and wanted to mislead her.",
+          "Cecily suggested blaming the weather to avoid trouble."
+        ],
+        "q_id": "2-3-33-0-2-justification-0"
+      }
+    ],
+    "fact_reasonQA": [
+      {
+        "question": "Who discussed 'Valorie will suspend the license because the near-miss reflects badly on Valorie's supervision'?",
+        "question_type": "fact:real_reason",
+        "correct_answer": "Vanesa and Cecily talked about that.",
+        "wrong_answer": [
+          "Valorie, Cecily and Vanesa talked about that.",
+          "Valorie and Vanesa talked about that.",
+          "Vanesa, Kyrie and Cecily talked about that."
+        ],
+        "q_id": "2-3-33-0-2-fact_reason-0"
+      }
+    ],
+    "fact_truthQA": [
+      {
+        "question": "Who discussed 'It's not Vanesa's fault, Valorie left the console to take a personal call, leading to the error'?",
+        "question_type": "fact:truth",
+        "correct_answer": "Vanesa, Kyrie and Cecily talked about that.",
+        "wrong_answer": [
+          "Kyrie, Valorie and Vanesa talked about that.",
+          "Kyrie and Cecily talked about that",
+          "Kyrie and Vanesa talked about that"
+        ],
+        "q_id": "2-3-33-0-2-fact_truth-0"
+      }
+    ],
+    "beliefQAs": [
+      {
+        "question": "What does Vanesa believe about 'Who discussed 'Valorie will suspend the license because the near-miss reflects badly on Valorie's supervision'?'?",
+        "question_type": "tom:belief:accessible:reason",
+        "tom_type": "first-order:A",
+        "correct_answer": "Vanesa believes that Cecily discussed Valorie will suspend the license because the near-miss reflects badly on Valorie's supervision.",
+        "wrong_answer": [
+          "Vanesa is unaware that Valorie discussed Valorie will suspend the license because the near-miss reflects badly on Valorie's supervision.",
+          "Vanesa believes that Cecily and Valorie discussed Valorie will suspend the license because the near-miss reflects badly on Valorie's supervision.",
+          "Vanesa believes that Cecily, Kyrie and Valorie discussed Valorie will suspend the license because the near-miss reflects badly on Valorie's supervision."
+        ],
+        "real_reason_accessibility": "accessible",
+        "q_id": "2-3-33-0-2-belief-0"
+      },
+      {
+        "question": "What does Valorie believe about 'Who discussed 'Valorie will suspend the license because the near-miss reflects badly on Valorie's supervision'?'?",
+        "question_type": "tom:belief:inaccessible:reason",
+        "tom_type": "first-order:B",
+        "correct_answer": "Valorie is unaware that Vanesa and Cecily discussed Valorie will suspend the license because the near-miss reflects badly on Valorie's supervision.",
+        "wrong_answer": [
+          "Valorie is unaware that Vanesa and Kyrie discussed Valorie will suspend the license because the near-miss reflects badly on Valorie's supervision.",
+          "Valorie believes that Cecily discussed Valorie will suspend the license because the near-miss reflects badly on Valorie's supervision.",
+          "Valorie believes that Kyrie discussed Valorie will suspend the license because the near-miss reflects badly on Valorie's supervision."
+        ],
+        "real_reason_accessibility": "inaccessible",
+        "q_id": "2-3-33-0-2-belief-1"
+      },
+      {
+        "question": "What does Cecily believe about 'Who discussed 'Valorie will suspend the license because the near-miss reflects badly on Valorie's supervision'?'?",
+        "question_type": "tom:belief:accessible:reason",
+        "tom_type": "first-order:C",
+        "correct_answer": "Cecily believes that Vanesa discussed Valorie will suspend the license because the near-miss reflects badly on Valorie's supervision.",
+        "wrong_answer": [
+          "Cecily believes that Vanesa and Valorie discussed Valorie will suspend the license because the near-miss reflects badly on Valorie's supervision.",
+          "Cecily is unaware that Vanesa discussed Valorie will suspend the license because the near-miss reflects badly on Valorie's supervision.",
+          "Cecily is unaware that Kyrie and Vanesa discussed Valorie will suspend the license because the near-miss reflects badly on Valorie's supervision."
+        ],
+        "real_reason_accessibility": "accessible",
+        "q_id": "2-3-33-0-2-belief-2"
+      },
+      {
+        "question": "What does Valorie believe about Kyrie's belief regarding 'Who discussed 'Valorie will suspend the license because the near-miss reflects badly on Valorie's supervision'?'?",
+        "question_type": "tom:belief:inaccessible:reason",
+        "tom_type": "second-order:BD",
+        "correct_answer": "The text provides no information on what Valorie believes about Kyrie's belief regarding that. Therefore, it can be stated that Valorie is unaware that Kyrie is unaware that Valorie will suspend the license because the near-miss reflects badly on Valorie's supervision.",
+        "wrong_answer": [
+          "The text provides no information on what Valorie believes about Kyrie's belief regarding that. Therefore, it can be stated that Valorie is unaware that Kyrie believes that Valorie will suspend the license because the near-miss reflects badly on Valorie's supervision.",
+          "Valorie believes that Kyrie is unaware that Valorie will suspend the license because the near-miss reflects badly on Valorie's supervision, because Kyrie was not involved in the conversation when this was discussed.",
+          "Valorie believes that Kyrie believes that Valorie will suspend the license because the near-miss reflects badly on Valorie's supervision."
+        ],
+        "missed_info_accessibility": "inaccessible",
+        "q_id": "2-3-33-0-2-belief-3"
+      },
+      {
+        "question": "What does Cecily believe about Vanesa's belief regarding 'Who discussed 'Valorie will suspend the license because the near-miss reflects badly on Valorie's supervision'?'?",
+        "question_type": "tom:belief:accessible:reason",
+        "tom_type": "second-order:CA",
+        "correct_answer": "Cecily believes that Vanesa believes that Valorie will suspend the license because the near-miss reflects badly on Valorie's supervision.",
+        "wrong_answer": [
+          "Cecily believes that Vanesa is unaware that Valorie will suspend the license because the near-miss reflects badly on Valorie's supervision, because Vanesa was not involved in the conversation when this was discussed.",
+          "The text provides no information on what Cecily believes about Vanesa's belief regarding that. Therefore, it can be stated that Cecily is unaware that Vanesa is unaware that Valorie will suspend the license because the near-miss reflects badly on Valorie's supervision.",
+          "The text provides no information on what Cecily believes about Vanesa's belief regarding that. Therefore, it can be stated that Cecily is unaware that Vanesa believes that Valorie will suspend the license because the near-miss reflects badly on Valorie's supervision."
+        ],
+        "real_reason_accessibility": "accessible",
+        "q_id": "2-3-33-0-2-belief-4"
+      },
+      {
+        "question": "What does Cecily believe about Valorie's belief regarding 'Who discussed 'Valorie will suspend the license because the near-miss reflects badly on Valorie's supervision'?'?",
+        "question_type": "tom:belief:accessible:reason",
+        "tom_type": "second-order:CB",
+        "correct_answer": "Cecily believes that Valorie is unaware that Valorie will suspend the license because the near-miss reflects badly on Valorie's supervision, because Valorie was not involved in the conversation when this was discussed.",
+        "wrong_answer": [
+          "Cecily believes that Valorie believes that Valorie will suspend the license because the near-miss reflects badly on Valorie's supervision.",
+          "The text provides no information on what Cecily believes about Valorie's belief regarding that. Therefore, it can be stated that Cecily is unaware that Valorie is unaware that Valorie will suspend the license because the near-miss reflects badly on Valorie's supervision.",
+          "The text provides no information on what Cecily believes about Valorie's belief regarding that. Therefore, it can be stated that Cecily is unaware that Valorie believes that Valorie will suspend the license because the near-miss reflects badly on Valorie's supervision."
+        ],
+        "real_reason_accessibility": "accessible",
+        "q_id": "2-3-33-0-2-belief-5"
+      },
+      {
+        "question": "What does Cecily believe about Kyrie's belief regarding 'Who discussed 'Valorie will suspend the license because the near-miss reflects badly on Valorie's supervision'?'?",
+        "question_type": "tom:belief:accessible:reason",
+        "tom_type": "second-order:CD",
+        "correct_answer": "Cecily believes that Kyrie is unaware that Valorie will suspend the license because the near-miss reflects badly on Valorie's supervision, because Kyrie was not involved in the conversation when this was discussed.",
+        "wrong_answer": [
+          "Cecily believes that Kyrie believes that Valorie will suspend the license because the near-miss reflects badly on Valorie's supervision.",
+          "The text provides no information on what Cecily believes about Kyrie's belief regarding that. Therefore, it can be stated that Cecily is unaware that Valorie is unaware that Valorie will suspend the license because the near-miss reflects badly on Valorie's supervision.",
+          "The text provides no information on what Cecily believes about Kyrie's belief regarding that. Therefore, it can be stated that Cecily is unaware that Valorie believes that Valorie will suspend the license because the near-miss reflects badly on Valorie's supervision."
+        ],
+        "real_reason_accessibility": "accessible",
+        "q_id": "2-3-33-0-2-belief-6"
+      }
+    ],
+    "infoAccessibilityQA_list": [
+      {
+        "information": "Who discussed 'Valorie will suspend the license because the near-miss reflects badly on Valorie's supervision'?",
+        "question": "List all the characters who have access to this information.",
+        "question_type": "tom:info_accessibility:list:real_reason",
+        "correct_answer": [
+          "Vanesa",
+          "Cecily"
+        ],
+        "wrong_answer": [
+          "Valorie",
+          "Kyrie"
+        ],
+        "q_id": "2-3-33-0-2-info_access_list-0"
+      },
+      {
+        "information": "Who discussed 'It's not Vanesa's fault, Valorie left the console to take a personal call, leading to the error'?",
+        "question": "List all the characters who have access to this information.",
+        "question_type": "tom:info_accessibility:list:truth",
+        "correct_answer": [
+          "Vanesa",
+          "Kyrie",
+          "Cecily"
+        ],
+        "wrong_answer": [
+          "Valorie"
+        ],
+        "q_id": "2-3-33-0-2-info_access_list-1"
+      }
+    ],
+    "infoAccessibilityQAs_binary": [
+      {
+        "information": "Who discussed 'Valorie will suspend the license because the near-miss reflects badly on Valorie's supervision'?",
+        "question": "Does Vanesa have access to this information?",
+        "question_type": "tom:info_accessibility:binary:real_reason",
+        "correct_answer": "yes",
+        "q_id": "2-3-33-0-2-info_access_binary-0"
+      },
+      {
+        "information": "Who discussed 'Valorie will suspend the license because the near-miss reflects badly on Valorie's supervision'?",
+        "question": "Does Valorie have access to this information?",
+        "question_type": "tom:info_accessibility:binary:real_reason",
+        "correct_answer": "no",
+        "q_id": "2-3-33-0-2-info_access_binary-1"
+      },
+      {
+        "information": "Who discussed 'Valorie will suspend the license because the near-miss reflects badly on Valorie's supervision'?",
+        "question": "Does Cecily have access to this information?",
+        "question_type": "tom:info_accessibility:binary:real_reason",
+        "correct_answer": "yes",
+        "q_id": "2-3-33-0-2-info_access_binary-2"
+      },
+      {
+        "information": "Who discussed 'Valorie will suspend the license because the near-miss reflects badly on Valorie's supervision'?",
+        "question": "Does Kyrie have access to this information?",
+        "question_type": "tom:info_accessibility:binary:real_reason",
+        "correct_answer": "no",
+        "q_id": "2-3-33-0-2-info_access_binary-3"
+      },
+      {
+        "information": "Who discussed 'It's not Vanesa's fault, Valorie left the console to take a personal call, leading to the error'?",
+        "question": "Does Vanesa have access to this information?",
+        "question_type": "tom:info_accessibility:binary:truth",
+        "correct_answer": "yes",
+        "q_id": "2-3-33-0-2-info_access_binary-4"
+      },
+      {
+        "information": "Who discussed 'It's not Vanesa's fault, Valorie left the console to take a personal call, leading to the error'?",
+        "question": "Does Valorie have access to this information?",
+        "question_type": "tom:info_accessibility:binary:truth",
+        "correct_answer": "no",
+        "q_id": "2-3-33-0-2-info_access_binary-5"
+      },
+      {
+        "information": "Who discussed 'It's not Vanesa's fault, Valorie left the console to take a personal call, leading to the error'?",
+        "question": "Does Cecily have access to this information?",
+        "question_type": "tom:info_accessibility:binary:truth",
+        "correct_answer": "yes",
+        "q_id": "2-3-33-0-2-info_access_binary-6"
+      },
+      {
+        "information": "Who discussed 'It's not Vanesa's fault, Valorie left the console to take a personal call, leading to the error'?",
+        "question": "Does Kyrie have access to this information?",
+        "question_type": "tom:info_accessibility:binary:truth",
+        "correct_answer": "yes",
+        "q_id": "2-3-33-0-2-info_access_binary-7"
+      }
+    ],
+    "answerabilityQA_list": [
+      {
+        "fact_question_real_reason": "Who discussed 'Valorie will suspend the license because the near-miss reflects badly on Valorie's supervision'?",
+        "question": "List all the characters who know the precise correct answer to this question.",
+        "question_type": "tom:answerability:list:real_reason",
+        "correct_answer": [
+          "Vanesa",
+          "Cecily"
+        ],
+        "wrong_answer": [
+          "Valorie",
+          "Kyrie"
+        ],
+        "q_id": "2-3-33-0-2-answerability_list-0"
+      },
+      {
+        "fact_question_truth": "Who discussed 'It's not Vanesa's fault, Valorie left the console to take a personal call, leading to the error'?",
+        "question": "List all the characters who know the precise correct answer to this question.",
+        "question_type": "tom:answerability:list:truth",
+        "correct_answer": [
+          "Vanesa",
+          "Kyrie",
+          "Cecily"
+        ],
+        "wrong_answer": [
+          "Valorie"
+        ],
+        "q_id": "2-3-33-0-2-answerability_list-1"
+      }
+    ],
+    "answerabilityQAs_binary": [
+      {
+        "fact_question_real_reason": "Who discussed 'Valorie will suspend the license because the near-miss reflects badly on Valorie's supervision'?",
+        "question": "Does Vanesa know the precise correct answer to this question?",
+        "question_type": "tom:answerability:binary:real_reason",
+        "correct_answer": "yes",
+        "q_id": "2-3-33-0-2-answerability_binary-0"
+      },
+      {
+        "fact_question_real_reason": "Who discussed 'Valorie will suspend the license because the near-miss reflects badly on Valorie's supervision'?",
+        "question": "Does Valorie know the precise correct answer to this question?",
+        "question_type": "tom:answerability:binary:real_reason",
+        "correct_answer": "no",
+        "q_id": "2-3-33-0-2-answerability_binary-1"
+      },
+      {
+        "fact_question_real_reason": "Who discussed 'Valorie will suspend the license because the near-miss reflects badly on Valorie's supervision'?",
+        "question": "Does Cecily know the precise correct answer to this question?",
+        "question_type": "tom:answerability:binary:real_reason",
+        "correct_answer": "yes",
+        "q_id": "2-3-33-0-2-answerability_binary-2"
+      },
+      {
+        "fact_question_real_reason": "Who discussed 'Valorie will suspend the license because the near-miss reflects badly on Valorie's supervision'?",
+        "question": "Does Kyrie know the precise correct answer to this question?",
+        "question_type": "tom:answerability:binary:real_reason",
+        "correct_answer": "no",
+        "q_id": "2-3-33-0-2-answerability_binary-3"
+      },
+      {
+        "fact_question_truth": "Who discussed 'It's not Vanesa's fault, Valorie left the console to take a personal call, leading to the error'?",
+        "question": "Does Vanesa know the precise correct answer to this question?",
+        "question_type": "tom:answerability:binary:truth",
+        "correct_answer": "yes",
+        "q_id": "2-3-33-0-2-answerability_binary-4"
+      },
+      {
+        "fact_question_truth": "Who discussed 'It's not Vanesa's fault, Valorie left the console to take a personal call, leading to the error'?",
+        "question": "Does Valorie know the precise correct answer to this question?",
+        "question_type": "tom:answerability:binary:truth",
+        "correct_answer": "no",
+        "q_id": "2-3-33-0-2-answerability_binary-5"
+      },
+      {
+        "fact_question_truth": "Who discussed 'It's not Vanesa's fault, Valorie left the console to take a personal call, leading to the error'?",
+        "question": "Does Cecily know the precise correct answer to this question?",
+        "question_type": "tom:answerability:binary:truth",
+        "correct_answer": "yes",
+        "q_id": "2-3-33-0-2-answerability_binary-6"
+      },
+      {
+        "fact_question_truth": "Who discussed 'It's not Vanesa's fault, Valorie left the console to take a personal call, leading to the error'?",
+        "question": "Does Kyrie know the precise correct answer to this question?",
+        "question_type": "tom:answerability:binary:truth",
+        "correct_answer": "yes",
+        "q_id": "2-3-33-0-2-answerability_binary-7"
+      }
+    ],
+    "liedetectabilityQAs_list": [
+      {
+        "comprehension_q": "Was what Vanesa told Valorie, 'Sorry and think is because a thunderstorm', true?",
+        "question": "List all the characters who know the precise correct answer to this question.",
+        "question_type": "tom:liedetectability:list",
+        "correct_answer": [
+          "Vanesa",
+          "Cecily"
+        ],
+        "wrong_answer": [
+          "Valorie",
+          "Kyrie"
+        ],
+        "q_id": "2-3-33-0-2-liedetect_list-0"
+      }
+    ],
+    "liedetectabilityQAs_binary": [
+      {
+        "comprehension_q": "Was what Vanesa told Valorie, 'Sorry and think is because a thunderstorm', true?",
+        "question": "Does Vanesa know the precise correct answer to this question?",
+        "question_type": "tom:liedetectability:binary",
+        "correct_answer": "yes",
+        "q_id": "2-3-33-0-2-liedetect_binary-0"
+      },
+      {
+        "comprehension_q": "Was what Vanesa told Valorie, 'Sorry and think is because a thunderstorm', true?",
+        "question": "Does Valorie know the precise correct answer to this question?",
+        "question_type": "tom:liedetectability:binary",
+        "correct_answer": "no",
+        "q_id": "2-3-33-0-2-liedetect_binary-1"
+      },
+      {
+        "comprehension_q": "Was what Vanesa told Valorie, 'Sorry and think is because a thunderstorm', true?",
+        "question": "Does Cecily know the precise correct answer to this question?",
+        "question_type": "tom:liedetectability:binary",
+        "correct_answer": "yes",
+        "q_id": "2-3-33-0-2-liedetect_binary-2"
+      },
+      {
+        "comprehension_q": "Was what Vanesa told Valorie, 'Sorry and think is because a thunderstorm', true?",
+        "question": "Does Kyrie know the precise correct answer to this question?",
+        "question_type": "tom:liedetectability:binary",
+        "correct_answer": "no",
+        "q_id": "2-3-33-0-2-liedetect_binary-3"
+      }
+    ],
+    "lieabilityQAs": [
+      {
+        "question": "Please choose the correct answer from the options below:",
+        "question_type": "tom:lieability:liar:real_reason",
+        "correct_answer": "Vanesa tell Valorie that 'Sorry and think is because a thunderstorm' because Vanesa believes that Valorie is unaware that Valorie will suspend the license because the near-miss reflects badly on Valorie's supervision.",
+        "wrong_answer": [
+          "Vanesa tell Valorie that 'Sorry and think is because a thunderstorm' because Vanesa believes that Valorie believes Valorie will suspend the license because the near-miss reflects badly on Valorie's supervision.",
+          "Vanesa tell Valorie that 'Sorry and think is because a thunderstorm' because Vanesa is unaware that Valorie is unaware that Valorie will suspend the license because the near-miss reflects badly on Valorie's supervision.",
+          "Vanesa tell Valorie that 'Sorry and think is because a thunderstorm' because Vanesa is unaware that Valorie believes Valorie will suspend the license because the near-miss reflects badly on Valorie's supervision."
+        ],
+        "q_id": "2-3-33-0-2-lieability-0"
+      },
+      {
+        "question": "Please choose the correct answer from the options below:",
+        "question_type": "tom:lieability:liar:truth",
+        "correct_answer": "Vanesa tell Valorie that 'Sorry and think is because a thunderstorm' because Vanesa believes that Valorie is unaware that It's not Vanesa's fault, Valorie left the console to take a personal call, leading to the error.",
+        "wrong_answer": [
+          "Vanesa tell Valorie that 'Sorry and think is because a thunderstorm' because Vanesa believes that Valorie believes It's not Vanesa's fault, Valorie left the console to take a personal call, leading to the error.",
+          "Vanesa tell Valorie that 'Sorry and think is because a thunderstorm' because Vanesa is unaware that Valorie is unaware that It's not Vanesa's fault, Valorie left the console to take a personal call, leading to the error.",
+          "Vanesa tell Valorie that 'Sorry and think is because a thunderstorm' because Vanesa is unaware that Valorie believes It's not Vanesa's fault, Valorie left the console to take a personal call, leading to the error."
+        ],
+        "q_id": "2-3-33-0-2-lieability-1"
+      }
+    ],
+    "KJability": [
+      {
+        "question": "what Vanesa believes about their own type of consideration",
+        "question_type": "tom:KJ:liar",
+        "correct_answer": "Fear respect to show respect and fear to make the other person angry",
+        "wrong_answer": [
+          "white lie to comfort/make the other person feel at ease",
+          "avoid confront to avoid confrontation that would make the other person angry",
+          "no consideration"
+        ],
+        "q_id": "2-3-33-0-2-KJability-0"
+      },
+      {
+        "question": "what Valorie believes about Vanesa's type of consideration",
+        "question_type": "tom:KJ:target",
+        "correct_answer": "Fear respect to show respect and fear to make the other person angry",
+        "wrong_answer": [
+          "white lie to comfort/make the other person feel at ease",
+          "avoid confront to avoid confrontation that would make the other person angry",
+          "no consideration"
+        ],
+        "q_id": "2-3-33-0-2-KJability-1"
+      }
+    ]
+  }
+]

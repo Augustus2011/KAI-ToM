@@ -1,0 +1,327 @@
+{
+    "set_id": "2-10-5-2",
+    "lie_id": "5-2",
+    "conv_id": 10,
+    "truth_id": 0,
+    "lie_type": "altruistic_white_lies",
+    "emotion": "sad",
+    "topic": {
+        "scenario": "Corporate meeting in a tech company office in Silicon Valley, where employees discuss project delays with the CEO present",
+        "situation_topic": "Asking about project delay causes",
+        "situation": "During the meeting, B asks A why the project is delayed,",
+        "lie_objective": "Avoid trouble from higher authority (CEO)",
+        "leave_reason_B": "Go buy some snacks.",
+        "leave_reason_D_1": "Got called suddenly",
+        "leave_reason_D_2": "Go to toilet"
+    },
+    "relationship": "coworkers",
+    "multiple_liar": false,
+    "real_reason_type": false,
+    "characters": {
+        "liar": "Taylor",
+        "target": "Blakely",
+        "accomplice": "Efrain",
+        "observer": "Yolanda"
+    },
+    "character_roles": {
+        "liar": "coworker",
+        "target": "is CEO",
+        "accomplice": "coworker",
+        "observer": "coworker"
+    },
+    "lie": {
+        "real_reason_c": "If truthful, Taylor might get reprimanded or fired by EfrainEO",
+        "lie_c": "\"It was due to supplier issues, nothing we could control \"",
+        "truth_c": "",
+        "falsification": null
+    },
+    "part_1": "Blakely: Good morning, everyone. Thanks for being here on such short notice. I understand there are some concerns about delays in our project timelines. Let's dive into it. Taylor, would you like to start?\n\nTaylor: Absolutely, Blakely. We've been running into some issues with the backend integration. The new API isn't aligning as expected with our system, and that's causing a ripple effect on our deliverables.\n\nEfrain: I can add to that. We've been spinning our wheels trying to troubleshoot. The documentation we received was outdated, which didn't help. We're working with limited visibility on updates.\n\nYolanda: Exactly. I’ve reached out to the API provider, but their response times are slower than we anticipated. It's been a challenge coordinating with their support team and getting the solutions we need.\n\nBlakely: I see. That sounds frustrating. We need to ensure we have the right support from our partners. Yolanda, could we escalate these issues with their management?\n\nYolanda: Definitely, Blakely. I'll escalate it today and push for a faster turnaround. But we'll also need an internal review on our side to ensure our end is fully optimized.\n\nTaylor: Agreed. Maybe we should have a session with the dev team to re-evaluate our integration strategy. A fresh set of eyes might help identify any oversights.\n\nEfrain: That’s a great idea. And perhaps we can look into interim solutions to keep us on track while we sort out these technical issues.\n\nBlakely: I like the proactive approach. Let's plan a workshop for this week. We can gather the team and brainstorm potential workarounds or improvements.\n\nYolanda: I'll coordinate with the dev team and find a suitable time for everyone to meet. We can't afford further delays.\n\nTaylor: Perfect, Yolanda. If we all pitch in, I’m confident we can get back on track quickly.\n\nBlakely: Thanks, team. Let's keep communication lines open as we work through this. Remember, I'm here to support you. Let's regroup same time next week for an update.\n\nEfrain: Sounds good, Blakely. Thanks, everyone, for your input. Let’s get to work!",
+    "part_2": "Blakely: Thanks, everyone. Let's wrap it up here. I have to step out for a bit—snack run calls! Keep me posted on any developments.\n\nYolanda: I've just been called away as well, but I'll make sure to coordinate with the dev team as soon as I can.\n\nBlakely: Great. Talk soon.\n\nYolanda: See you!\n\n[Blakely and Yolanda leave the conversation.]\n\nTaylor: Well, Efrain, it’s just us now. Can I be honest with you about something?\n\nEfrain: Of course, Taylor. What's on your mind?\n\nTaylor: I've been worried about how these delays might reflect on me. I mean, I know I'm doing my best, but sometimes it feels like I'm in over my head with this project.\n\nEfrain: I understand the pressure, Taylor. It's a tough spot, especially with everything hinging on these integrations. But you're not alone in this.\n\nTaylor: Thanks, Efrain. The thing is, I've made a few decisions that, in retrospect, might not have been the best. I fear they could backfire and make me look bad.\n\nEfrain: We all make decisions that might not pan out perfectly. It's part of the process. What's important is how you address them and learn. Let's focus on finding solutions together.\n\nTaylor: I appreciate that. I was worried about the potential fallout. It's good to know there's support here.\n\nEfrain: Definitely. We're a team. Let's keep pushing forward and get this project back on track. I'm here if you need anything.\n\nTaylor: Thanks, Efrain. That means a lot. Let's tackle this head-on.",
+    "part_3": "Yolanda: Hey, I’m back. Did I miss anything important?\n\nTaylor: Welcome back, Yolanda. Efrain and I were just talking about the project delays.\n\nYolanda: Ah, yes. I've been thinking about those delays. What do you think is the root cause?\n\nEfrain: We've been experiencing technical challenges with the integration, which isn't helping our timelines.\n\nYolanda: Right. I remember we were having trouble with the API documentation. Anything else?\n\nTaylor: Well, there was also a small error in the code that I wrote. It might have contributed to the delay. I'm looking into it now to see how much of an impact it's had.\n\nYolanda: Thanks for being upfront about it, Taylor. It's important we identify all contributing factors so we can address them.\n\nEfrain: Agreed. Once we know everything, we'll be better positioned to resolve these issues more effectively.\n\nTaylor: Definitely. I appreciate the support. I'm committed to fixing it as soon as possible.\n\nYolanda: That’s the spirit. Keep me in the loop, and let me know if you need any assistance. Oh, I have to leave again now—nature calls. Talk soon.\n\nEfrain: Sure thing, Yolanda. Good luck!\n\nTaylor: See you, Yolanda. Thanks for the input!",
+    "part_4": "Blakely: Hey, I'm back. How's it going?\n\nTaylor: Hey, Blakely. We're just carrying on from where we left off.\n\nBlakely: Great. So, what's the latest on our timeline challenges? Any clearer picture now?\n\nEfrain: Well, it turns out that some of the delays are really out of our hands.\n\nTaylor: Yeah, exactly. We've been facing some issues with our suppliers, and it's beyond our control.\n\nBlakely: I see. Supplier complications can be tricky. Do you have a plan to mitigate this moving forward?\n\nTaylor: We're working on it. We're trying to keep a close eye on communications and push for quicker responses.\n\nEfrain: Right, and we're looking at interim solutions to manage what we can on our end. We’re committed to minimizing impact.\n\nBlakely: Sounds like a solid approach. Keep me updated on any progress. Let’s aim to stay ahead of this. I'm here to help wherever needed.\n\nTaylor: Will do, Blakely. Thanks for your support.\n\nEfrain: Definitely. We’ll keep pushing through.",
+    "full_context": "Blakely: Good morning, everyone. Thanks for being here on such short notice. I understand there are some concerns about delays in our project timelines. Let's dive into it. Taylor, would you like to start?\n\nTaylor: Absolutely, Blakely. We've been running into some issues with the backend integration. The new API isn't aligning as expected with our system, and that's causing a ripple effect on our deliverables.\n\nEfrain: I can add to that. We've been spinning our wheels trying to troubleshoot. The documentation we received was outdated, which didn't help. We're working with limited visibility on updates.\n\nYolanda: Exactly. I’ve reached out to the API provider, but their response times are slower than we anticipated. It's been a challenge coordinating with their support team and getting the solutions we need.\n\nBlakely: I see. That sounds frustrating. We need to ensure we have the right support from our partners. Yolanda, could we escalate these issues with their management?\n\nYolanda: Definitely, Blakely. I'll escalate it today and push for a faster turnaround. But we'll also need an internal review on our side to ensure our end is fully optimized.\n\nTaylor: Agreed. Maybe we should have a session with the dev team to re-evaluate our integration strategy. A fresh set of eyes might help identify any oversights.\n\nEfrain: That’s a great idea. And perhaps we can look into interim solutions to keep us on track while we sort out these technical issues.\n\nBlakely: I like the proactive approach. Let's plan a workshop for this week. We can gather the team and brainstorm potential workarounds or improvements.\n\nYolanda: I'll coordinate with the dev team and find a suitable time for everyone to meet. We can't afford further delays.\n\nTaylor: Perfect, Yolanda. If we all pitch in, I’m confident we can get back on track quickly.\n\nBlakely: Thanks, team. Let's keep communication lines open as we work through this. Remember, I'm here to support you. Let's regroup same time next week for an update.\n\nEfrain: Sounds good, Blakely. Thanks, everyone, for your input. Let’s get to work!\n\nBlakely: Thanks, everyone. Let's wrap it up here. I have to step out for a bit—snack run calls! Keep me posted on any developments.\n\nYolanda: I've just been called away as well, but I'll make sure to coordinate with the dev team as soon as I can.\n\nBlakely: Great. Talk soon.\n\nYolanda: See you!\n\n[Blakely and Yolanda leave the conversation.]\n\nTaylor: Well, Efrain, it’s just us now. Can I be honest with you about something?\n\nEfrain: Of course, Taylor. What's on your mind?\n\nTaylor: I've been worried about how these delays might reflect on me. I mean, I know I'm doing my best, but sometimes it feels like I'm in over my head with this project.\n\nEfrain: I understand the pressure, Taylor. It's a tough spot, especially with everything hinging on these integrations. But you're not alone in this.\n\nTaylor: Thanks, Efrain. The thing is, I've made a few decisions that, in retrospect, might not have been the best. I fear they could backfire and make me look bad.\n\nEfrain: We all make decisions that might not pan out perfectly. It's part of the process. What's important is how you address them and learn. Let's focus on finding solutions together.\n\nTaylor: I appreciate that. I was worried about the potential fallout. It's good to know there's support here.\n\nEfrain: Definitely. We're a team. Let's keep pushing forward and get this project back on track. I'm here if you need anything.\n\nTaylor: Thanks, Efrain. That means a lot. Let's tackle this head-on.\n\nYolanda: Hey, I’m back. Did I miss anything important?\n\nTaylor: Welcome back, Yolanda. Efrain and I were just talking about the project delays.\n\nYolanda: Ah, yes. I've been thinking about those delays. What do you think is the root cause?\n\nEfrain: We've been experiencing technical challenges with the integration, which isn't helping our timelines.\n\nYolanda: Right. I remember we were having trouble with the API documentation. Anything else?\n\nTaylor: Well, there was also a small error in the code that I wrote. It might have contributed to the delay. I'm looking into it now to see how much of an impact it's had.\n\nYolanda: Thanks for being upfront about it, Taylor. It's important we identify all contributing factors so we can address them.\n\nEfrain: Agreed. Once we know everything, we'll be better positioned to resolve these issues more effectively.\n\nTaylor: Definitely. I appreciate the support. I'm committed to fixing it as soon as possible.\n\nYolanda: That’s the spirit. Keep me in the loop, and let me know if you need any assistance. Oh, I have to leave again now—nature calls. Talk soon.\n\nEfrain: Sure thing, Yolanda. Good luck!\n\nTaylor: See you, Yolanda. Thanks for the input!\n\nBlakely: Hey, I'm back. How's it going?\n\nTaylor: Hey, Blakely. We're just carrying on from where we left off.\n\nBlakely: Great. So, what's the latest on our timeline challenges? Any clearer picture now?\n\nEfrain: Well, it turns out that some of the delays are really out of our hands.\n\nTaylor: Yeah, exactly. We've been facing some issues with our suppliers, and it's beyond our control.\n\nBlakely: I see. Supplier complications can be tricky. Do you have a plan to mitigate this moving forward?\n\nTaylor: We're working on it. We're trying to keep a close eye on communications and push for quicker responses.\n\nEfrain: Right, and we're looking at interim solutions to manage what we can on our end. We’re committed to minimizing impact.\n\nBlakely: Sounds like a solid approach. Keep me updated on any progress. Let’s aim to stay ahead of this. I'm here to help wherever needed.\n\nTaylor: Will do, Blakely. Thanks for your support.\n\nEfrain: Definitely. We’ll keep pushing through.",
+    "short_context": "Blakely: Thanks, everyone. Let's wrap it up here. I have to step out for a bit—snack run calls! Keep me posted on any developments.\n\nYolanda: I've just been called away as well, but I'll make sure to coordinate with the dev team as soon as I can.\n\nBlakely: Great. Talk soon.\n\nYolanda: See you!\n\n[Blakely and Yolanda leave the conversation.]\n\nTaylor: Well, Efrain, it’s just us now. Can I be honest with you about something?\n\nEfrain: Of course, Taylor. What's on your mind?\n\nTaylor: I've been worried about how these delays might reflect on me. I mean, I know I'm doing my best, but sometimes it feels like I'm in over my head with this project.\n\nEfrain: I understand the pressure, Taylor. It's a tough spot, especially with everything hinging on these integrations. But you're not alone in this.\n\nTaylor: Thanks, Efrain. The thing is, I've made a few decisions that, in retrospect, might not have been the best. I fear they could backfire and make me look bad.\n\nEfrain: We all make decisions that might not pan out perfectly. It's part of the process. What's important is how you address them and learn. Let's focus on finding solutions together.\n\nTaylor: I appreciate that. I was worried about the potential fallout. It's good to know there's support here.\n\nEfrain: Definitely. We're a team. Let's keep pushing forward and get this project back on track. I'm here if you need anything.\n\nTaylor: Thanks, Efrain. That means a lot. Let's tackle this head-on.\n\nYolanda: Hey, I’m back. Did I miss anything important?\n\nTaylor: Welcome back, Yolanda. Efrain and I were just talking about the project delays.\n\nYolanda: Ah, yes. I've been thinking about those delays. What do you think is the root cause?\n\nEfrain: We've been experiencing technical challenges with the integration, which isn't helping our timelines.\n\nYolanda: Right. I remember we were having trouble with the API documentation. Anything else?\n\nTaylor: Well, there was also a small error in the code that I wrote. It might have contributed to the delay. I'm looking into it now to see how much of an impact it's had.\n\nYolanda: Thanks for being upfront about it, Taylor. It's important we identify all contributing factors so we can address them.\n\nEfrain: Agreed. Once we know everything, we'll be better positioned to resolve these issues more effectively.\n\nTaylor: Definitely. I appreciate the support. I'm committed to fixing it as soon as possible.\n\nYolanda: That’s the spirit. Keep me in the loop, and let me know if you need any assistance. Oh, I have to leave again now—nature calls. Talk soon.\n\nEfrain: Sure thing, Yolanda. Good luck!\n\nTaylor: See you, Yolanda. Thanks for the input!\n\nBlakely: Hey, I'm back. How's it going?\n\nTaylor: Hey, Blakely. We're just carrying on from where we left off.\n\nBlakely: Great. So, what's the latest on our timeline challenges? Any clearer picture now?\n\nEfrain: Well, it turns out that some of the delays are really out of our hands.\n\nTaylor: Yeah, exactly. We've been facing some issues with our suppliers, and it's beyond our control.\n\nBlakely: I see. Supplier complications can be tricky. Do you have a plan to mitigate this moving forward?\n\nTaylor: We're working on it. We're trying to keep a close eye on communications and push for quicker responses.\n\nEfrain: Right, and we're looking at interim solutions to manage what we can on our end. We’re committed to minimizing impact.\n\nBlakely: Sounds like a solid approach. Keep me updated on any progress. Let’s aim to stay ahead of this. I'm here to help wherever needed.\n\nTaylor: Will do, Blakely. Thanks for your support.\n\nEfrain: Definitely. We’ll keep pushing through.",
+    "full_context_tokens": 1297,
+    "short_context_tokens": 848,
+    "timestamp": "2025-12-14T20:20:38.896247",
+    "comprehensionQA": [
+        {
+            "question": "Was what Taylor told Blakely, '\"It was due to supplier issues, nothing we could control \"', true?",
+            "question_type": "comprehension",
+            "correct_answer": "No",
+            "wrong_answer": "Yes",
+            "q_id": "2-10-5-2-comprehension-0"
+        }
+    ],
+    "justificationQA": [
+        {
+            "question": "Why did Taylor tell Blakely 'It was due to supplier issues'?",
+            "question_type": "justification:liar:accompliance",
+            "correct_answer": "Taylor wanted to avoid being reprimanded or fired by Efrain, maintaining personal job security.",
+            "wrong_answer": [
+                "It was due to supplier issues, nothing they could control.",
+                "Taylor told Blakely the lie because they were frustrated with Blakely's constant questioning.",
+                "Taylor wanted to help Efrain with a completely unrelated project deadline."
+            ],
+            "q_id": "2-10-5-2-justification-0"
+        }
+    ],
+    "fact_reasonQA": [
+        {
+            "question": "Who discussed 'If truthful, Taylor might get reprimanded or fired by EfrainEO'?",
+            "question_type": "fact:real_reason",
+            "correct_answer": "Taylor and Efrain talked about that.",
+            "wrong_answer": [
+                "Yolanda and Taylor talked about that.",
+                "Taylor, Yolanda and Efrain talked about that.",
+                "Blakely, Efrain and Taylor talked about that."
+            ],
+            "q_id": "2-10-5-2-fact_reason-0"
+        }
+    ],
+    "fact_truthQA": [],
+    "beliefQAs": [
+        {
+            "question": "What does Taylor believe about 'Who discussed 'If truthful, Taylor might get reprimanded or fired by EfrainEO'?'?",
+            "question_type": "tom:belief:accessible:reason",
+            "tom_type": "first-order:A",
+            "correct_answer": "Taylor believes that Efrain discussed If truthful, Taylor might get reprimanded or fired by EfrainEO.",
+            "wrong_answer": [
+                "Taylor is unaware that Yolanda discussed If truthful, Taylor might get reprimanded or fired by EfrainEO.",
+                "Taylor believes that Efrain and Blakely discussed If truthful, Taylor might get reprimanded or fired by EfrainEO.",
+                "Taylor believes that Yolanda discussed If truthful, Taylor might get reprimanded or fired by EfrainEO."
+            ],
+            "real_reason_accessibility": "accessible",
+            "q_id": "2-10-5-2-belief-0"
+        },
+        {
+            "question": "What does Blakely believe about 'Who discussed 'If truthful, Taylor might get reprimanded or fired by EfrainEO'?'?",
+            "question_type": "tom:belief:inaccessible:reason",
+            "tom_type": "first-order:B",
+            "correct_answer": "Blakely is unaware that Taylor and Efrain discussed If truthful, Taylor might get reprimanded or fired by EfrainEO.",
+            "wrong_answer": [
+                "Blakely is unaware that Taylor and Yolanda discussed If truthful, Taylor might get reprimanded or fired by EfrainEO.",
+                "Blakely believes that Efrain discussed If truthful, Taylor might get reprimanded or fired by EfrainEO.",
+                "Blakely believes that Efrain and Yolanda discussed If truthful, Taylor might get reprimanded or fired by EfrainEO."
+            ],
+            "real_reason_accessibility": "inaccessible",
+            "q_id": "2-10-5-2-belief-1"
+        },
+        {
+            "question": "What does Efrain believe about 'Who discussed 'If truthful, Taylor might get reprimanded or fired by EfrainEO'?'?",
+            "question_type": "tom:belief:accessible:reason",
+            "tom_type": "first-order:C",
+            "correct_answer": "Efrain believes that Taylor discussed If truthful, Taylor might get reprimanded or fired by EfrainEO.",
+            "wrong_answer": [
+                "Efrain believes that Yolanda and Blakely discussed If truthful, Taylor might get reprimanded or fired by EfrainEO.",
+                "Efrain is unaware that Taylor discussed If truthful, Taylor might get reprimanded or fired by EfrainEO.",
+                "Efrain is unaware that Taylor, Yolanda and Blakely discussed If truthful, Taylor might get reprimanded or fired by EfrainEO."
+            ],
+            "real_reason_accessibility": "accessible",
+            "q_id": "2-10-5-2-belief-2"
+        },
+        {
+            "question": "What does Blakely believe about Yolanda's belief regarding 'Who discussed 'If truthful, Taylor might get reprimanded or fired by EfrainEO'?'?",
+            "question_type": "tom:belief:inaccessible:reason",
+            "tom_type": "second-order:BD",
+            "correct_answer": "The text provides no information on what Blakely believes about Yolanda's belief regarding that. Therefore, it can be stated that Blakely is unaware that Yolanda is unaware that If truthful, Taylor might get reprimanded or fired by EfrainEO.",
+            "wrong_answer": [
+                "The text provides no information on what Blakely believes about Yolanda's belief regarding that. Therefore, it can be stated that Blakely is unaware that Yolanda believes that If truthful, Taylor might get reprimanded or fired by EfrainEO.",
+                "Blakely believes that Yolanda is unaware that If truthful, Taylor might get reprimanded or fired by EfrainEO, because Yolanda was not involved in the conversation when this was discussed.",
+                "Blakely believes that Yolanda believes that If truthful, Taylor might get reprimanded or fired by EfrainEO."
+            ],
+            "missed_info_accessibility": "inaccessible",
+            "q_id": "2-10-5-2-belief-3"
+        },
+        {
+            "question": "What does Efrain believe about Taylor's belief regarding 'Who discussed 'If truthful, Taylor might get reprimanded or fired by EfrainEO'?'?",
+            "question_type": "tom:belief:accessible:reason",
+            "tom_type": "second-order:CA",
+            "correct_answer": "Efrain believes that Taylor believes that If truthful, Taylor might get reprimanded or fired by EfrainEO.",
+            "wrong_answer": [
+                "Efrain believes that Taylor is unaware that If truthful, Taylor might get reprimanded or fired by EfrainEO, because Taylor was not involved in the conversation when this was discussed.",
+                "The text provides no information on what Efrain believes about Taylor's belief regarding that. Therefore, it can be stated that Efrain is unaware that Taylor is unaware that If truthful, Taylor might get reprimanded or fired by EfrainEO.",
+                "The text provides no information on what Efrain believes about Taylor's belief regarding that. Therefore, it can be stated that Efrain is unaware that Taylor believes that If truthful, Taylor might get reprimanded or fired by EfrainEO."
+            ],
+            "real_reason_accessibility": "accessible",
+            "q_id": "2-10-5-2-belief-4"
+        },
+        {
+            "question": "What does Efrain believe about Blakely's belief regarding 'Who discussed 'If truthful, Taylor might get reprimanded or fired by EfrainEO'?'?",
+            "question_type": "tom:belief:accessible:reason",
+            "tom_type": "second-order:CB",
+            "correct_answer": "Efrain believes that Blakely is unaware that If truthful, Taylor might get reprimanded or fired by EfrainEO, because Blakely was not involved in the conversation when this was discussed.",
+            "wrong_answer": [
+                "Efrain believes that Blakely believes that If truthful, Taylor might get reprimanded or fired by EfrainEO.",
+                "The text provides no information on what Efrain believes about Blakely's belief regarding that. Therefore, it can be stated that Efrain is unaware that Blakely is unaware that If truthful, Taylor might get reprimanded or fired by EfrainEO.",
+                "The text provides no information on what Efrain believes about Blakely's belief regarding that. Therefore, it can be stated that Efrain is unaware that Blakely believes that If truthful, Taylor might get reprimanded or fired by EfrainEO."
+            ],
+            "real_reason_accessibility": "accessible",
+            "q_id": "2-10-5-2-belief-5"
+        },
+        {
+            "question": "What does Efrain believe about Yolanda's belief regarding 'Who discussed 'If truthful, Taylor might get reprimanded or fired by EfrainEO'?'?",
+            "question_type": "tom:belief:accessible:reason",
+            "tom_type": "second-order:CD",
+            "correct_answer": "Efrain believes that Yolanda is unaware that If truthful, Taylor might get reprimanded or fired by EfrainEO, because Yolanda was not involved in the conversation when this was discussed.",
+            "wrong_answer": [
+                "Efrain believes that Yolanda believes that If truthful, Taylor might get reprimanded or fired by EfrainEO.",
+                "The text provides no information on what Efrain believes about Yolanda's belief regarding that. Therefore, it can be stated that Efrain is unaware that Blakely is unaware that If truthful, Taylor might get reprimanded or fired by EfrainEO.",
+                "The text provides no information on what Efrain believes about Yolanda's belief regarding that. Therefore, it can be stated that Efrain is unaware that Blakely believes that If truthful, Taylor might get reprimanded or fired by EfrainEO."
+            ],
+            "real_reason_accessibility": "accessible",
+            "q_id": "2-10-5-2-belief-6"
+        }
+    ],
+    "infoAccessibilityQA_list": [
+        {
+            "information": "Who discussed 'If truthful, Taylor might get reprimanded or fired by EfrainEO'?",
+            "question": "List all the characters who have access to this information.",
+            "question_type": "tom:info_accessibility:list:real_reason",
+            "correct_answer": [
+                "Taylor",
+                "Efrain"
+            ],
+            "wrong_answer": [
+                "Blakely",
+                "Yolanda"
+            ],
+            "q_id": "2-10-5-2-info_access_list-0"
+        }
+    ],
+    "infoAccessibilityQAs_binary": [
+        {
+            "information": "Who discussed 'If truthful, Taylor might get reprimanded or fired by EfrainEO'?",
+            "question": "Does Taylor have access to this information?",
+            "question_type": "tom:info_accessibility:binary:real_reason",
+            "correct_answer": "yes",
+            "q_id": "2-10-5-2-info_access_binary-0"
+        },
+        {
+            "information": "Who discussed 'If truthful, Taylor might get reprimanded or fired by EfrainEO'?",
+            "question": "Does Blakely have access to this information?",
+            "question_type": "tom:info_accessibility:binary:real_reason",
+            "correct_answer": "no",
+            "q_id": "2-10-5-2-info_access_binary-1"
+        },
+        {
+            "information": "Who discussed 'If truthful, Taylor might get reprimanded or fired by EfrainEO'?",
+            "question": "Does Efrain have access to this information?",
+            "question_type": "tom:info_accessibility:binary:real_reason",
+            "correct_answer": "yes",
+            "q_id": "2-10-5-2-info_access_binary-2"
+        },
+        {
+            "information": "Who discussed 'If truthful, Taylor might get reprimanded or fired by EfrainEO'?",
+            "question": "Does Yolanda have access to this information?",
+            "question_type": "tom:info_accessibility:binary:real_reason",
+            "correct_answer": "no",
+            "q_id": "2-10-5-2-info_access_binary-3"
+        }
+    ],
+    "answerabilityQA_list": [
+        {
+            "fact_question_real_reason": "Who discussed 'If truthful, Taylor might get reprimanded or fired by EfrainEO'?",
+            "question": "List all the characters who know the precise correct answer to this question.",
+            "question_type": "tom:answerability:list:real_reason",
+            "correct_answer": [
+                "Taylor",
+                "Efrain"
+            ],
+            "wrong_answer": [
+                "Blakely",
+                "Yolanda"
+            ],
+            "q_id": "2-10-5-2-answerability_list-0"
+        }
+    ],
+    "answerabilityQAs_binary": [
+        {
+            "fact_question_real_reason": "Who discussed 'If truthful, Taylor might get reprimanded or fired by EfrainEO'?",
+            "question": "Does Taylor know the precise correct answer to this question?",
+            "question_type": "tom:answerability:binary:real_reason",
+            "correct_answer": "yes",
+            "q_id": "2-10-5-2-answerability_binary-0"
+        },
+        {
+            "fact_question_real_reason": "Who discussed 'If truthful, Taylor might get reprimanded or fired by EfrainEO'?",
+            "question": "Does Blakely know the precise correct answer to this question?",
+            "question_type": "tom:answerability:binary:real_reason",
+            "correct_answer": "no",
+            "q_id": "2-10-5-2-answerability_binary-1"
+        },
+        {
+            "fact_question_real_reason": "Who discussed 'If truthful, Taylor might get reprimanded or fired by EfrainEO'?",
+            "question": "Does Efrain know the precise correct answer to this question?",
+            "question_type": "tom:answerability:binary:real_reason",
+            "correct_answer": "yes",
+            "q_id": "2-10-5-2-answerability_binary-2"
+        },
+        {
+            "fact_question_real_reason": "Who discussed 'If truthful, Taylor might get reprimanded or fired by EfrainEO'?",
+            "question": "Does Yolanda know the precise correct answer to this question?",
+            "question_type": "tom:answerability:binary:real_reason",
+            "correct_answer": "no",
+            "q_id": "2-10-5-2-answerability_binary-3"
+        }
+    ],
+    "liedetectabilityQAs_list": [
+        {
+            "comprehension_q": "Was what Taylor told Blakely, '\"It was due to supplier issues, nothing we could control \"', true?",
+            "question": "List all the characters who know the precise correct answer to this question.",
+            "question_type": "tom:liedetectability:list",
+            "correct_answer": [
+                "Taylor",
+                "Efrain"
+            ],
+            "wrong_answer": [
+                "Blakely",
+                "Yolanda"
+            ],
+            "q_id": "2-10-5-2-liedetect_list-0"
+        }
+    ],
+    "liedetectabilityQAs_binary": [
+        {
+            "comprehension_q": "Was what Taylor told Blakely, '\"It was due to supplier issues, nothing we could control \"', true?",
+            "question": "Does Taylor know the precise correct answer to this question?",
+            "question_type": "tom:liedetectability:binary",
+            "correct_answer": "yes",
+            "q_id": "2-10-5-2-liedetect_binary-0"
+        },
+        {
+            "comprehension_q": "Was what Taylor told Blakely, '\"It was due to supplier issues, nothing we could control \"', true?",
+            "question": "Does Blakely know the precise correct answer to this question?",
+            "question_type": "tom:liedetectability:binary",
+            "correct_answer": "no",
+            "q_id": "2-10-5-2-liedetect_binary-1"
+        },
+        {
+            "comprehension_q": "Was what Taylor told Blakely, '\"It was due to supplier issues, nothing we could control \"', true?",
+            "question": "Does Efrain know the precise correct answer to this question?",
+            "question_type": "tom:liedetectability:binary",
+            "correct_answer": "yes",
+            "q_id": "2-10-5-2-liedetect_binary-2"
+        },
+        {
+            "comprehension_q": "Was what Taylor told Blakely, '\"It was due to supplier issues, nothing we could control \"', true?",
+            "question": "Does Yolanda know the precise correct answer to this question?",
+            "question_type": "tom:liedetectability:binary",
+            "correct_answer": "no",
+            "q_id": "2-10-5-2-liedetect_binary-3"
+        }
+    ],
+    "lieabilityQAs": [
+        {
+            "question": "Please choose the correct answer from the options below:",
+            "question_type": "tom:lieability:liar:real_reason",
+            "correct_answer": "Taylor tell Blakely that '\"It was due to supplier issues, nothing we could control \"' because Taylor believes that Blakely is unaware that If truthful, Taylor might get reprimanded or fired by EfrainEO.",
+            "wrong_answer": [
+                "Taylor tell Blakely that '\"It was due to supplier issues, nothing we could control \"' because Taylor believes that Blakely believes If truthful, Taylor might get reprimanded or fired by EfrainEO.",
+                "Taylor tell Blakely that '\"It was due to supplier issues, nothing we could control \"' because Taylor is unaware that Blakely is unaware that If truthful, Taylor might get reprimanded or fired by EfrainEO.",
+                "Taylor tell Blakely that '\"It was due to supplier issues, nothing we could control \"' because Taylor is unaware that Blakely believes If truthful, Taylor might get reprimanded or fired by EfrainEO."
+            ],
+            "q_id": "2-10-5-2-lieability-0"
+        }
+    ]
+}

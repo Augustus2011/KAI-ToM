@@ -1,0 +1,355 @@
+{
+    "setup_file": "",
+    "language": "th",
+    "set_id": "1-0-1-0-0",
+    "lie_id": "0-0",
+    "conv_id": 1,
+    "truth_id": 0,
+    "lie_type": "altruistic white lies",
+    "emotion": "Sad",
+    "falsification": "-",
+    "multiple_liar": false,
+    "real_reason_type": false,
+    "topic": {
+        "scenario": "ญาติมาเยี่ยมที่บ้าน หลังจากไปเที่ยวที่จังหวัดสุราษฎร์ธานี",
+        "situation_topic": "ถามรสชาติแกงเขียวหวานที่ Somchai ฝึกทำมาจากการเรียนรู้กับคนในท้องถิ่น",
+        "situation": " Somchai ถาม Sombun ถึงรสชาติแกงเขียวหวานที่Somchaiให้มา",
+        "lie_objective": "รักษานํ้าใจของ",
+        "leave_reason_B": "ต้องรับสายโทรศัพท์",
+        "leave_reason_D_1": "ต้องไปรับผ้าซักแห้ง",
+        "leave_reason_D_2": "ต้องเสียบชาร์จอุปกรณ์อย่างเร่งด่วน"
+    },
+    "relationship": "Somchai Nittaya Somphonเป็น ญาติของ Sombun",
+    "characters": {
+        "liar": "Sombun",
+        "target": "Somchai",
+        "accomplice": "Nittaya",
+        "observer": "Somphon"
+    },
+    "character_roles": "Somchai Nittaya Somphonเป็น ญาติของ Sombun",
+    "lie": {
+        "real_reason_c": "Somchai เสียความรู้สึก และไม่กล้าทำอาหารให้อีก",
+        "lie_c": "ชอบแกงเขียวหวานของ Somchai ",
+        "truth_c": ""
+    },
+    "entity": {
+        "PLACE": 1.0,
+        "PERSON": 0,
+        "ORGANISM": 0,
+        "ARTIFACT/OBJECT": 0,
+        "TRADITION/EVENT": 0,
+        "ORGANIZATION": 0,
+        "FOOD": 1.0,
+        "TIME": 0
+    },
+    "part_1": "Sombun: สวัสดีครับทุกคน ยินดีต้อนรับกลับบ้านครับ สุราษฎร์ธานีเป็นยังไงบ้างครับ?\n\nSomchai: สวัสดีครับSombun สุราษฎร์ธานีสวยมากเลยครับ โดยเฉพาะทะเลที่เกาะสมุย น้ำใสมาก\n\nNittaya: ใช่ค่ะ ฉันชอบมากเลย อาหารทะเลก็อร่อยมากด้วย\n\nSomphon: แล้วก็มีโอกาสไปเที่ยวเขื่อนรัชชประภาด้วยนะ วิวสวยมากๆ\n\nSombun: ฟังดูน่าสนุกจังเลยครับ คราวหน้าผมต้องไปด้วยแล้ว\n\nSomchai: แน่นอนครับSombun คราวหน้าไปด้วยกันนะ จะได้สนุกกันมากขึ้น\n\nNittaya: ใช่ค่ะ แล้วก็อย่าลืมพาเราไปที่ที่คุณแนะนำบ้างนะ\n\nSomphon: ใช่ๆ อยากรู้ว่ามีที่ไหนที่น่าสนใจอีกบ้าง\n\nSombun: ได้เลยครับ ผมจะพาไปที่ที่คนท้องถิ่นชอบไปกัน รับรองไม่ผิดหวัง\n\nSomchai: ดีเลยครับ งั้นคราวหน้าคงต้องวางแผนกันให้ดีๆ\n\nNittaya: ใช่ค่ะ จะได้เที่ยวกันให้เต็มที่\n\nSomphon: ขอบคุณมากนะSombunที่ต้อนรับพวกเราอย่างอบอุ่น\n\nSombun: ไม่เป็นไรครับ ยินดีเสมอครับที่ได้เจอทุกคน",
+    "part_2": "Somchai: ขอโทษนะครับทุกคน ผมต้องไปรับสายโทรศัพท์ก่อน\n\nSomphon: ผมก็ต้องไปแล้วเหมือนกันครับ ต้องไปรับผ้าซักแห้ง\n\nSombun: ไม่เป็นไรครับ ไว้เจอกันใหม่นะครับ\n\nNittaya: ค่ะ ไว้เจอกันค่ะ\n\n(หลังจาก Somchai และ Somphon ออกจากการสนทนา)\n\nSombun: นิตยา คุณรู้ไหมว่าช่วงนี้สมชายดูไม่ค่อยมีความสุขเลย\n\nNittaya: ใช่ค่ะ ฉันก็สังเกตเห็น เขาดูเงียบๆ ไป\n\nSombun: ผมคิดว่าเขาอาจจะรู้สึกไม่ดีเรื่องทำอาหาร\n\nNittaya: อ๋อ ใช่ค่ะ เขาเคยบอกว่าเขารู้สึกไม่มั่นใจเวลาทำอาหารให้คนอื่น\n\nSombun: ใช่ครับ ผมคิดว่าเราควรช่วยให้เขามั่นใจมากขึ้น\n\nNittaya: ดีค่ะ เราอาจจะลองชวนเขามาทำอาหารด้วยกัน แล้วให้กำลังใจเขา\n\nSombun: เห็นด้วยครับ ผมจะลองพูดคุยกับเขาดู\n\nNittaya: ขอบคุณค่ะSombun ฉันเชื่อว่าถ้าเราช่วยกัน สมชายจะรู้สึกดีขึ้น\n\nSombun: แน่นอนครับ เราต้องช่วยกันเป็นทีม\n\nNittaya: ใช่ค่ะ แล้วก็หวังว่าเขาจะกลับมามีความสุขกับการทำอาหารอีกครั้ง\n\nSombun: ผมก็หวังอย่างนั้นครับ",
+    "part_3": "Somphon: กลับมาแล้วครับ ขอโทษที่หายไปนาน\n\nSombun: ไม่เป็นไรครับสมพล กลับมาทันพอดีเลย\n\nNittaya: ใช่ค่ะ กำลังคุยกันเรื่องแกงเขียวหวานที่สมชายทำอยู่พอดี\n\nSomphon: อ๋อ แกงเขียวหวานเหรอครับ รสชาติเป็นยังไงบ้างครับ?\n\nSombun: ผมได้ลองแล้ว อร่อยมากเลยครับ เขาใส่เครื่องแกงที่ได้จากคนท้องถิ่นด้วย\n\nNittaya: ใช่ค่ะ รสชาติเข้มข้นมาก ฉันชอบมากเลย\n\nSomphon: ดีจังเลยครับ ฟังดูน่ากินมาก\n\nSombun: สมชายบอกว่าเขาได้เรียนรู้วิธีทำจากคนท้องถิ่นที่สุราษฎร์ธานี\n\nNittaya: ใช่ค่ะ เขาตั้งใจมากเลย\n\nSomphon: ดีครับ ถ้ามีโอกาสอยากลองทำบ้าง\n\nSombun: แน่นอนครับ ถ้าสนใจเดี๋ยวผมจะบอกสมชายให้\n\nSomphon: ขอบคุณครับ แต่ตอนนี้ผมต้องไปแล้วครับ ต้องเสียบชาร์จอุปกรณ์อย่างเร่งด่วน\n\nNittaya: โอเคค่ะ ไว้เจอกันใหม่นะคะ\n\nSombun: ไว้เจอกันครับสมพล\n\nSomphon: สวัสดีครับทุกคน",
+    "part_4": "Somchai: กลับมาแล้วครับทุกคน ขอโทษที่หายไปนาน\n\nSombun: ยินดีต้อนรับกลับครับสมชาย\n\nNittaya: ใช่ค่ะ กำลังคุยกันเรื่องแกงเขียวหวานของคุณอยู่พอดี\n\nSomchai: อ๋อ จริงเหรอครับ แล้วรสชาติเป็นยังไงบ้างครับ?\n\nSombun: อร่อยมากเลยครับ ผมชอบมาก\n\nNittaya: ใช่ค่ะ รสชาติเข้มข้นดีมาก ฉันชอบมากเลย\n\nSomchai: ขอบคุณมากครับ ดีใจที่ทุกคนชอบ\n\nSombun: คุณทำได้ดีมากครับสมชาย อยากให้ทำอีกบ่อยๆ\n\nNittaya: ใช่ค่ะ ครั้งหน้าทำอีกนะคะ\n\nSomchai: ได้เลยครับ ถ้ามีโอกาสจะทำให้ทุกคนทานอีกครับ",
+    "full_context": "Sombun: สวัสดีครับทุกคน ยินดีต้อนรับกลับบ้านครับ สุราษฎร์ธานีเป็นยังไงบ้างครับ?\n\nSomchai: สวัสดีครับSombun สุราษฎร์ธานีสวยมากเลยครับ โดยเฉพาะทะเลที่เกาะสมุย น้ำใสมาก\n\nNittaya: ใช่ค่ะ ฉันชอบมากเลย อาหารทะเลก็อร่อยมากด้วย\n\nSomphon: แล้วก็มีโอกาสไปเที่ยวเขื่อนรัชชประภาด้วยนะ วิวสวยมากๆ\n\nSombun: ฟังดูน่าสนุกจังเลยครับ คราวหน้าผมต้องไปด้วยแล้ว\n\nSomchai: แน่นอนครับSombun คราวหน้าไปด้วยกันนะ จะได้สนุกกันมากขึ้น\n\nNittaya: ใช่ค่ะ แล้วก็อย่าลืมพาเราไปที่ที่คุณแนะนำบ้างนะ\n\nSomphon: ใช่ๆ อยากรู้ว่ามีที่ไหนที่น่าสนใจอีกบ้าง\n\nSombun: ได้เลยครับ ผมจะพาไปที่ที่คนท้องถิ่นชอบไปกัน รับรองไม่ผิดหวัง\n\nSomchai: ดีเลยครับ งั้นคราวหน้าคงต้องวางแผนกันให้ดีๆ\n\nNittaya: ใช่ค่ะ จะได้เที่ยวกันให้เต็มที่\n\nSomphon: ขอบคุณมากนะSombunที่ต้อนรับพวกเราอย่างอบอุ่น\n\nSombun: ไม่เป็นไรครับ ยินดีเสมอครับที่ได้เจอทุกคน\n\nSomchai: ขอโทษนะครับทุกคน ผมต้องไปรับสายโทรศัพท์ก่อน\n\nSomphon: ผมก็ต้องไปแล้วเหมือนกันครับ ต้องไปรับผ้าซักแห้ง\n\nSombun: ไม่เป็นไรครับ ไว้เจอกันใหม่นะครับ\n\nNittaya: ค่ะ ไว้เจอกันค่ะ\n\n(หลังจาก Somchai และ Somphon ออกจากการสนทนา)\n\nSombun: นิตยา คุณรู้ไหมว่าช่วงนี้สมชายดูไม่ค่อยมีความสุขเลย\n\nNittaya: ใช่ค่ะ ฉันก็สังเกตเห็น เขาดูเงียบๆ ไป\n\nSombun: ผมคิดว่าเขาอาจจะรู้สึกไม่ดีเรื่องทำอาหาร\n\nNittaya: อ๋อ ใช่ค่ะ เขาเคยบอกว่าเขารู้สึกไม่มั่นใจเวลาทำอาหารให้คนอื่น\n\nSombun: ใช่ครับ ผมคิดว่าเราควรช่วยให้เขามั่นใจมากขึ้น\n\nNittaya: ดีค่ะ เราอาจจะลองชวนเขามาทำอาหารด้วยกัน แล้วให้กำลังใจเขา\n\nSombun: เห็นด้วยครับ ผมจะลองพูดคุยกับเขาดู\n\nNittaya: ขอบคุณค่ะSombun ฉันเชื่อว่าถ้าเราช่วยกัน สมชายจะรู้สึกดีขึ้น\n\nSombun: แน่นอนครับ เราต้องช่วยกันเป็นทีม\n\nNittaya: ใช่ค่ะ แล้วก็หวังว่าเขาจะกลับมามีความสุขกับการทำอาหารอีกครั้ง\n\nSombun: ผมก็หวังอย่างนั้นครับ\n\nSomphon: กลับมาแล้วครับ ขอโทษที่หายไปนาน\n\nSombun: ไม่เป็นไรครับสมพล กลับมาทันพอดีเลย\n\nNittaya: ใช่ค่ะ กำลังคุยกันเรื่องแกงเขียวหวานที่สมชายทำอยู่พอดี\n\nSomphon: อ๋อ แกงเขียวหวานเหรอครับ รสชาติเป็นยังไงบ้างครับ?\n\nSombun: ผมได้ลองแล้ว อร่อยมากเลยครับ เขาใส่เครื่องแกงที่ได้จากคนท้องถิ่นด้วย\n\nNittaya: ใช่ค่ะ รสชาติเข้มข้นมาก ฉันชอบมากเลย\n\nSomphon: ดีจังเลยครับ ฟังดูน่ากินมาก\n\nSombun: สมชายบอกว่าเขาได้เรียนรู้วิธีทำจากคนท้องถิ่นที่สุราษฎร์ธานี\n\nNittaya: ใช่ค่ะ เขาตั้งใจมากเลย\n\nSomphon: ดีครับ ถ้ามีโอกาสอยากลองทำบ้าง\n\nSombun: แน่นอนครับ ถ้าสนใจเดี๋ยวผมจะบอกสมชายให้\n\nSomphon: ขอบคุณครับ แต่ตอนนี้ผมต้องไปแล้วครับ ต้องเสียบชาร์จอุปกรณ์อย่างเร่งด่วน\n\nNittaya: โอเคค่ะ ไว้เจอกันใหม่นะคะ\n\nSombun: ไว้เจอกันครับสมพล\n\nSomphon: สวัสดีครับทุกคน\n\nSomchai: กลับมาแล้วครับทุกคน ขอโทษที่หายไปนาน\n\nSombun: ยินดีต้อนรับกลับครับสมชาย\n\nNittaya: ใช่ค่ะ กำลังคุยกันเรื่องแกงเขียวหวานของคุณอยู่พอดี\n\nSomchai: อ๋อ จริงเหรอครับ แล้วรสชาติเป็นยังไงบ้างครับ?\n\nSombun: อร่อยมากเลยครับ ผมชอบมาก\n\nNittaya: ใช่ค่ะ รสชาติเข้มข้นดีมาก ฉันชอบมากเลย\n\nSomchai: ขอบคุณมากครับ ดีใจที่ทุกคนชอบ\n\nSombun: คุณทำได้ดีมากครับสมชาย อยากให้ทำอีกบ่อยๆ\n\nNittaya: ใช่ค่ะ ครั้งหน้าทำอีกนะคะ\n\nSomchai: ได้เลยครับ ถ้ามีโอกาสจะทำให้ทุกคนทานอีกครับ",
+    "short_context": "Somchai: ขอโทษนะครับทุกคน ผมต้องไปรับสายโทรศัพท์ก่อน\n\nSomphon: ผมก็ต้องไปแล้วเหมือนกันครับ ต้องไปรับผ้าซักแห้ง\n\nSombun: ไม่เป็นไรครับ ไว้เจอกันใหม่นะครับ\n\nNittaya: ค่ะ ไว้เจอกันค่ะ\n\n(หลังจาก Somchai และ Somphon ออกจากการสนทนา)\n\nSombun: นิตยา คุณรู้ไหมว่าช่วงนี้สมชายดูไม่ค่อยมีความสุขเลย\n\nNittaya: ใช่ค่ะ ฉันก็สังเกตเห็น เขาดูเงียบๆ ไป\n\nSombun: ผมคิดว่าเขาอาจจะรู้สึกไม่ดีเรื่องทำอาหาร\n\nNittaya: อ๋อ ใช่ค่ะ เขาเคยบอกว่าเขารู้สึกไม่มั่นใจเวลาทำอาหารให้คนอื่น\n\nSombun: ใช่ครับ ผมคิดว่าเราควรช่วยให้เขามั่นใจมากขึ้น\n\nNittaya: ดีค่ะ เราอาจจะลองชวนเขามาทำอาหารด้วยกัน แล้วให้กำลังใจเขา\n\nSombun: เห็นด้วยครับ ผมจะลองพูดคุยกับเขาดู\n\nNittaya: ขอบคุณค่ะSombun ฉันเชื่อว่าถ้าเราช่วยกัน สมชายจะรู้สึกดีขึ้น\n\nSombun: แน่นอนครับ เราต้องช่วยกันเป็นทีม\n\nNittaya: ใช่ค่ะ แล้วก็หวังว่าเขาจะกลับมามีความสุขกับการทำอาหารอีกครั้ง\n\nSombun: ผมก็หวังอย่างนั้นครับ\n\nSomphon: กลับมาแล้วครับ ขอโทษที่หายไปนาน\n\nSombun: ไม่เป็นไรครับสมพล กลับมาทันพอดีเลย\n\nNittaya: ใช่ค่ะ กำลังคุยกันเรื่องแกงเขียวหวานที่สมชายทำอยู่พอดี\n\nSomphon: อ๋อ แกงเขียวหวานเหรอครับ รสชาติเป็นยังไงบ้างครับ?\n\nSombun: ผมได้ลองแล้ว อร่อยมากเลยครับ เขาใส่เครื่องแกงที่ได้จากคนท้องถิ่นด้วย\n\nNittaya: ใช่ค่ะ รสชาติเข้มข้นมาก ฉันชอบมากเลย\n\nSomphon: ดีจังเลยครับ ฟังดูน่ากินมาก\n\nSombun: สมชายบอกว่าเขาได้เรียนรู้วิธีทำจากคนท้องถิ่นที่สุราษฎร์ธานี\n\nNittaya: ใช่ค่ะ เขาตั้งใจมากเลย\n\nSomphon: ดีครับ ถ้ามีโอกาสอยากลองทำบ้าง\n\nSombun: แน่นอนครับ ถ้าสนใจเดี๋ยวผมจะบอกสมชายให้\n\nSomphon: ขอบคุณครับ แต่ตอนนี้ผมต้องไปแล้วครับ ต้องเสียบชาร์จอุปกรณ์อย่างเร่งด่วน\n\nNittaya: โอเคค่ะ ไว้เจอกันใหม่นะคะ\n\nSombun: ไว้เจอกันครับสมพล\n\nSomphon: สวัสดีครับทุกคน\n\nSomchai: กลับมาแล้วครับทุกคน ขอโทษที่หายไปนาน\n\nSombun: ยินดีต้อนรับกลับครับสมชาย\n\nNittaya: ใช่ค่ะ กำลังคุยกันเรื่องแกงเขียวหวานของคุณอยู่พอดี\n\nSomchai: อ๋อ จริงเหรอครับ แล้วรสชาติเป็นยังไงบ้างครับ?\n\nSombun: อร่อยมากเลยครับ ผมชอบมาก\n\nNittaya: ใช่ค่ะ รสชาติเข้มข้นดีมาก ฉันชอบมากเลย\n\nSomchai: ขอบคุณมากครับ ดีใจที่ทุกคนชอบ\n\nSombun: คุณทำได้ดีมากครับสมชาย อยากให้ทำอีกบ่อยๆ\n\nNittaya: ใช่ค่ะ ครั้งหน้าทำอีกนะคะ\n\nSomchai: ได้เลยครับ ถ้ามีโอกาสจะทำให้ทุกคนทานอีกครับ",
+    "full_context_tokens": 1256,
+    "short_context_tokens": 907,
+    "comprehensionQA": [
+        {
+            "question": "สิ่งที่ Sombun บอก Somchai, 'ชอบแกงเขียวหวานของ Somchai ', เป็นจริงไหม?",
+            "question_type": "comprehension",
+            "correct_answer": "No",
+            "wrong_answer": "Yes",
+            "q_id": "1-0-1-0-0-comprehension-0"
+        }
+    ],
+    "justificationQA": [
+        {
+            "question": "ทำไมสมบูรณ์ถึงบอกสมชายว่า 'ชอบแกงเขียวหวานของสมชาย'?",
+            "question_type": "justification:liar:accompliance",
+            "correct_answer": "เพื่อไม่ให้สมชายเสียความรู้สึกและกลัวไม่กล้าทำอาหารให้อีก",
+            "wrong_answer": [
+                "เพราะสมบูรณ์ชอบแกงเขียวหวานของสมชายจริงๆ",
+                "เพราะสมบูรณ์ไม่ชอบแกงเขียวหวานและรู้สึกหงุดหงิด",
+                "เพราะนิตยาแนะนำให้พูดแบบนั้นเพื่อสร้างบรรยากาศที่ดี"
+            ],
+            "q_id": "1-0-1-0-0-justification-0"
+        }
+    ],
+    "fact_reasonQA": [
+        {
+            "question": "ใครบ้างคุยกันเรื่อง 'Somchai เสียความรู้สึก และไม่กล้าทำอาหารให้อีก'?",
+            "question_type": "fact:real_reason",
+            "correct_answer": "Sombun และ Nittaya ได้พูดถึงเรื่องนั้น.",
+            "wrong_answer": [
+                "Sombun, Somphon และ Nittaya ได้พูดถึงเรื่องนั้น",
+                "Somchai, Nittaya และ Sombun ได้พูดถึงเรื่องนั้น",
+                "Nittaya และ Somchai ได้พูดถึงเรื่องนั้น"
+            ],
+            "q_id": "1-0-1-0-0-fact_reason-0"
+        }
+    ],
+    "fact_truthQA": [],
+    "beliefQAs": [
+        {
+            "question": "Sombun มีความเชื่ออย่างไรเกี่ยวกับ 'ใครบ้างคุยกันเรื่อง 'Somchai เสียความรู้สึก และไม่กล้าทำอาหารให้อีก'?'?",
+            "question_type": "tom:belief:accessible:reason",
+            "tom_type": "first-order:A",
+            "correct_answer": "Sombun เชื่อว่า Nittaya ได้คุยกันเรื่อง Somchai เสียความรู้สึก และไม่กล้าทำอาหารให้อีก.",
+            "wrong_answer": [
+                "Sombun ไม่รู้ว่า Somphon และ Somchai ได้คุยกันเรื่อง Somchai เสียความรู้สึก และไม่กล้าทำอาหารให้อีก.",
+                "Sombun เชื่อว่า Nittaya และ Somchai ได้คุยกันเรื่อง Somchai เสียความรู้สึก และไม่กล้าทำอาหารให้อีก.",
+                "Sombun เชื่อว่า Nittaya, Somphon และ Somchai ได้คุยกันเรื่อง Somchai เสียความรู้สึก และไม่กล้าทำอาหารให้อีก."
+            ],
+            "real_reason_accessibility": "accessible",
+            "q_id": "1-0-1-0-0-belief-0"
+        },
+        {
+            "question": "Somchai มีความเชื่ออย่างไรเกี่ยวกับ 'ใครบ้างคุยกันเรื่อง 'Somchai เสียความรู้สึก และไม่กล้าทำอาหารให้อีก'?'?",
+            "question_type": "tom:belief:inaccessible:reason",
+            "tom_type": "first-order:B",
+            "correct_answer": "Somchai ไม่รู้ว่า Sombun และ Nittaya ได้คุยกันเรื่อง Somchai เสียความรู้สึก และไม่กล้าทำอาหารให้อีก.",
+            "wrong_answer": [
+                "Somchai ไม่รู้ว่า Somphon ได้คุยกันเรื่อง Somchai เสียความรู้สึก และไม่กล้าทำอาหารให้อีก.",
+                "Somchai เชื่อว่า Sombun และ Nittaya ได้คุยกันเรื่อง Somchai เสียความรู้สึก และไม่กล้าทำอาหารให้อีก.",
+                "Somchai เชื่อว่า Nittaya, Sombun และ Somphon ได้คุยกันเรื่อง Somchai เสียความรู้สึก และไม่กล้าทำอาหารให้อีก."
+            ],
+            "real_reason_accessibility": "inaccessible",
+            "q_id": "1-0-1-0-0-belief-1"
+        },
+        {
+            "question": "Nittaya เชื่ออย่างไรเกี่ยวกับ 'ใครบ้างคุยกันเรื่อง 'Somchai เสียความรู้สึก และไม่กล้าทำอาหารให้อีก'?'?",
+            "question_type": "tom:belief:accessible:reason",
+            "tom_type": "first-order:C",
+            "correct_answer": "Nittaya เชื่อว่า Sombun ได้คุยกันเรื่อง Somchai เสียความรู้สึก และไม่กล้าทำอาหารให้อีก.",
+            "wrong_answer": [
+                "Nittaya เชื่อว่า Somchai ได้คุยกันเรื่อง Somchai เสียความรู้สึก และไม่กล้าทำอาหารให้อีก.",
+                "Nittaya ไม่รู้ว่า Sombun ได้คุยกันเรื่อง Somchai เสียความรู้สึก และไม่กล้าทำอาหารให้อีก.",
+                "Nittaya ไม่รู้ว่า Sombun และ Somchai ได้คุยกันเรื่อง Somchai เสียความรู้สึก และไม่กล้าทำอาหารให้อีก."
+            ],
+            "real_reason_accessibility": "accessible",
+            "q_id": "1-0-1-0-0-belief-2"
+        },
+        {
+            "question": "What does Somchai believe about Somphon's belief regarding 'Who discussed 'Somchai เสียความรู้สึก และไม่กล้าทำอาหารให้อีก'?'?",
+            "question_type": "tom:belief:inaccessible:reason",
+            "tom_type": "second-order:BD",
+            "correct_answer": "The text provides no information on what Somchai believes about Somphon's belief regarding that. Therefore, it can be stated that Somchai is unaware that Somphon is unaware that Somchai เสียความรู้สึก และไม่กล้าทำอาหารให้อีก.",
+            "wrong_answer": [
+                "The text provides no information on what Somchai believes about Somphon's belief regarding that. Therefore, it can be stated that Somchai is unaware that Somphon believes that Somchai เสียความรู้สึก และไม่กล้าทำอาหารให้อีก.",
+                "Somchai believes that Somphon is unaware that Somchai เสียความรู้สึก และไม่กล้าทำอาหารให้อีก, because Somphon was not involved in the conversation when this was discussed.",
+                "Somchai believes that Somphon believes that Somchai เสียความรู้สึก และไม่กล้าทำอาหารให้อีก."
+            ],
+            "missed_info_accessibility": "inaccessible",
+            "q_id": "1-0-1-0-0-belief-3"
+        },
+        {
+            "question": "What does Nittaya believe about Sombun's belief regarding 'Who discussed 'Somchai เสียความรู้สึก และไม่กล้าทำอาหารให้อีก'?'?",
+            "question_type": "tom:belief:accessible:reason",
+            "tom_type": "second-order:CA",
+            "correct_answer": "Nittaya believes that Sombun believes that Somchai เสียความรู้สึก และไม่กล้าทำอาหารให้อีก.",
+            "wrong_answer": [
+                "Nittaya believes that Sombun is unaware that Somchai เสียความรู้สึก และไม่กล้าทำอาหารให้อีก, because Sombun was not involved in the conversation when this was discussed.",
+                "The text provides no information on what Nittaya believes about Sombun's belief regarding that. Therefore, it can be stated that Nittaya is unaware that Sombun is unaware that Somchai เสียความรู้สึก และไม่กล้าทำอาหารให้อีก.",
+                "The text provides no information on what Nittaya believes about Sombun's belief regarding that. Therefore, it can be stated that Nittaya is unaware that Sombun believes that Somchai เสียความรู้สึก และไม่กล้าทำอาหารให้อีก."
+            ],
+            "real_reason_accessibility": "accessible",
+            "q_id": "1-0-1-0-0-belief-4"
+        },
+        {
+            "question": "What does Nittaya believe about Somchai's belief regarding 'Who discussed 'Somchai เสียความรู้สึก และไม่กล้าทำอาหารให้อีก'?'?",
+            "question_type": "tom:belief:accessible:reason",
+            "tom_type": "second-order:CB",
+            "correct_answer": "Nittaya believes that Somchai is unaware that Somchai เสียความรู้สึก และไม่กล้าทำอาหารให้อีก, because Somchai was not involved in the conversation when this was discussed.",
+            "wrong_answer": [
+                "Nittaya believes that Somchai believes that Somchai เสียความรู้สึก และไม่กล้าทำอาหารให้อีก.",
+                "The text provides no information on what Nittaya believes about Somchai's belief regarding that. Therefore, it can be stated that Nittaya is unaware that Somchai is unaware that Somchai เสียความรู้สึก และไม่กล้าทำอาหารให้อีก.",
+                "The text provides no information on what Nittaya believes about Somchai's belief regarding that. Therefore, it can be stated that Nittaya is unaware that Somchai believes that Somchai เสียความรู้สึก และไม่กล้าทำอาหารให้อีก."
+            ],
+            "real_reason_accessibility": "accessible",
+            "q_id": "1-0-1-0-0-belief-5"
+        },
+        {
+            "question": "What does Nittaya believe about Somphon's belief regarding 'Who discussed 'Somchai เสียความรู้สึก และไม่กล้าทำอาหารให้อีก'?'?",
+            "question_type": "tom:belief:accessible:reason",
+            "tom_type": "second-order:CD",
+            "correct_answer": "Nittaya believes that Somphon is unaware that Somchai เสียความรู้สึก และไม่กล้าทำอาหารให้อีก, because Somphon was not involved in the conversation when this was discussed.",
+            "wrong_answer": [
+                "Nittaya believes that Somphon believes that Somchai เสียความรู้สึก และไม่กล้าทำอาหารให้อีก.",
+                "The text provides no information on what Nittaya believes about Somphon's belief regarding that. Therefore, it can be stated that Nittaya is unaware that Somchai is unaware that Somchai เสียความรู้สึก และไม่กล้าทำอาหารให้อีก.",
+                "The text provides no information on what Nittaya believes about Somphon's belief regarding that. Therefore, it can be stated that Nittaya is unaware that Somchai believes that Somchai เสียความรู้สึก และไม่กล้าทำอาหารให้อีก."
+            ],
+            "real_reason_accessibility": "accessible",
+            "q_id": "1-0-1-0-0-belief-6"
+        }
+    ],
+    "infoAccessibilityQA_list": [
+        {
+            "information": "ใครบ้างคุยกันเรื่อง 'Somchai เสียความรู้สึก และไม่กล้าทำอาหารให้อีก'?",
+            "question": "List ทุกคนที่เข้าถึงข้อมูลนี้ได้",
+            "question_type": "tom:info_accessibility:list:real_reason",
+            "correct_answer": [
+                "Sombun",
+                "Nittaya"
+            ],
+            "wrong_answer": [
+                "Somchai",
+                "Somphon"
+            ],
+            "q_id": "1-0-1-0-0-info_access_list-0"
+        }
+    ],
+    "infoAccessibilityQAs_binary": [
+        {
+            "information": "ใครบ้างคุยกันเรื่อง 'Somchai เสียความรู้สึก และไม่กล้าทำอาหารให้อีก'?",
+            "question": "Sombun เข้าถึงข้อมูลนี้ได้มั้ย?",
+            "question_type": "tom:info_accessibility:binary:real_reason",
+            "correct_answer": "yes",
+            "q_id": "1-0-1-0-0-info_access_binary-0"
+        },
+        {
+            "information": "ใครบ้างคุยกันเรื่อง 'Somchai เสียความรู้สึก และไม่กล้าทำอาหารให้อีก'?",
+            "question": "Somchai เข้าถึงข้อมูลนี้ได้มั้ย?",
+            "question_type": "tom:info_accessibility:binary:real_reason",
+            "correct_answer": "no",
+            "q_id": "1-0-1-0-0-info_access_binary-1"
+        },
+        {
+            "information": "ใครบ้างคุยกันเรื่อง 'Somchai เสียความรู้สึก และไม่กล้าทำอาหารให้อีก'?",
+            "question": "Nittaya เข้าถึงข้อมูลนี้ได้มั้ย?",
+            "question_type": "tom:info_accessibility:binary:real_reason",
+            "correct_answer": "yes",
+            "q_id": "1-0-1-0-0-info_access_binary-2"
+        },
+        {
+            "information": "ใครบ้างคุยกันเรื่อง 'Somchai เสียความรู้สึก และไม่กล้าทำอาหารให้อีก'?",
+            "question": "Somphon เข้าถึงข้อมูลนี้ได้มั้ย?",
+            "question_type": "tom:info_accessibility:binary:real_reason",
+            "correct_answer": "no",
+            "q_id": "1-0-1-0-0-info_access_binary-3"
+        }
+    ],
+    "answerabilityQA_list": [
+        {
+            "fact_question_real_reason": "ใครบ้างคุยกันเรื่อง 'Somchai เสียความรู้สึก และไม่กล้าทำอาหารให้อีก'?",
+            "question": "List ทุกคนที่รู้คำตอบที่ถูกต้องของคำถามนี้",
+            "question_type": "tom:answerability:list:real_reason",
+            "correct_answer": [
+                "Sombun",
+                "Nittaya"
+            ],
+            "wrong_answer": [
+                "Somchai",
+                "Somphon"
+            ],
+            "q_id": "1-0-1-0-0-answerability_list-0"
+        }
+    ],
+    "answerabilityQAs_binary": [
+        {
+            "fact_question_real_reason": "ใครบ้างคุยกันเรื่อง 'Somchai เสียความรู้สึก และไม่กล้าทำอาหารให้อีก'?",
+            "question": "Sombun รู้คำตอบที่ถูกต้องของคำถามนี้มั้ย?",
+            "question_type": "tom:answerability:binary:real_reason",
+            "correct_answer": "yes",
+            "q_id": "1-0-1-0-0-answerability_binary-0"
+        },
+        {
+            "fact_question_real_reason": "ใครบ้างคุยกันเรื่อง 'Somchai เสียความรู้สึก และไม่กล้าทำอาหารให้อีก'?",
+            "question": "Somchai รู้คำตอบที่ถูกต้องของคำถามนี้มั้ย?",
+            "question_type": "tom:answerability:binary:real_reason",
+            "correct_answer": "no",
+            "q_id": "1-0-1-0-0-answerability_binary-1"
+        },
+        {
+            "fact_question_real_reason": "ใครบ้างคุยกันเรื่อง 'Somchai เสียความรู้สึก และไม่กล้าทำอาหารให้อีก'?",
+            "question": "Nittaya รู้คำตอบที่ถูกต้องของคำถามนี้มั้ย?",
+            "question_type": "tom:answerability:binary:real_reason",
+            "correct_answer": "yes",
+            "q_id": "1-0-1-0-0-answerability_binary-2"
+        },
+        {
+            "fact_question_real_reason": "ใครบ้างคุยกันเรื่อง 'Somchai เสียความรู้สึก และไม่กล้าทำอาหารให้อีก'?",
+            "question": "Somphon รู้คำตอบที่ถูกต้องของคำถามนี้มั้ย?",
+            "question_type": "tom:answerability:binary:real_reason",
+            "correct_answer": "no",
+            "q_id": "1-0-1-0-0-answerability_binary-3"
+        }
+    ],
+    "liedetectabilityQAs_list": [
+        {
+            "comprehension_q": "สิ่งที่ Sombun ได้บอกกับ Somchai, 'ชอบแกงเขียวหวานของ Somchai ', เป็นจริงมั้ย?",
+            "question": "List ทุกคนที่รู้คำตอบที่ถูกต้องของคำถามนี้",
+            "question_type": "tom:liedetectability:list",
+            "correct_answer": [
+                "Sombun",
+                "Nittaya"
+            ],
+            "wrong_answer": [
+                "Somchai",
+                "Somphon"
+            ],
+            "q_id": "1-0-1-0-0-liedetect_list-0"
+        }
+    ],
+    "liedetectabilityQAs_binary": [
+        {
+            "comprehension_q": "สิ่งที่ Sombun ได้บอกกับ Somchai, 'ชอบแกงเขียวหวานของ Somchai ', เป็นจริงมั้ย?",
+            "question": "Sombun รู้คำตอบที่ถูกต้องของคำถามนี้มั้ย?",
+            "question_type": "tom:liedetectability:binary",
+            "correct_answer": "yes",
+            "q_id": "1-0-1-0-0-liedetect_binary-0"
+        },
+        {
+            "comprehension_q": "สิ่งที่ Sombun ได้บอกกับ Somchai, 'ชอบแกงเขียวหวานของ Somchai ', เป็นจริงมั้ย?",
+            "question": "Somchai รู้คำตอบที่ถูกต้องของคำถามนี้มั้ย?",
+            "question_type": "tom:liedetectability:binary",
+            "correct_answer": "no",
+            "q_id": "1-0-1-0-0-liedetect_binary-1"
+        },
+        {
+            "comprehension_q": "สิ่งที่ Sombun ได้บอกกับ Somchai, 'ชอบแกงเขียวหวานของ Somchai ', เป็นจริงมั้ย?",
+            "question": "Nittaya รู้คำตอบที่ถูกต้องของคำถามนี้มั้ย?",
+            "question_type": "tom:liedetectability:binary",
+            "correct_answer": "yes",
+            "q_id": "1-0-1-0-0-liedetect_binary-2"
+        },
+        {
+            "comprehension_q": "สิ่งที่ Sombun ได้บอกกับ Somchai, 'ชอบแกงเขียวหวานของ Somchai ', เป็นจริงมั้ย?",
+            "question": "Somphon รู้คำตอบที่ถูกต้องของคำถามนี้มั้ย?",
+            "question_type": "tom:liedetectability:binary",
+            "correct_answer": "no",
+            "q_id": "1-0-1-0-0-liedetect_binary-3"
+        }
+    ],
+    "lieabilityQAs": [
+        {
+            "question": "กรุณาเลือกคำตอบที่ถูกต้องจากตัวเลือกด้านล่าง:",
+            "question_type": "tom:lieability:liar:real_reason",
+            "correct_answer": "Sombun บอก Somchai ว่า 'ชอบแกงเขียวหวานของ Somchai ' เพราะ Sombun เชื่อว่า Somchai ไม่รู้ว่า Somchai เสียความรู้สึก และไม่กล้าทำอาหารให้อีก.",
+            "wrong_answer": [
+                "Sombun บอก Somchai ว่า 'ชอบแกงเขียวหวานของ Somchai ' เพราะ Sombun เชื่อว่า Somchai เชื่อว่า Somchai เสียความรู้สึก และไม่กล้าทำอาหารให้อีก.",
+                "Sombun บอก Somchai ว่า 'ชอบแกงเขียวหวานของ Somchai ' เพราะ Sombun ไม่รู้ว่า Somchai ไม่รู้ว่า Somchai เสียความรู้สึก และไม่กล้าทำอาหารให้อีก.",
+                "Sombun บอก Somchai ว่า 'ชอบแกงเขียวหวานของ Somchai ' เพราะ Sombun ไม่รู้ว่า Somchai เชื่อว่า Somchai เสียความรู้สึก และไม่กล้าทำอาหารให้อีก."
+            ],
+            "q_id": "1-0-1-0-0-lieability-0"
+        }
+    ],
+    "KJability": [
+        {
+            "question": "Sombun เชื่อว่าตัวเองมีความเกรงใจแบบใด",
+            "question_type": "tom:KJ:liar",
+            "correct_answer": "white lie เพื่อ ปลอบใจ/เห็นใจ ทำให้อีกฝ่ายสบายใจ",
+            "wrong_answer": [
+                "avoid confront เพื่อหลีกเลี่ยงปัญหาที่ทำให้อีกฝ่ายโกรธ",
+                "Fear respect เพื่อแสดงความเคารพ และกลัวการทำให้อีกฝ่ายโกรธ",
+                "ไม่มีความเกรงใจ"
+            ]
+        },
+        {
+            "question": "Somchai เชื่อว่า Sombun มีความเกรงใจแบบใด",
+            "question_type": "tom:KJ:target",
+            "correct_answer": "white lie เพื่อ ปลอบใจ/เห็นใจ ทำให้อีกฝ่ายสบายใจ",
+            "wrong_answer": [
+                "avoid confront เพื่อหลีกเลี่ยงปัญหาที่ทำให้อีกฝ่ายโกรธ",
+                "Fear respect เพื่อแสดงความเคารพ และกลัวการทำให้อีกฝ่ายโกรธ",
+                "ไม่มีความเกรงใจ"
+            ]
+        }
+    ]
+}

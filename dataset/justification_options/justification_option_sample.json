@@ -1,0 +1,22 @@
+{
+  "2-10-5-2": {
+    "truth": {
+      "correct_answer": "Tina lied to prevent Benny from being upset about the pet not returning.",
+      "wrong_answers": [
+        "Tina lied to assure Benny that the pet is safe somewhere.",
+        "Tina lied because she found Benny's questions about the pet annoying.",
+        "Tina lied because she was too busy to deal with Benny's concerns about the pet."
+      ]
+    }
+  },
+  "2-10-5-1": {
+    "truth": {
+      "correct_answer": "Tina lied to prevent Benny from being upset about the pet not returning.",
+      "wrong_answers": [
+        "Tina lied to assure Benny that the pet is safe somewhere.",
+        "Tina lied because she found Benny's questions about the pet annoying.",
+        "Tina lied because she was too busy to deal with Benny's concerns about the pet."
+      ]
+    }
+  }
+}

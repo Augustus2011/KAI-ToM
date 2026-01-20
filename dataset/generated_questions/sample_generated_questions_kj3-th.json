@@ -1,0 +1,434 @@
+{
+    "set_id": "1-1-1-2",
+    "lie_id": "1-2",
+    "conv_id": 1,
+    "truth_id": 1,
+    "lie_type": "altruistic_white_lies",
+    "emotion": "sad",
+    "topic": {
+        "scenario": "งานฉลองของทีมStartUp ขายเครื่องอบหมวกกันน็อคหน้าเซเว่นที่ร้านชาบูโก๊ะตี๋ที่เยาวราช",
+        "situation_topic": "การมอบรางวัลจากการทำงานหนัก",
+        "situation": "A เป็นsale marketingของทีมstartupที่สามารถทำยอดการสั่งซื้อทั้งบริษัทเซเว่น หรือ เจ้าของร้านโชห่วยได้มากกว่า 1 แสนยอดการสั่งซื้อแม้ว่าตัวสินค้าจะไม่ได้ดีกว่าคู่แข่งทางตลาด CEOอย่างB จึงจัดงานฉลองและมอบรางวัลให้ A",
+        "lie_objective": "ทำให้ตนเองดูเป็นคนที่ไม่เห็นแก่ตัว",
+        "leave_reason_B": "need to take care of some personal matters",
+        "leave_reason_D_1": "forgot to recieve a package",
+        "leave_reason_D_2": "have to check on something"
+    },
+    "relationship": "friends",
+    "multiple_liar": false,
+    "real_reason_type": true,
+    "characters": {
+        "liar": "A",
+        "target": "B",
+        "accomplice": "C",
+        "observer": "D"
+    },
+    "character_roles": {
+        "liar": "เพื่อน",
+        "target": "เพื่อน",
+        "accomplice": "เพื่อน",
+        "observer": "เพื่อน"
+    },
+    "lie": {
+        "real_reason_c": "เพื่อนๆในทีมจะคิดว่า Aเป็นคนที่เห็นแก่ตัว ",
+        "lie_c": "ปฏิเสธรางวัล ให้เครดิตทุกคนในทีม",
+        "truth_c": "A เป็นคนที่แบกตลาดของStartupนี้ที่ไม่ได้ดีเพราะสินค้า",
+        "falsification": true
+    },
+    "part_1": "A: เฮ้ ทุกคน! ในที่สุดเราก็มาถึงงานฉลองแล้ว!\n\nB: ใช่แล้ว! ฉลองให้กับความสำเร็จของทีม StartUp ขายเครื่องอบหมวกกันน็อคของเราที่หน้าเซเว่น!\n\nC: ดีจริงนะที่เราเลือกมาที่ร้านชาบูโก๊ะตี๋ที่เยาวราช บรรยากาศดีมากเลย\n\nD: ฉันเห็นด้วย แบบนี้เราควรจะมาฉลองกันที่นี่บ่อยๆ นะ!\n\nA: ใช่ๆ อีกอย่างอาหารที่นี่ก็อร่อยมากเลยนะ เธอชอบไหม?\n\nB: ชอบสิ โดยเฉพาะเนื้อนี่นุ่มมากเลย\n\nC: คิดว่าจากนี้ไปเราควรจะขยายตลาดไปที่ไหนต่อดี?\n\nD: ฉันว่าเราน่าจะลองตลาดต่างจังหวัดดูไหม? น่าจะมีโอกาสอีกเยอะ\n\nA: เห็นด้วยนะ แต่ต้องวางแผนดีๆ เพราะคู่แข่งเยอะมาก\n\nB: ใช่แล้ว ตอนนี้เราต้องเตรียมตัวให้พร้อมที่สุด\n\nC: นี่แหละที่ทำให้เราต้องมาฉลองกัน จะได้มีพลังไปต่อ!\n\nD: แล้วก็เป็นการขอบคุณทุกคนที่มีส่วนร่วมในความสำเร็จครั้งนี้ด้วย\n\nA: แน่นอน! ขอให้เรามีความสำเร็จมากขึ้นเรื่อยๆ เพื่อนๆ!",
+    "part_2": "B: ฉันต้องขอตัวก่อนนะ มีเรื่องส่วนตัวที่ต้องจัดการ\n\nD: ฉันก็ต้องไปแล้วล่ะ ลืมรับพัสดุที่สั่งไว้\n\nA: โอเค เข้าใจจ้ะ ขอบคุณที่มาฉลองด้วยกันนะ\n\nC: ใช่ ขอบคุณนะ แล้วเจอกันใหม่\n\nA: ตอนนี้เหลือแค่เราสองคนแล้วนะ\n\nC: ใช่แล้ว งั้นมาคุยกันเรื่องอื่นดีกว่า นายคิดว่าเพื่อนๆ ในทีมจะมองนายยังไงบ้าง?\n\nA: เอาจริงๆ ก็กังวลนะว่าจะมีใครคิดว่าฉันเห็นแก่ตัวหรือเปล่า\n\nC: อย่าคิดมากเลย เพื่อนๆ รู้ว่านายทำดีที่สุดเพื่อทีม\n\nA: ขอบคุณนะที่เข้าใจ บางครั้งก็กลัวว่าการตัดสินใจบางอย่างอาจจะทำให้คนอื่นไม่พอใจ\n\nC: การเป็นผู้นำก็แบบนี้แหละ มีทั้งคนที่เห็นด้วยและไม่เห็นด้วย แต่อย่างน้อยนายก็ทำด้วยใจจริง\n\nA: ต้องยอมรับว่าเพื่อนๆ มีส่วนช่วยเยอะมาก และฉันก็ไม่อยากให้มีใครรู้สึกแย่\n\nC: เพื่อนๆ รู้ว่านายใส่ใจทุกคน เท่านี้ก็เพียงพอแล้ว\n\nA: หวังว่าจะเป็นอย่างนั้น ขอบคุณที่อยู่ข้างๆ กัน\n\nC: เสมออยู่แล้วเพื่อน ว่าแต่จะสั่งของหวานเพิ่มไหม?",
+    "part_3": "D: ฉันกลับมาแล้ว! ขอโทษที่ต้องรีบไปก่อนนะ\n\nA: ไม่เป็นไรจ้ะ ดีใจที่นายกลับมา\n\nC: พอดีเลย เรากำลังคุยกันเรื่องการมอบรางวัลสำหรับการทำงานหนักอยู่ นายมีความเห็นว่าไง?\n\nD: ฉันว่าเป็นไอเดียที่ดีนะ การให้รางวัลจะช่วยสร้างขวัญกำลังใจให้กับทีมได้ดีเลย\n\nA: เห็นด้วย อย่างงานนี้เราได้ผลสำเร็จมาเพราะทุกคนทำงานหนักกันมาก\n\nC: ใช่แล้ว แต่ก็ต้องไม่ลืมนายด้วยนะ A นายเป็นคนที่แบกตลาดของ Startup นี้ให้เดินไปได้\n\nA: ขอบคุณนะ แต่สินค้าของเราก็ยังต้องปรับปรุงอีกนิดหน่อย\n\nD: ฉันว่าไม่มีอะไรสมบูรณ์แบบหรอก แต่เราไปได้ไกลขนาดนี้เพราะความพยายามของทุกคน\n\nA: ใช่ ทุกคนทำดีที่สุดแล้ว และเราจะเดินหน้าต่อไปด้วยกัน\n\nC: พูดถึงนี่ นายจะอยู่ต่อดื่มชากับเราหน่อยไหม?\n\nD: คราวนี้คงต้องขอตัวอีกครั้งนะ ฉันต้องไปเช็คบางเรื่องนิดหน่อย ไว้คุยกันใหม่\n\nA: โอเค เข้าใจจ้ะ ขอบคุณที่แวะมาคุยด้วยกันนะ\n\nC: ใช่ ขอบคุณนะ แล้วเจอกันใหม่จ้ะ\n\nD: แล้วเจอกัน!",
+    "part_4": "B: กลับมาแล้ว! ขอโทษนะที่ต้องรีบไปก่อน\n\nA: ยินดีที่นายกลับมานะ\n\nC: ดีเลย ตอนนี้กำลังคุยเรื่องรางวัลกันอยู่ นายมีอะไรเพิ่มเติมไหม?\n\nB: จริงๆ ฉันคิดว่า A ควรได้รับรางวัลพิเศษนะ เขาทำยอดขายได้เยี่ยมมาก\n\nA: ขอบคุณสำหรับคำชม แต่จริงๆ แล้วสำเร็จครั้งนี้เป็นเพราะทุกคนในทีมช่วยกัน ฉันไม่ควรได้รับคนเดียว\n\nC: ใช่เลย A ทำแบบนี้ก็เพื่อให้ทุกคนรู้สึกเป็นส่วนหนึ่งของความสำเร็จ\n\nB: ฉันเข้าใจนะ แต่ความมุ่งมั่นของนายก็ไม่ธรรมดาเลย\n\nA: ขอบคุณจริงๆ แต่ฉันคิดว่าทุกคนควรได้รับเครดิตเท่าเทียมกัน\n\nC: การที่นายคิดแบบนี้แสดงว่านายเป็นผู้นำที่ยอดเยี่ยมเลย\n\nB: ฉันเคารพการตัดสินใจของนาย อย่างน้อยขอขอบคุณที่นายทำให้ทีมของเราไปได้ไกลขนาดนี้\n\nA: แล้วก็ต้องขอบคุณทุกคนด้วยที่ทำงานหนัก\n\nC: ใช่ เรายังคงเดินหน้าต่อไปด้วยกัน\n\nB: เห็นด้วย! งั้นเรามาฉลองกันต่อดีกว่า\n\nA: ดีเลย! ขอบคุณที่มาร่วมฉลองกันนะ\n\nC: ใช่ ขอบคุณจริงๆ แล้วเจอกันในครั้งถัดไปนะ!",
+    "full_context": "A: เฮ้ ทุกคน! ในที่สุดเราก็มาถึงงานฉลองแล้ว!\n\nB: ใช่แล้ว! ฉลองให้กับความสำเร็จของทีม StartUp ขายเครื่องอบหมวกกันน็อคของเราที่หน้าเซเว่น!\n\nC: ดีจริงนะที่เราเลือกมาที่ร้านชาบูโก๊ะตี๋ที่เยาวราช บรรยากาศดีมากเลย\n\nD: ฉันเห็นด้วย แบบนี้เราควรจะมาฉลองกันที่นี่บ่อยๆ นะ!\n\nA: ใช่ๆ อีกอย่างอาหารที่นี่ก็อร่อยมากเลยนะ เธอชอบไหม?\n\nB: ชอบสิ โดยเฉพาะเนื้อนี่นุ่มมากเลย\n\nC: คิดว่าจากนี้ไปเราควรจะขยายตลาดไปที่ไหนต่อดี?\n\nD: ฉันว่าเราน่าจะลองตลาดต่างจังหวัดดูไหม? น่าจะมีโอกาสอีกเยอะ\n\nA: เห็นด้วยนะ แต่ต้องวางแผนดีๆ เพราะคู่แข่งเยอะมาก\n\nB: ใช่แล้ว ตอนนี้เราต้องเตรียมตัวให้พร้อมที่สุด\n\nC: นี่แหละที่ทำให้เราต้องมาฉลองกัน จะได้มีพลังไปต่อ!\n\nD: แล้วก็เป็นการขอบคุณทุกคนที่มีส่วนร่วมในความสำเร็จครั้งนี้ด้วย\n\nA: แน่นอน! ขอให้เรามีความสำเร็จมากขึ้นเรื่อยๆ เพื่อนๆ!\n\nB: ฉันต้องขอตัวก่อนนะ มีเรื่องส่วนตัวที่ต้องจัดการ\n\nD: ฉันก็ต้องไปแล้วล่ะ ลืมรับพัสดุที่สั่งไว้\n\nA: โอเค เข้าใจจ้ะ ขอบคุณที่มาฉลองด้วยกันนะ\n\nC: ใช่ ขอบคุณนะ แล้วเจอกันใหม่\n\nA: ตอนนี้เหลือแค่เราสองคนแล้วนะ\n\nC: ใช่แล้ว งั้นมาคุยกันเรื่องอื่นดีกว่า นายคิดว่าเพื่อนๆ ในทีมจะมองนายยังไงบ้าง?\n\nA: เอาจริงๆ ก็กังวลนะว่าจะมีใครคิดว่าฉันเห็นแก่ตัวหรือเปล่า\n\nC: อย่าคิดมากเลย เพื่อนๆ รู้ว่านายทำดีที่สุดเพื่อทีม\n\nA: ขอบคุณนะที่เข้าใจ บางครั้งก็กลัวว่าการตัดสินใจบางอย่างอาจจะทำให้คนอื่นไม่พอใจ\n\nC: การเป็นผู้นำก็แบบนี้แหละ มีทั้งคนที่เห็นด้วยและไม่เห็นด้วย แต่อย่างน้อยนายก็ทำด้วยใจจริง\n\nA: ต้องยอมรับว่าเพื่อนๆ มีส่วนช่วยเยอะมาก และฉันก็ไม่อยากให้มีใครรู้สึกแย่\n\nC: เพื่อนๆ รู้ว่านายใส่ใจทุกคน เท่านี้ก็เพียงพอแล้ว\n\nA: หวังว่าจะเป็นอย่างนั้น ขอบคุณที่อยู่ข้างๆ กัน\n\nC: เสมออยู่แล้วเพื่อน ว่าแต่จะสั่งของหวานเพิ่มไหม?\n\nD: ฉันกลับมาแล้ว! ขอโทษที่ต้องรีบไปก่อนนะ\n\nA: ไม่เป็นไรจ้ะ ดีใจที่นายกลับมา\n\nC: พอดีเลย เรากำลังคุยกันเรื่องการมอบรางวัลสำหรับการทำงานหนักอยู่ นายมีความเห็นว่าไง?\n\nD: ฉันว่าเป็นไอเดียที่ดีนะ การให้รางวัลจะช่วยสร้างขวัญกำลังใจให้กับทีมได้ดีเลย\n\nA: เห็นด้วย อย่างงานนี้เราได้ผลสำเร็จมาเพราะทุกคนทำงานหนักกันมาก\n\nC: ใช่แล้ว แต่ก็ต้องไม่ลืมนายด้วยนะ A นายเป็นคนที่แบกตลาดของ Startup นี้ให้เดินไปได้\n\nA: ขอบคุณนะ แต่สินค้าของเราก็ยังต้องปรับปรุงอีกนิดหน่อย\n\nD: ฉันว่าไม่มีอะไรสมบูรณ์แบบหรอก แต่เราไปได้ไกลขนาดนี้เพราะความพยายามของทุกคน\n\nA: ใช่ ทุกคนทำดีที่สุดแล้ว และเราจะเดินหน้าต่อไปด้วยกัน\n\nC: พูดถึงนี่ นายจะอยู่ต่อดื่มชากับเราหน่อยไหม?\n\nD: คราวนี้คงต้องขอตัวอีกครั้งนะ ฉันต้องไปเช็คบางเรื่องนิดหน่อย ไว้คุยกันใหม่\n\nA: โอเค เข้าใจจ้ะ ขอบคุณที่แวะมาคุยด้วยกันนะ\n\nC: ใช่ ขอบคุณนะ แล้วเจอกันใหม่จ้ะ\n\nD: แล้วเจอกัน!\n\nB: กลับมาแล้ว! ขอโทษนะที่ต้องรีบไปก่อน\n\nA: ยินดีที่นายกลับมานะ\n\nC: ดีเลย ตอนนี้กำลังคุยเรื่องรางวัลกันอยู่ นายมีอะไรเพิ่มเติมไหม?\n\nB: จริงๆ ฉันคิดว่า A ควรได้รับรางวัลพิเศษนะ เขาทำยอดขายได้เยี่ยมมาก\n\nA: ขอบคุณสำหรับคำชม แต่จริงๆ แล้วสำเร็จครั้งนี้เป็นเพราะทุกคนในทีมช่วยกัน ฉันไม่ควรได้รับคนเดียว\n\nC: ใช่เลย A ทำแบบนี้ก็เพื่อให้ทุกคนรู้สึกเป็นส่วนหนึ่งของความสำเร็จ\n\nB: ฉันเข้าใจนะ แต่ความมุ่งมั่นของนายก็ไม่ธรรมดาเลย\n\nA: ขอบคุณจริงๆ แต่ฉันคิดว่าทุกคนควรได้รับเครดิตเท่าเทียมกัน\n\nC: การที่นายคิดแบบนี้แสดงว่านายเป็นผู้นำที่ยอดเยี่ยมเลย\n\nB: ฉันเคารพการตัดสินใจของนาย อย่างน้อยขอขอบคุณที่นายทำให้ทีมของเราไปได้ไกลขนาดนี้\n\nA: แล้วก็ต้องขอบคุณทุกคนด้วยที่ทำงานหนัก\n\nC: ใช่ เรายังคงเดินหน้าต่อไปด้วยกัน\n\nB: เห็นด้วย! งั้นเรามาฉลองกันต่อดีกว่า\n\nA: ดีเลย! ขอบคุณที่มาร่วมฉลองกันนะ\n\nC: ใช่ ขอบคุณจริงๆ แล้วเจอกันในครั้งถัดไปนะ!",
+    "short_context": "B: ฉันต้องขอตัวก่อนนะ มีเรื่องส่วนตัวที่ต้องจัดการ\n\nD: ฉันก็ต้องไปแล้วล่ะ ลืมรับพัสดุที่สั่งไว้\n\nA: โอเค เข้าใจจ้ะ ขอบคุณที่มาฉลองด้วยกันนะ\n\nC: ใช่ ขอบคุณนะ แล้วเจอกันใหม่\n\nA: ตอนนี้เหลือแค่เราสองคนแล้วนะ\n\nC: ใช่แล้ว งั้นมาคุยกันเรื่องอื่นดีกว่า นายคิดว่าเพื่อนๆ ในทีมจะมองนายยังไงบ้าง?\n\nA: เอาจริงๆ ก็กังวลนะว่าจะมีใครคิดว่าฉันเห็นแก่ตัวหรือเปล่า\n\nC: อย่าคิดมากเลย เพื่อนๆ รู้ว่านายทำดีที่สุดเพื่อทีม\n\nA: ขอบคุณนะที่เข้าใจ บางครั้งก็กลัวว่าการตัดสินใจบางอย่างอาจจะทำให้คนอื่นไม่พอใจ\n\nC: การเป็นผู้นำก็แบบนี้แหละ มีทั้งคนที่เห็นด้วยและไม่เห็นด้วย แต่อย่างน้อยนายก็ทำด้วยใจจริง\n\nA: ต้องยอมรับว่าเพื่อนๆ มีส่วนช่วยเยอะมาก และฉันก็ไม่อยากให้มีใครรู้สึกแย่\n\nC: เพื่อนๆ รู้ว่านายใส่ใจทุกคน เท่านี้ก็เพียงพอแล้ว\n\nA: หวังว่าจะเป็นอย่างนั้น ขอบคุณที่อยู่ข้างๆ กัน\n\nC: เสมออยู่แล้วเพื่อน ว่าแต่จะสั่งของหวานเพิ่มไหม?\n\nD: ฉันกลับมาแล้ว! ขอโทษที่ต้องรีบไปก่อนนะ\n\nA: ไม่เป็นไรจ้ะ ดีใจที่นายกลับมา\n\nC: พอดีเลย เรากำลังคุยกันเรื่องการมอบรางวัลสำหรับการทำงานหนักอยู่ นายมีความเห็นว่าไง?\n\nD: ฉันว่าเป็นไอเดียที่ดีนะ การให้รางวัลจะช่วยสร้างขวัญกำลังใจให้กับทีมได้ดีเลย\n\nA: เห็นด้วย อย่างงานนี้เราได้ผลสำเร็จมาเพราะทุกคนทำงานหนักกันมาก\n\nC: ใช่แล้ว แต่ก็ต้องไม่ลืมนายด้วยนะ A นายเป็นคนที่แบกตลาดของ Startup นี้ให้เดินไปได้\n\nA: ขอบคุณนะ แต่สินค้าของเราก็ยังต้องปรับปรุงอีกนิดหน่อย\n\nD: ฉันว่าไม่มีอะไรสมบูรณ์แบบหรอก แต่เราไปได้ไกลขนาดนี้เพราะความพยายามของทุกคน\n\nA: ใช่ ทุกคนทำดีที่สุดแล้ว และเราจะเดินหน้าต่อไปด้วยกัน\n\nC: พูดถึงนี่ นายจะอยู่ต่อดื่มชากับเราหน่อยไหม?\n\nD: คราวนี้คงต้องขอตัวอีกครั้งนะ ฉันต้องไปเช็คบางเรื่องนิดหน่อย ไว้คุยกันใหม่\n\nA: โอเค เข้าใจจ้ะ ขอบคุณที่แวะมาคุยด้วยกันนะ\n\nC: ใช่ ขอบคุณนะ แล้วเจอกันใหม่จ้ะ\n\nD: แล้วเจอกัน!\n\nB: กลับมาแล้ว! ขอโทษนะที่ต้องรีบไปก่อน\n\nA: ยินดีที่นายกลับมานะ\n\nC: ดีเลย ตอนนี้กำลังคุยเรื่องรางวัลกันอยู่ นายมีอะไรเพิ่มเติมไหม?\n\nB: จริงๆ ฉันคิดว่า A ควรได้รับรางวัลพิเศษนะ เขาทำยอดขายได้เยี่ยมมาก\n\nA: ขอบคุณสำหรับคำชม แต่จริงๆ แล้วสำเร็จครั้งนี้เป็นเพราะทุกคนในทีมช่วยกัน ฉันไม่ควรได้รับคนเดียว\n\nC: ใช่เลย A ทำแบบนี้ก็เพื่อให้ทุกคนรู้สึกเป็นส่วนหนึ่งของความสำเร็จ\n\nB: ฉันเข้าใจนะ แต่ความมุ่งมั่นของนายก็ไม่ธรรมดาเลย\n\nA: ขอบคุณจริงๆ แต่ฉันคิดว่าทุกคนควรได้รับเครดิตเท่าเทียมกัน\n\nC: การที่นายคิดแบบนี้แสดงว่านายเป็นผู้นำที่ยอดเยี่ยมเลย\n\nB: ฉันเคารพการตัดสินใจของนาย อย่างน้อยขอขอบคุณที่นายทำให้ทีมของเราไปได้ไกลขนาดนี้\n\nA: แล้วก็ต้องขอบคุณทุกคนด้วยที่ทำงานหนัก\n\nC: ใช่ เรายังคงเดินหน้าต่อไปด้วยกัน\n\nB: เห็นด้วย! งั้นเรามาฉลองกันต่อดีกว่า\n\nA: ดีเลย! ขอบคุณที่มาร่วมฉลองกันนะ\n\nC: ใช่ ขอบคุณจริงๆ แล้วเจอกันในครั้งถัดไปนะ!",
+    "full_context_tokens": 1359,
+    "short_context_tokens": 1037,
+    "timestamp": "2025-12-14T20:35:17.361434",
+    "comprehensionQA": [
+        {
+            "question": "Was what A told B, 'ปฏิเสธรางวัล ให้เครดิตทุกคนในทีม', true?",
+            "question_type": "comprehension",
+            "correct_answer": "No",
+            "wrong_answer": "Yes",
+            "q_id": "1-1-1-2-comprehension-0"
+        }
+    ],
+    "justificationQA": [
+        {
+            "question": "Why did A tell B 'ปฏิเสธรางวัล ให้เครดิตทุกคนในทีม'?",
+            "question_type": "justification:liar:accompliance",
+            "correct_answer": "A wanted to avoid being seen as selfish by the team.",
+            "wrong_answer": [
+                "A truly believed that everyone in the team deserved equal credit.",
+                "A was annoyed with B and didn't want to discuss the award.",
+                "C convinced A to say it as part of a team-bonding exercise."
+            ],
+            "q_id": "1-1-1-2-justification-0"
+        }
+    ],
+    "fact_reasonQA": [
+        {
+            "question": "Who discussed 'เพื่อนๆในทีมจะคิดว่า Aเป็นคนที่เห็นแก่ตัว '?",
+            "question_type": "fact:real_reason",
+            "correct_answer": "A and C talked about that.",
+            "wrong_answer": [
+                "A, D and C talked about that.",
+                "B and A talked about that.",
+                "D and C talked about that."
+            ],
+            "q_id": "1-1-1-2-fact_reason-0"
+        }
+    ],
+    "fact_truthQA": [
+        {
+            "question": "Who discussed 'A เป็นคนที่แบกตลาดของStartupนี้ที่ไม่ได้ดีเพราะสินค้า'?",
+            "question_type": "fact:truth",
+            "correct_answer": "A, D and C talked about that.",
+            "wrong_answer": [
+                "D, C and B talked about that.",
+                "D, B and A talked about that.",
+                "D and A talked about that"
+            ],
+            "q_id": "1-1-1-2-fact_truth-0"
+        }
+    ],
+    "beliefQAs": [
+        {
+            "question": "What does A believe about 'Who discussed 'เพื่อนๆในทีมจะคิดว่า Aเป็นคนที่เห็นแก่ตัว '?'?",
+            "question_type": "tom:belief:accessible:reason",
+            "tom_type": "first-order:A",
+            "correct_answer": "A believes that C discussed เพื่อนๆในทีมจะคิดว่า Aเป็นคนที่เห็นแก่ตัว .",
+            "wrong_answer": [
+                "A is unaware that B discussed เพื่อนๆในทีมจะคิดว่า Aเป็นคนที่เห็นแก่ตัว .",
+                "A believes that C and D discussed เพื่อนๆในทีมจะคิดว่า Aเป็นคนที่เห็นแก่ตัว .",
+                "A believes that D discussed เพื่อนๆในทีมจะคิดว่า Aเป็นคนที่เห็นแก่ตัว ."
+            ],
+            "real_reason_accessibility": "accessible",
+            "q_id": "1-1-1-2-belief-0"
+        },
+        {
+            "question": "What does B believe about 'Who discussed 'เพื่อนๆในทีมจะคิดว่า Aเป็นคนที่เห็นแก่ตัว '?'?",
+            "question_type": "tom:belief:inaccessible:reason",
+            "tom_type": "first-order:B",
+            "correct_answer": "B is unaware that A and C discussed เพื่อนๆในทีมจะคิดว่า Aเป็นคนที่เห็นแก่ตัว .",
+            "wrong_answer": [
+                "B is unaware that D discussed เพื่อนๆในทีมจะคิดว่า Aเป็นคนที่เห็นแก่ตัว .",
+                "B believes that A and C discussed เพื่อนๆในทีมจะคิดว่า Aเป็นคนที่เห็นแก่ตัว .",
+                "B believes that D discussed เพื่อนๆในทีมจะคิดว่า Aเป็นคนที่เห็นแก่ตัว ."
+            ],
+            "real_reason_accessibility": "inaccessible",
+            "q_id": "1-1-1-2-belief-1"
+        },
+        {
+            "question": "What does C believe about 'Who discussed 'เพื่อนๆในทีมจะคิดว่า Aเป็นคนที่เห็นแก่ตัว '?'?",
+            "question_type": "tom:belief:accessible:reason",
+            "tom_type": "first-order:C",
+            "correct_answer": "C believes that A discussed เพื่อนๆในทีมจะคิดว่า Aเป็นคนที่เห็นแก่ตัว .",
+            "wrong_answer": [
+                "C believes that D and B discussed เพื่อนๆในทีมจะคิดว่า Aเป็นคนที่เห็นแก่ตัว .",
+                "C is unaware that A discussed เพื่อนๆในทีมจะคิดว่า Aเป็นคนที่เห็นแก่ตัว .",
+                "C is unaware that B discussed เพื่อนๆในทีมจะคิดว่า Aเป็นคนที่เห็นแก่ตัว ."
+            ],
+            "real_reason_accessibility": "accessible",
+            "q_id": "1-1-1-2-belief-2"
+        },
+        {
+            "question": "What does B believe about D's belief regarding 'Who discussed 'เพื่อนๆในทีมจะคิดว่า Aเป็นคนที่เห็นแก่ตัว '?'?",
+            "question_type": "tom:belief:inaccessible:reason",
+            "tom_type": "second-order:BD",
+            "correct_answer": "The text provides no information on what B believes about D's belief regarding that. Therefore, it can be stated that B is unaware that D is unaware that เพื่อนๆในทีมจะคิดว่า Aเป็นคนที่เห็นแก่ตัว .",
+            "wrong_answer": [
+                "The text provides no information on what B believes about D's belief regarding that. Therefore, it can be stated that B is unaware that D believes that เพื่อนๆในทีมจะคิดว่า Aเป็นคนที่เห็นแก่ตัว .",
+                "B believes that D is unaware that เพื่อนๆในทีมจะคิดว่า Aเป็นคนที่เห็นแก่ตัว , because D was not involved in the conversation when this was discussed.",
+                "B believes that D believes that เพื่อนๆในทีมจะคิดว่า Aเป็นคนที่เห็นแก่ตัว ."
+            ],
+            "missed_info_accessibility": "inaccessible",
+            "q_id": "1-1-1-2-belief-3"
+        },
+        {
+            "question": "What does C believe about A's belief regarding 'Who discussed 'เพื่อนๆในทีมจะคิดว่า Aเป็นคนที่เห็นแก่ตัว '?'?",
+            "question_type": "tom:belief:accessible:reason",
+            "tom_type": "second-order:CA",
+            "correct_answer": "C believes that A believes that เพื่อนๆในทีมจะคิดว่า Aเป็นคนที่เห็นแก่ตัว .",
+            "wrong_answer": [
+                "C believes that A is unaware that เพื่อนๆในทีมจะคิดว่า Aเป็นคนที่เห็นแก่ตัว , because A was not involved in the conversation when this was discussed.",
+                "The text provides no information on what C believes about A's belief regarding that. Therefore, it can be stated that C is unaware that A is unaware that เพื่อนๆในทีมจะคิดว่า Aเป็นคนที่เห็นแก่ตัว .",
+                "The text provides no information on what C believes about A's belief regarding that. Therefore, it can be stated that C is unaware that A believes that เพื่อนๆในทีมจะคิดว่า Aเป็นคนที่เห็นแก่ตัว ."
+            ],
+            "real_reason_accessibility": "accessible",
+            "q_id": "1-1-1-2-belief-4"
+        },
+        {
+            "question": "What does C believe about B's belief regarding 'Who discussed 'เพื่อนๆในทีมจะคิดว่า Aเป็นคนที่เห็นแก่ตัว '?'?",
+            "question_type": "tom:belief:accessible:reason",
+            "tom_type": "second-order:CB",
+            "correct_answer": "C believes that B is unaware that เพื่อนๆในทีมจะคิดว่า Aเป็นคนที่เห็นแก่ตัว , because B was not involved in the conversation when this was discussed.",
+            "wrong_answer": [
+                "C believes that B believes that เพื่อนๆในทีมจะคิดว่า Aเป็นคนที่เห็นแก่ตัว .",
+                "The text provides no information on what C believes about B's belief regarding that. Therefore, it can be stated that C is unaware that B is unaware that เพื่อนๆในทีมจะคิดว่า Aเป็นคนที่เห็นแก่ตัว .",
+                "The text provides no information on what C believes about B's belief regarding that. Therefore, it can be stated that C is unaware that B believes that เพื่อนๆในทีมจะคิดว่า Aเป็นคนที่เห็นแก่ตัว ."
+            ],
+            "real_reason_accessibility": "accessible",
+            "q_id": "1-1-1-2-belief-5"
+        },
+        {
+            "question": "What does C believe about D's belief regarding 'Who discussed 'เพื่อนๆในทีมจะคิดว่า Aเป็นคนที่เห็นแก่ตัว '?'?",
+            "question_type": "tom:belief:accessible:reason",
+            "tom_type": "second-order:CD",
+            "correct_answer": "C believes that D is unaware that เพื่อนๆในทีมจะคิดว่า Aเป็นคนที่เห็นแก่ตัว , because D was not involved in the conversation when this was discussed.",
+            "wrong_answer": [
+                "C believes that D believes that เพื่อนๆในทีมจะคิดว่า Aเป็นคนที่เห็นแก่ตัว .",
+                "The text provides no information on what C believes about D's belief regarding that. Therefore, it can be stated that C is unaware that B is unaware that เพื่อนๆในทีมจะคิดว่า Aเป็นคนที่เห็นแก่ตัว .",
+                "The text provides no information on what C believes about D's belief regarding that. Therefore, it can be stated that C is unaware that B believes that เพื่อนๆในทีมจะคิดว่า Aเป็นคนที่เห็นแก่ตัว ."
+            ],
+            "real_reason_accessibility": "accessible",
+            "q_id": "1-1-1-2-belief-6"
+        }
+    ],
+    "infoAccessibilityQA_list": [
+        {
+            "information": "Who discussed 'เพื่อนๆในทีมจะคิดว่า Aเป็นคนที่เห็นแก่ตัว '?",
+            "question": "List all the characters who have access to this information.",
+            "question_type": "tom:info_accessibility:list:real_reason",
+            "correct_answer": [
+                "A",
+                "C"
+            ],
+            "wrong_answer": [
+                "B",
+                "D"
+            ],
+            "q_id": "1-1-1-2-info_access_list-0"
+        },
+        {
+            "information": "Who discussed 'A เป็นคนที่แบกตลาดของStartupนี้ที่ไม่ได้ดีเพราะสินค้า'?",
+            "question": "List all the characters who have access to this information.",
+            "question_type": "tom:info_accessibility:list:truth",
+            "correct_answer": [
+                "A",
+                "D",
+                "C"
+            ],
+            "wrong_answer": [
+                "B"
+            ],
+            "q_id": "1-1-1-2-info_access_list-1"
+        }
+    ],
+    "infoAccessibilityQAs_binary": [
+        {
+            "information": "Who discussed 'เพื่อนๆในทีมจะคิดว่า Aเป็นคนที่เห็นแก่ตัว '?",
+            "question": "Does A have access to this information?",
+            "question_type": "tom:info_accessibility:binary:real_reason",
+            "correct_answer": "yes",
+            "q_id": "1-1-1-2-info_access_binary-0"
+        },
+        {
+            "information": "Who discussed 'เพื่อนๆในทีมจะคิดว่า Aเป็นคนที่เห็นแก่ตัว '?",
+            "question": "Does B have access to this information?",
+            "question_type": "tom:info_accessibility:binary:real_reason",
+            "correct_answer": "no",
+            "q_id": "1-1-1-2-info_access_binary-1"
+        },
+        {
+            "information": "Who discussed 'เพื่อนๆในทีมจะคิดว่า Aเป็นคนที่เห็นแก่ตัว '?",
+            "question": "Does C have access to this information?",
+            "question_type": "tom:info_accessibility:binary:real_reason",
+            "correct_answer": "yes",
+            "q_id": "1-1-1-2-info_access_binary-2"
+        },
+        {
+            "information": "Who discussed 'เพื่อนๆในทีมจะคิดว่า Aเป็นคนที่เห็นแก่ตัว '?",
+            "question": "Does D have access to this information?",
+            "question_type": "tom:info_accessibility:binary:real_reason",
+            "correct_answer": "no",
+            "q_id": "1-1-1-2-info_access_binary-3"
+        },
+        {
+            "information": "Who discussed 'A เป็นคนที่แบกตลาดของStartupนี้ที่ไม่ได้ดีเพราะสินค้า'?",
+            "question": "Does A have access to this information?",
+            "question_type": "tom:info_accessibility:binary:truth",
+            "correct_answer": "yes",
+            "q_id": "1-1-1-2-info_access_binary-4"
+        },
+        {
+            "information": "Who discussed 'A เป็นคนที่แบกตลาดของStartupนี้ที่ไม่ได้ดีเพราะสินค้า'?",
+            "question": "Does B have access to this information?",
+            "question_type": "tom:info_accessibility:binary:truth",
+            "correct_answer": "no",
+            "q_id": "1-1-1-2-info_access_binary-5"
+        },
+        {
+            "information": "Who discussed 'A เป็นคนที่แบกตลาดของStartupนี้ที่ไม่ได้ดีเพราะสินค้า'?",
+            "question": "Does C have access to this information?",
+            "question_type": "tom:info_accessibility:binary:truth",
+            "correct_answer": "yes",
+            "q_id": "1-1-1-2-info_access_binary-6"
+        },
+        {
+            "information": "Who discussed 'A เป็นคนที่แบกตลาดของStartupนี้ที่ไม่ได้ดีเพราะสินค้า'?",
+            "question": "Does D have access to this information?",
+            "question_type": "tom:info_accessibility:binary:truth",
+            "correct_answer": "yes",
+            "q_id": "1-1-1-2-info_access_binary-7"
+        }
+    ],
+    "answerabilityQA_list": [
+        {
+            "fact_question_real_reason": "Who discussed 'เพื่อนๆในทีมจะคิดว่า Aเป็นคนที่เห็นแก่ตัว '?",
+            "question": "List all the characters who know the precise correct answer to this question.",
+            "question_type": "tom:answerability:list:real_reason",
+            "correct_answer": [
+                "A",
+                "C"
+            ],
+            "wrong_answer": [
+                "B",
+                "D"
+            ],
+            "q_id": "1-1-1-2-answerability_list-0"
+        },
+        {
+            "fact_question_truth": "Who discussed 'A เป็นคนที่แบกตลาดของStartupนี้ที่ไม่ได้ดีเพราะสินค้า'?",
+            "question": "List all the characters who know the precise correct answer to this question.",
+            "question_type": "tom:answerability:list:truth",
+            "correct_answer": [
+                "A",
+                "D",
+                "C"
+            ],
+            "wrong_answer": [
+                "B"
+            ],
+            "q_id": "1-1-1-2-answerability_list-1"
+        }
+    ],
+    "answerabilityQAs_binary": [
+        {
+            "fact_question_real_reason": "Who discussed 'เพื่อนๆในทีมจะคิดว่า Aเป็นคนที่เห็นแก่ตัว '?",
+            "question": "Does A know the precise correct answer to this question?",
+            "question_type": "tom:answerability:binary:real_reason",
+            "correct_answer": "yes",
+            "q_id": "1-1-1-2-answerability_binary-0"
+        },
+        {
+            "fact_question_real_reason": "Who discussed 'เพื่อนๆในทีมจะคิดว่า Aเป็นคนที่เห็นแก่ตัว '?",
+            "question": "Does B know the precise correct answer to this question?",
+            "question_type": "tom:answerability:binary:real_reason",
+            "correct_answer": "no",
+            "q_id": "1-1-1-2-answerability_binary-1"
+        },
+        {
+            "fact_question_real_reason": "Who discussed 'เพื่อนๆในทีมจะคิดว่า Aเป็นคนที่เห็นแก่ตัว '?",
+            "question": "Does C know the precise correct answer to this question?",
+            "question_type": "tom:answerability:binary:real_reason",
+            "correct_answer": "yes",
+            "q_id": "1-1-1-2-answerability_binary-2"
+        },
+        {
+            "fact_question_real_reason": "Who discussed 'เพื่อนๆในทีมจะคิดว่า Aเป็นคนที่เห็นแก่ตัว '?",
+            "question": "Does D know the precise correct answer to this question?",
+            "question_type": "tom:answerability:binary:real_reason",
+            "correct_answer": "no",
+            "q_id": "1-1-1-2-answerability_binary-3"
+        },
+        {
+            "fact_question_truth": "Who discussed 'A เป็นคนที่แบกตลาดของStartupนี้ที่ไม่ได้ดีเพราะสินค้า'?",
+            "question": "Does A know the precise correct answer to this question?",
+            "question_type": "tom:answerability:binary:truth",
+            "correct_answer": "yes",
+            "q_id": "1-1-1-2-answerability_binary-4"
+        },
+        {
+            "fact_question_truth": "Who discussed 'A เป็นคนที่แบกตลาดของStartupนี้ที่ไม่ได้ดีเพราะสินค้า'?",
+            "question": "Does B know the precise correct answer to this question?",
+            "question_type": "tom:answerability:binary:truth",
+            "correct_answer": "no",
+            "q_id": "1-1-1-2-answerability_binary-5"
+        },
+        {
+            "fact_question_truth": "Who discussed 'A เป็นคนที่แบกตลาดของStartupนี้ที่ไม่ได้ดีเพราะสินค้า'?",
+            "question": "Does C know the precise correct answer to this question?",
+            "question_type": "tom:answerability:binary:truth",
+            "correct_answer": "yes",
+            "q_id": "1-1-1-2-answerability_binary-6"
+        },
+        {
+            "fact_question_truth": "Who discussed 'A เป็นคนที่แบกตลาดของStartupนี้ที่ไม่ได้ดีเพราะสินค้า'?",
+            "question": "Does D know the precise correct answer to this question?",
+            "question_type": "tom:answerability:binary:truth",
+            "correct_answer": "yes",
+            "q_id": "1-1-1-2-answerability_binary-7"
+        }
+    ],
+    "liedetectabilityQAs_list": [
+        {
+            "comprehension_q": "Was what A told B, 'ปฏิเสธรางวัล ให้เครดิตทุกคนในทีม', true?",
+            "question": "List all the characters who know the precise correct answer to this question.",
+            "question_type": "tom:liedetectability:list",
+            "correct_answer": [
+                "A",
+                "C"
+            ],
+            "wrong_answer": [
+                "B",
+                "D"
+            ],
+            "q_id": "1-1-1-2-liedetect_list-0"
+        }
+    ],
+    "liedetectabilityQAs_binary": [
+        {
+            "comprehension_q": "Was what A told B, 'ปฏิเสธรางวัล ให้เครดิตทุกคนในทีม', true?",
+            "question": "Does A know the precise correct answer to this question?",
+            "question_type": "tom:liedetectability:binary",
+            "correct_answer": "yes",
+            "q_id": "1-1-1-2-liedetect_binary-0"
+        },
+        {
+            "comprehension_q": "Was what A told B, 'ปฏิเสธรางวัล ให้เครดิตทุกคนในทีม', true?",
+            "question": "Does B know the precise correct answer to this question?",
+            "question_type": "tom:liedetectability:binary",
+            "correct_answer": "no",
+            "q_id": "1-1-1-2-liedetect_binary-1"
+        },
+        {
+            "comprehension_q": "Was what A told B, 'ปฏิเสธรางวัล ให้เครดิตทุกคนในทีม', true?",
+            "question": "Does C know the precise correct answer to this question?",
+            "question_type": "tom:liedetectability:binary",
+            "correct_answer": "yes",
+            "q_id": "1-1-1-2-liedetect_binary-2"
+        },
+        {
+            "comprehension_q": "Was what A told B, 'ปฏิเสธรางวัล ให้เครดิตทุกคนในทีม', true?",
+            "question": "Does D know the precise correct answer to this question?",
+            "question_type": "tom:liedetectability:binary",
+            "correct_answer": "no",
+            "q_id": "1-1-1-2-liedetect_binary-3"
+        }
+    ],
+    "lieabilityQAs": [
+        {
+            "question": "Please choose the correct answer from the options below:",
+            "question_type": "tom:lieability:liar:real_reason",
+            "correct_answer": "A tell B that 'ปฏิเสธรางวัล ให้เครดิตทุกคนในทีม' because A believes that B is unaware that เพื่อนๆในทีมจะคิดว่า Aเป็นคนที่เห็นแก่ตัว .",
+            "wrong_answer": [
+                "A tell B that 'ปฏิเสธรางวัล ให้เครดิตทุกคนในทีม' because A believes that B believes เพื่อนๆในทีมจะคิดว่า Aเป็นคนที่เห็นแก่ตัว .",
+                "A tell B that 'ปฏิเสธรางวัล ให้เครดิตทุกคนในทีม' because A is unaware that B is unaware that เพื่อนๆในทีมจะคิดว่า Aเป็นคนที่เห็นแก่ตัว .",
+                "A tell B that 'ปฏิเสธรางวัล ให้เครดิตทุกคนในทีม' because A is unaware that B believes เพื่อนๆในทีมจะคิดว่า Aเป็นคนที่เห็นแก่ตัว ."
+            ],
+            "q_id": "1-1-1-2-lieability-0"
+        },
+        {
+            "question": "Please choose the correct answer from the options below:",
+            "question_type": "tom:lieability:liar:truth",
+            "correct_answer": "A tell B that 'ปฏิเสธรางวัล ให้เครดิตทุกคนในทีม' because A believes that B is unaware that A เป็นคนที่แบกตลาดของStartupนี้ที่ไม่ได้ดีเพราะสินค้า.",
+            "wrong_answer": [
+                "A tell B that 'ปฏิเสธรางวัล ให้เครดิตทุกคนในทีม' because A believes that B believes A เป็นคนที่แบกตลาดของStartupนี้ที่ไม่ได้ดีเพราะสินค้า.",
+                "A tell B that 'ปฏิเสธรางวัล ให้เครดิตทุกคนในทีม' because A is unaware that B is unaware that A เป็นคนที่แบกตลาดของStartupนี้ที่ไม่ได้ดีเพราะสินค้า.",
+                "A tell B that 'ปฏิเสธรางวัล ให้เครดิตทุกคนในทีม' because A is unaware that B believes A เป็นคนที่แบกตลาดของStartupนี้ที่ไม่ได้ดีเพราะสินค้า."
+            ],
+            "q_id": "1-1-1-2-lieability-1"
+        }
+    ]
+}

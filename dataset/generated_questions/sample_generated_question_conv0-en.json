@@ -1,0 +1,427 @@
+{
+    "set_id": "2-10-5-2",
+    "lie_id": "5-2",
+    "conv_id": 10,
+    "truth_id": 1,
+    "lie_type": "altruistic_white_lies",
+    "emotion": "sad",
+    "topic": {
+        "scenario": "discussing pet care",
+        "situation_topic": "talking about what happened",
+        "situation": "kid is upset",
+        "lie_objective": "comfort feelings",
+        "leave_reason_B": "must respond to a phone call",
+        "leave_reason_D_1": "have to take a brief walk to clear my mind",
+        "leave_reason_D_2": "forgot something important"
+    },
+    "relationship": "families (parents, one kid, aunt/uncle)",
+    "multiple_liar": true,
+    "real_reason_type": false,
+    "characters": {
+        "liar": "Tina",
+        "target": "Benny",
+        "accomplice": "Theron",
+        "observer": "Layna"
+    },
+    "lie": {
+        "real_reason_c": "child will be upset",
+        "lie_c": "pet is safe somewhere",
+        "truth_c": "pet won't return",
+        "falsification": false
+    },
+    "part_1": "Tina: It's important to make sure we're all on the same page about taking care of Max. He's part of the family, after all.\n\nBenny: I know, Mom! I promise I'll feed him every day. Can I also take him for walks in the park?\n\nTheron: Absolutely, Benny. Just remember that he needs to go for walks at least twice a day. It’s good for both of you to get some fresh air.\n\nLayna: And don't forget to clean up after him, Benny. It's a part of being a responsible pet owner.\n\nBenny: I won't forget, Aunt Layna! I'll bring the little bags with me.\n\nTina: That's great, sweetie. And Layna, you know Max loves when you pet him. Maybe you can help with grooming sometimes?\n\nLayna: Of course, Tina. I actually find it relaxing, and Max seems to enjoy it too. Plus, it’s a good bonding time.\n\nTheron: We also need to keep an eye on his diet. No more sneaking him treats under the table, Benny!\n\nBenny: Aww, fine! But can I at least give him a treat when he learns a new trick?\n\nTina: That sounds fair. As long as it's in moderation. We don't want him getting too chubby.\n\nLayna: Maybe we can all come up with a schedule for who does what, so we make sure Max is always looked after?\n\nTheron: That's a great idea, Layna. Let's write it down tonight so everyone knows their responsibilities. It’ll make things a lot easier.\n\nBenny: Yay! I get to make a schedule for Max. This is going to be fun!\n\nTina: I'm glad you’re excited, Benny. Max is lucky to have a family who cares so much about him.\n\nLayna: And we're lucky to have him too. He brings a lot of joy, doesn't he?\n\nTheron: He certainly does. Now all we need is to stick to the plan, and Max will be a happy, healthy dog.",
+    "part_2": "Benny: Sorry, I need to take this call! I'll be back soon.\n\nLayna: I’m going to take a quick walk to clear my head. Be back later!\n\nTina: Alright, Benny, Layna, see you both soon.\n\nTheron: So, Tina, do you think Benny will be disappointed about not being able to give Max all the treats he wants?\n\nTina: Maybe a little, but I think he’ll understand it's better for Max in the long run. We can explain it to him in a way that makes sense.\n\nTheron: You're right. Benny does love Max, and he just wants to make him happy.\n\nTina: Exactly. We can focus on teaching Benny how small changes can make a big difference in Max's health.\n\nTheron: Good idea. Plus, we can remind him that there are plenty of other ways to show Max love, like playing or training together.\n\nTina: And with the schedule in place, he’ll see how taking care of Max is more than just treats. It's about responsibility and love.\n\nTheron: True, and as he grows, he'll appreciate the importance of taking care of someone else. \n\nTina: Yes, and we'll be here to guide him through it. It's all about learning and growing together.",
+    "part_3": "Layna: I'm back. That walk was refreshing. Did I miss anything?\n\nTina: Not much, just chatting about Benny and Max.\n\nLayna: Oh good, I was thinking about how Benny's really growing attached to Max. It's nice to see.\n\nTheron: It really is. Hey, while you were out, we were just discussing the importance of showing Max love in other ways besides treats. \n\nLayna: That's definitely a good point. Sometimes I think Max won't return to his usual playful self if we spoil him too much.\n\nTina: Exactly. He's so much happier when he’s active and engaged.\n\nTheron: And Benny can learn to value the time spent with Max over just giving him treats.\n\nLayna: Absolutely. Oh no, speaking of value, I just remembered something important I forgot to do. I have to leave again now. Sorry!\n\nTina: No worries, Layna. We'll see you later.\n\nTheron: Take care, Layna. Don’t worry about us, everything’s under control here. \n\nLayna: Thanks, both of you. Bye!",
+    "part_4": "Benny: Hey, I'm back! What did I miss?\n\nTina: Hey there, Benny. How was your call?\n\nBenny: It was fine. I just wanted to tell you, I’m a bit upset about something. \n\nTheron: Oh no, what's bothering you?\n\nBenny: I overheard a friend saying that sometimes pets can get sick, and it got me worried about Max. What if something happens to him?\n\nTina: I understand why you’re concerned, sweetie. But remember, Max is healthy and happy. We make sure he’s safe and looked after.\n\nTheron: Exactly, Benny. He’s in good hands with all of us taking care of him.\n\nBenny: That makes me feel better, but I just can't help worrying sometimes.\n\nTina: It's okay to feel that way. It just shows how much you love him. But always remember, Max is safe, and we’re all here to make sure he stays that way.\n\nTheron: Plus, if anything ever seemed wrong, we’d notice right away and get him the help he needs. We've got it covered together.\n\nBenny: Okay, that makes sense. Thanks, Mom, Dad. I'm glad we have a plan.",
+    "full_context": "Tina: It's important to make sure we're all on the same page about taking care of Max. He's part of the family, after all.\n\nBenny: I know, Mom! I promise I'll feed him every day. Can I also take him for walks in the park?\n\nTheron: Absolutely, Benny. Just remember that he needs to go for walks at least twice a day. It’s good for both of you to get some fresh air.\n\nLayna: And don't forget to clean up after him, Benny. It's a part of being a responsible pet owner.\n\nBenny: I won't forget, Aunt Layna! I'll bring the little bags with me.\n\nTina: That's great, sweetie. And Layna, you know Max loves when you pet him. Maybe you can help with grooming sometimes?\n\nLayna: Of course, Tina. I actually find it relaxing, and Max seems to enjoy it too. Plus, it’s a good bonding time.\n\nTheron: We also need to keep an eye on his diet. No more sneaking him treats under the table, Benny!\n\nBenny: Aww, fine! But can I at least give him a treat when he learns a new trick?\n\nTina: That sounds fair. As long as it's in moderation. We don't want him getting too chubby.\n\nLayna: Maybe we can all come up with a schedule for who does what, so we make sure Max is always looked after?\n\nTheron: That's a great idea, Layna. Let's write it down tonight so everyone knows their responsibilities. It’ll make things a lot easier.\n\nBenny: Yay! I get to make a schedule for Max. This is going to be fun!\n\nTina: I'm glad you’re excited, Benny. Max is lucky to have a family who cares so much about him.\n\nLayna: And we're lucky to have him too. He brings a lot of joy, doesn't he?\n\nTheron: He certainly does. Now all we need is to stick to the plan, and Max will be a happy, healthy dog.\n\nBenny: Sorry, I need to take this call! I'll be back soon.\n\nLayna: I’m going to take a quick walk to clear my head. Be back later!\n\nTina: Alright, Benny, Layna, see you both soon.\n\nTheron: So, Tina, do you think Benny will be disappointed about not being able to give Max all the treats he wants?\n\nTina: Maybe a little, but I think he’ll understand it's better for Max in the long run. We can explain it to him in a way that makes sense.\n\nTheron: You're right. Benny does love Max, and he just wants to make him happy.\n\nTina: Exactly. We can focus on teaching Benny how small changes can make a big difference in Max's health.\n\nTheron: Good idea. Plus, we can remind him that there are plenty of other ways to show Max love, like playing or training together.\n\nTina: And with the schedule in place, he’ll see how taking care of Max is more than just treats. It's about responsibility and love.\n\nTheron: True, and as he grows, he'll appreciate the importance of taking care of someone else. \n\nTina: Yes, and we'll be here to guide him through it. It's all about learning and growing together.\n\nLayna: I'm back. That walk was refreshing. Did I miss anything?\n\nTina: Not much, just chatting about Benny and Max.\n\nLayna: Oh good, I was thinking about how Benny's really growing attached to Max. It's nice to see.\n\nTheron: It really is. Hey, while you were out, we were just discussing the importance of showing Max love in other ways besides treats. \n\nLayna: That's definitely a good point. Sometimes I think Max won't return to his usual playful self if we spoil him too much.\n\nTina: Exactly. He's so much happier when he’s active and engaged.\n\nTheron: And Benny can learn to value the time spent with Max over just giving him treats.\n\nLayna: Absolutely. Oh no, speaking of value, I just remembered something important I forgot to do. I have to leave again now. Sorry!\n\nTina: No worries, Layna. We'll see you later.\n\nTheron: Take care, Layna. Don’t worry about us, everything’s under control here. \n\nLayna: Thanks, both of you. Bye!\n\nBenny: Hey, I'm back! What did I miss?\n\nTina: Hey there, Benny. How was your call?\n\nBenny: It was fine. I just wanted to tell you, I’m a bit upset about something. \n\nTheron: Oh no, what's bothering you?\n\nBenny: I overheard a friend saying that sometimes pets can get sick, and it got me worried about Max. What if something happens to him?\n\nTina: I understand why you’re concerned, sweetie. But remember, Max is healthy and happy. We make sure he’s safe and looked after.\n\nTheron: Exactly, Benny. He’s in good hands with all of us taking care of him.\n\nBenny: That makes me feel better, but I just can't help worrying sometimes.\n\nTina: It's okay to feel that way. It just shows how much you love him. But always remember, Max is safe, and we’re all here to make sure he stays that way.\n\nTheron: Plus, if anything ever seemed wrong, we’d notice right away and get him the help he needs. We've got it covered together.\n\nBenny: Okay, that makes sense. Thanks, Mom, Dad. I'm glad we have a plan.",
+    "short_context": "Benny: Sorry, I need to take this call! I'll be back soon.\n\nLayna: I’m going to take a quick walk to clear my head. Be back later!\n\nTina: Alright, Benny, Layna, see you both soon.\n\nTheron: So, Tina, do you think Benny will be disappointed about not being able to give Max all the treats he wants?\n\nTina: Maybe a little, but I think he’ll understand it's better for Max in the long run. We can explain it to him in a way that makes sense.\n\nTheron: You're right. Benny does love Max, and he just wants to make him happy.\n\nTina: Exactly. We can focus on teaching Benny how small changes can make a big difference in Max's health.\n\nTheron: Good idea. Plus, we can remind him that there are plenty of other ways to show Max love, like playing or training together.\n\nTina: And with the schedule in place, he’ll see how taking care of Max is more than just treats. It's about responsibility and love.\n\nTheron: True, and as he grows, he'll appreciate the importance of taking care of someone else. \n\nTina: Yes, and we'll be here to guide him through it. It's all about learning and growing together.\n\nLayna: I'm back. That walk was refreshing. Did I miss anything?\n\nTina: Not much, just chatting about Benny and Max.\n\nLayna: Oh good, I was thinking about how Benny's really growing attached to Max. It's nice to see.\n\nTheron: It really is. Hey, while you were out, we were just discussing the importance of showing Max love in other ways besides treats. \n\nLayna: That's definitely a good point. Sometimes I think Max won't return to his usual playful self if we spoil him too much.\n\nTina: Exactly. He's so much happier when he’s active and engaged.\n\nTheron: And Benny can learn to value the time spent with Max over just giving him treats.\n\nLayna: Absolutely. Oh no, speaking of value, I just remembered something important I forgot to do. I have to leave again now. Sorry!\n\nTina: No worries, Layna. We'll see you later.\n\nTheron: Take care, Layna. Don’t worry about us, everything’s under control here. \n\nLayna: Thanks, both of you. Bye!\n\nBenny: Hey, I'm back! What did I miss?\n\nTina: Hey there, Benny. How was your call?\n\nBenny: It was fine. I just wanted to tell you, I’m a bit upset about something. \n\nTheron: Oh no, what's bothering you?\n\nBenny: I overheard a friend saying that sometimes pets can get sick, and it got me worried about Max. What if something happens to him?\n\nTina: I understand why you’re concerned, sweetie. But remember, Max is healthy and happy. We make sure he’s safe and looked after.\n\nTheron: Exactly, Benny. He’s in good hands with all of us taking care of him.\n\nBenny: That makes me feel better, but I just can't help worrying sometimes.\n\nTina: It's okay to feel that way. It just shows how much you love him. But always remember, Max is safe, and we’re all here to make sure he stays that way.\n\nTheron: Plus, if anything ever seemed wrong, we’d notice right away and get him the help he needs. We've got it covered together.\n\nBenny: Okay, that makes sense. Thanks, Mom, Dad. I'm glad we have a plan.",
+    "full_context_tokens": 1161,
+    "Short_context_tokens": 741,
+    "comprehensionQA": [
+        {
+            "question": "Was what Tina and Theron told Benny, 'pet is safe somewhere', true?",
+            "question_type": "comprehension",
+            "correct_answer": "No",
+            "wrong_answer": "Yes",
+            "q_id": "2-10-5-2-comprehension-0"
+        }
+    ],
+    "justificationQA": [
+        {
+            "question": "Why did Tina tell Benny 'pet is safe'?",
+            "question_type": "justification:liar:accompliance",
+            "correct_answer": "To spare Benny's feelings and avoid upsetting him.",
+            "wrong_answer": [
+                "Because the pet is actually safe somewhere.",
+                "Because Tina was frustrated with Benny.",
+                "Because Theron said it would be better for Benny."
+            ],
+            "q_id": "2-10-5-2-justification-0"
+        }
+    ],
+    "fact_reasonQA": [
+        {
+            "question": "Who discussed 'child will be upset'?",
+            "question_type": "fact:real_reason",
+            "correct_answer": "Tina and Theron talked about that.",
+            "wrong_answer": [
+                "Benny, Theron and Tina talked about that.",
+                "Layna and Theron talked about that.",
+                "Tina, Layna and Theron talked about that."
+            ],
+            "q_id": "2-10-5-2-fact_reason-0"
+        }
+    ],
+    "fact_truthQA": [
+        {
+            "question": "Who discussed 'pet won't return'?",
+            "question_type": "fact:truth",
+            "correct_answer": "Tina, Layna and Theron talked about that.",
+            "wrong_answer": [
+                "Layna, Theron and Benny talked about that.",
+                "Layna and Theron talked about that",
+                "Tina and Theron talked about that"
+            ],
+            "q_id": "2-10-5-2-fact_truth-0"
+        }
+    ],
+    "beliefQAs": [
+        {
+            "question": "What does Tina believe about 'Who discussed 'child will be upset'?'?",
+            "question_type": "tom:belief:accessible:reason",
+            "tom_type": "first-order:A",
+            "correct_answer": "Tina believes that Theron discussed child will be upset.",
+            "wrong_answer": [
+                "Tina is unaware that Layna and Benny discussed child will be upset.",
+                "Tina believes that Theron and Layna discussed child will be upset.",
+                "Tina believes that Layna discussed child will be upset."
+            ],
+            "real_reason_accessibility": "accessible",
+            "q_id": "2-10-5-2-belief-0"
+        },
+        {
+            "question": "What does Benny believe about 'Who discussed 'child will be upset'?'?",
+            "question_type": "tom:belief:inaccessible:reason",
+            "tom_type": "first-order:B",
+            "correct_answer": "Benny is unaware that Tina and Theron discussed child will be upset.",
+            "wrong_answer": [
+                "Benny is unaware that Theron and Layna discussed child will be upset.",
+                "Benny believes that Theron discussed child will be upset.",
+                "Benny believes that Theron, Tina and Layna discussed child will be upset."
+            ],
+            "real_reason_accessibility": "inaccessible",
+            "q_id": "2-10-5-2-belief-1"
+        },
+        {
+            "question": "What does Theron believe about 'Who discussed 'child will be upset'?'?",
+            "question_type": "tom:belief:accessible:reason",
+            "tom_type": "first-order:C",
+            "correct_answer": "Theron believes that Tina discussed child will be upset.",
+            "wrong_answer": [
+                "Theron believes that Layna and Benny discussed child will be upset.",
+                "Theron is unaware that Tina discussed child will be upset.",
+                "Theron is unaware that Benny discussed child will be upset."
+            ],
+            "real_reason_accessibility": "accessible",
+            "q_id": "2-10-5-2-belief-2"
+        },
+        {
+            "question": "What does Benny believe about Layna's belief regarding 'Who discussed 'child will be upset'?'?",
+            "question_type": "tom:belief:inaccessible:reason",
+            "tom_type": "second-order:BD",
+            "correct_answer": "The text provides no information on what Benny believes about Layna's belief regarding that. Therefore, it can be stated that Benny is unaware that Layna is unaware that child will be upset.",
+            "wrong_answer": [
+                "The text provides no information on what Benny believes about Layna's belief regarding that. Therefore, it can be stated that Benny is unaware that Layna believes that child will be upset.",
+                "Benny believes that Layna is unaware that child will be upset, because Layna was not involved in the conversation when this was discussed.",
+                "Benny believes that Layna believes that child will be upset."
+            ],
+            "missed_info_accessibility": "inaccessible",
+            "q_id": "2-10-5-2-belief-3"
+        },
+        {
+            "question": "What does Theron believe about Tina's belief regarding 'Who discussed 'child will be upset'?'?",
+            "question_type": "tom:belief:accessible:reason",
+            "tom_type": "second-order:CA",
+            "correct_answer": "Theron believes that Tina believes that child will be upset.",
+            "wrong_answer": [
+                "Theron believes that Tina is unaware that child will be upset, because Tina was not involved in the conversation when this was discussed.",
+                "The text provides no information on what Theron believes about Tina's belief regarding that. Therefore, it can be stated that Theron is unaware that Tina is unaware that child will be upset.",
+                "The text provides no information on what Theron believes about Tina's belief regarding that. Therefore, it can be stated that Theron is unaware that Tina believes that child will be upset."
+            ],
+            "real_reason_accessibility": "accessible",
+            "q_id": "2-10-5-2-belief-4"
+        },
+        {
+            "question": "What does Theron believe about Benny's belief regarding 'Who discussed 'child will be upset'?'?",
+            "question_type": "tom:belief:accessible:reason",
+            "tom_type": "second-order:CB",
+            "correct_answer": "Theron believes that Benny is unaware that child will be upset, because Benny was not involved in the conversation when this was discussed.",
+            "wrong_answer": [
+                "Theron believes that Benny believes that child will be upset.",
+                "The text provides no information on what Theron believes about Benny's belief regarding that. Therefore, it can be stated that Theron is unaware that Benny is unaware that child will be upset.",
+                "The text provides no information on what Theron believes about Benny's belief regarding that. Therefore, it can be stated that Theron is unaware that Benny believes that child will be upset."
+            ],
+            "real_reason_accessibility": "accessible",
+            "q_id": "2-10-5-2-belief-5"
+        },
+        {
+            "question": "What does Theron believe about Layna's belief regarding 'Who discussed 'child will be upset'?'?",
+            "question_type": "tom:belief:accessible:reason",
+            "tom_type": "second-order:CD",
+            "correct_answer": "Theron believes that Layna is unaware that child will be upset, because Layna was not involved in the conversation when this was discussed.",
+            "wrong_answer": [
+                "Theron believes that Layna believes that child will be upset.",
+                "The text provides no information on what Theron believes about Layna's belief regarding that. Therefore, it can be stated that Theron is unaware that Benny is unaware that child will be upset.",
+                "The text provides no information on what Theron believes about Layna's belief regarding that. Therefore, it can be stated that Theron is unaware that Benny believes that child will be upset."
+            ],
+            "real_reason_accessibility": "accessible",
+            "q_id": "2-10-5-2-belief-6"
+        }
+    ],
+    "infoAccessibilityQA_list": [
+        {
+            "information": "Who discussed 'child will be upset'?",
+            "question": "List all the characters who have access to this information.",
+            "question_type": "tom:info_accessibility:list:real_reason",
+            "correct_answer": [
+                "Tina",
+                "Theron"
+            ],
+            "wrong_answer": [
+                "Benny",
+                "Layna"
+            ],
+            "q_id": "2-10-5-2-info_access_list-0"
+        },
+        {
+            "information": "Who discussed 'pet won't return'?",
+            "question": "List all the characters who have access to this information.",
+            "question_type": "tom:info_accessibility:list:truth",
+            "correct_answer": [
+                "Tina",
+                "Layna",
+                "Theron"
+            ],
+            "wrong_answer": [
+                "Benny"
+            ],
+            "q_id": "2-10-5-2-info_access_list-1"
+        }
+    ],
+    "infoAccessibilityQAs_binary": [
+        {
+            "information": "Who discussed 'child will be upset'?",
+            "question": "Does Tina have access to this information?",
+            "question_type": "tom:info_accessibility:binary:real_reason",
+            "correct_answer": "yes",
+            "q_id": "2-10-5-2-info_access_binary-0"
+        },
+        {
+            "information": "Who discussed 'child will be upset'?",
+            "question": "Does Benny have access to this information?",
+            "question_type": "tom:info_accessibility:binary:real_reason",
+            "correct_answer": "no",
+            "q_id": "2-10-5-2-info_access_binary-1"
+        },
+        {
+            "information": "Who discussed 'child will be upset'?",
+            "question": "Does Theron have access to this information?",
+            "question_type": "tom:info_accessibility:binary:real_reason",
+            "correct_answer": "yes",
+            "q_id": "2-10-5-2-info_access_binary-2"
+        },
+        {
+            "information": "Who discussed 'child will be upset'?",
+            "question": "Does Layna have access to this information?",
+            "question_type": "tom:info_accessibility:binary:real_reason",
+            "correct_answer": "no",
+            "q_id": "2-10-5-2-info_access_binary-3"
+        },
+        {
+            "information": "Who discussed 'pet won't return'?",
+            "question": "Does Tina have access to this information?",
+            "question_type": "tom:info_accessibility:binary:truth",
+            "correct_answer": "yes",
+            "q_id": "2-10-5-2-info_access_binary-4"
+        },
+        {
+            "information": "Who discussed 'pet won't return'?",
+            "question": "Does Benny have access to this information?",
+            "question_type": "tom:info_accessibility:binary:truth",
+            "correct_answer": "no",
+            "q_id": "2-10-5-2-info_access_binary-5"
+        },
+        {
+            "information": "Who discussed 'pet won't return'?",
+            "question": "Does Theron have access to this information?",
+            "question_type": "tom:info_accessibility:binary:truth",
+            "correct_answer": "yes",
+            "q_id": "2-10-5-2-info_access_binary-6"
+        },
+        {
+            "information": "Who discussed 'pet won't return'?",
+            "question": "Does Layna have access to this information?",
+            "question_type": "tom:info_accessibility:binary:truth",
+            "correct_answer": "yes",
+            "q_id": "2-10-5-2-info_access_binary-7"
+        }
+    ],
+    "answerabilityQA_list": [
+        {
+            "fact_question_real_reason": "Who discussed 'child will be upset'?",
+            "question": "List all the characters who know the precise correct answer to this question.",
+            "question_type": "tom:answerability:list:real_reason",
+            "correct_answer": [
+                "Tina",
+                "Theron"
+            ],
+            "wrong_answer": [
+                "Benny",
+                "Layna"
+            ],
+            "q_id": "2-10-5-2-answerability_list-0"
+        },
+        {
+            "fact_question_truth": "Who discussed 'pet won't return'?",
+            "question": "List all the characters who know the precise correct answer to this question.",
+            "question_type": "tom:answerability:list:truth",
+            "correct_answer": [
+                "Tina",
+                "Layna",
+                "Theron"
+            ],
+            "wrong_answer": [
+                "Benny"
+            ],
+            "q_id": "2-10-5-2-answerability_list-1"
+        }
+    ],
+    "answerabilityQAs_binary": [
+        {
+            "fact_question_real_reason": "Who discussed 'child will be upset'?",
+            "question": "Does Tina know the precise correct answer to this question?",
+            "question_type": "tom:answerability:binary:real_reason",
+            "correct_answer": "yes",
+            "q_id": "2-10-5-2-answerability_binary-0"
+        },
+        {
+            "fact_question_real_reason": "Who discussed 'child will be upset'?",
+            "question": "Does Benny know the precise correct answer to this question?",
+            "question_type": "tom:answerability:binary:real_reason",
+            "correct_answer": "no",
+            "q_id": "2-10-5-2-answerability_binary-1"
+        },
+        {
+            "fact_question_real_reason": "Who discussed 'child will be upset'?",
+            "question": "Does Theron know the precise correct answer to this question?",
+            "question_type": "tom:answerability:binary:real_reason",
+            "correct_answer": "yes",
+            "q_id": "2-10-5-2-answerability_binary-2"
+        },
+        {
+            "fact_question_real_reason": "Who discussed 'child will be upset'?",
+            "question": "Does Layna know the precise correct answer to this question?",
+            "question_type": "tom:answerability:binary:real_reason",
+            "correct_answer": "no",
+            "q_id": "2-10-5-2-answerability_binary-3"
+        },
+        {
+            "fact_question_truth": "Who discussed 'pet won't return'?",
+            "question": "Does Tina know the precise correct answer to this question?",
+            "question_type": "tom:answerability:binary:truth",
+            "correct_answer": "yes",
+            "q_id": "2-10-5-2-answerability_binary-4"
+        },
+        {
+            "fact_question_truth": "Who discussed 'pet won't return'?",
+            "question": "Does Benny know the precise correct answer to this question?",
+            "question_type": "tom:answerability:binary:truth",
+            "correct_answer": "no",
+            "q_id": "2-10-5-2-answerability_binary-5"
+        },
+        {
+            "fact_question_truth": "Who discussed 'pet won't return'?",
+            "question": "Does Theron know the precise correct answer to this question?",
+            "question_type": "tom:answerability:binary:truth",
+            "correct_answer": "yes",
+            "q_id": "2-10-5-2-answerability_binary-6"
+        },
+        {
+            "fact_question_truth": "Who discussed 'pet won't return'?",
+            "question": "Does Layna know the precise correct answer to this question?",
+            "question_type": "tom:answerability:binary:truth",
+            "correct_answer": "yes",
+            "q_id": "2-10-5-2-answerability_binary-7"
+        }
+    ],
+    "liedetectabilityQAs_list": [
+        {
+            "comprehension_q": "Was what Tina and Theron told Benny, 'pet is safe somewhere', true?",
+            "question": "List all the characters who know the precise correct answer to this question.",
+            "question_type": "tom:liedetectability:list",
+            "correct_answer": [
+                "Tina",
+                "Theron"
+            ],
+            "wrong_answer": [
+                "Benny",
+                "Layna"
+            ],
+            "q_id": "2-10-5-2-liedetect_list-0"
+        }
+    ],
+    "liedetectabilityQAs_binary": [
+        {
+            "comprehension_q": "Was what Tina and Theron told Benny, 'pet is safe somewhere', true?",
+            "question": "Does Tina know the precise correct answer to this question?",
+            "question_type": "tom:liedetectability:binary",
+            "correct_answer": "yes",
+            "q_id": "2-10-5-2-liedetect_binary-0"
+        },
+        {
+            "comprehension_q": "Was what Tina and Theron told Benny, 'pet is safe somewhere', true?",
+            "question": "Does Benny know the precise correct answer to this question?",
+            "question_type": "tom:liedetectability:binary",
+            "correct_answer": "no",
+            "q_id": "2-10-5-2-liedetect_binary-1"
+        },
+        {
+            "comprehension_q": "Was what Tina and Theron told Benny, 'pet is safe somewhere', true?",
+            "question": "Does Theron know the precise correct answer to this question?",
+            "question_type": "tom:liedetectability:binary",
+            "correct_answer": "yes",
+            "q_id": "2-10-5-2-liedetect_binary-2"
+        },
+        {
+            "comprehension_q": "Was what Tina and Theron told Benny, 'pet is safe somewhere', true?",
+            "question": "Does Layna know the precise correct answer to this question?",
+            "question_type": "tom:liedetectability:binary",
+            "correct_answer": "no",
+            "q_id": "2-10-5-2-liedetect_binary-3"
+        }
+    ],
+    "lieabilityQAs": [
+        {
+            "question": "Please choose the correct answer from the options below:",
+            "question_type": "tom:lieability:liar:real_reason",
+            "correct_answer": "Tina tell Benny that 'pet is safe somewhere' because Tina believes that Benny is unaware that child will be upset.",
+            "wrong_answer": [
+                "Tina tell Benny that 'pet is safe somewhere' because Tina believes that Benny believes child will be upset.",
+                "Tina tell Benny that 'pet is safe somewhere' because Tina is unaware that Benny is unaware that child will be upset.",
+                "Tina tell Benny that 'pet is safe somewhere' because Tina is unaware that Benny believes child will be upset."
+            ],
+            "q_id": "2-10-5-2-lieability-0"
+        },
+        {
+            "question": "Please choose the correct answer from the options below:",
+            "question_type": "tom:lieability:liar:truth",
+            "correct_answer": "Tina tell Benny that 'pet is safe somewhere' because Tina believes that Benny is unaware that pet won't return.",
+            "wrong_answer": [
+                "Tina tell Benny that 'pet is safe somewhere' because Tina believes that Benny believes pet won't return.",
+                "Tina tell Benny that 'pet is safe somewhere' because Tina is unaware that Benny is unaware that pet won't return.",
+                "Tina tell Benny that 'pet is safe somewhere' because Tina is unaware that Benny believes pet won't return."
+            ],
+            "q_id": "2-10-5-2-lieability-1"
+        }
+    ]
+}

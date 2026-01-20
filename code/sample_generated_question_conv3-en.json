@@ -1,0 +1,355 @@
+{
+    "setup_file": "",
+    "language": "en",
+    "set_id": "2-3-1-0-0",
+    "lie_id": "0-0",
+    "conv_id": 1,
+    "truth_id": 0,
+    "lie_type": "Fear respect",
+    "emotion": "Angry",
+    "falsification": "-",
+    "multiple_liar": false,
+    "real_reason_type": true,
+    "topic": {
+        "scenario": "Hospital Staff Lyndariefing",
+        "situation_topic": "a patient complaint.",
+        "situation": "Lynda asks Avelyn about patient's complaint but previously, Lynda cut staffing for the night shift, leading to Avelyn handling too many patients.",
+        "lie_objective": "Avelynvoid discipline.",
+        "leave_reason_B": "need to briefly leave to verify appointment details",
+        "leave_reason_D_1": "have to check on something",
+        "leave_reason_D_2": "forgot to print some documents"
+    },
+    "relationship": "Medical team: Kerry, Clinton are coworkers of Avelyn, Lynda admin of Avelyn",
+    "characters": {
+        "liar": "Avelyn",
+        "target": "Lynda",
+        "accomplice": "Kerry",
+        "observer": "Clinton"
+    },
+    "character_roles": "Medical team: Kerry, Clinton are coworkers of Avelyn, Lynda admin of Avelyn",
+    "lie": {
+        "real_reason_c": "Lynda could suspend because Lynda made an earlier scheduling error.",
+        "lie_c": "It was a rare allergic reaction, not preventable.",
+        "truth_c": ""
+    },
+    "entity": {
+        "PLACE": 0,
+        "PERSON": 0,
+        "ORGANISM": 0,
+        "ARTIFACT/OBJECT": 0,
+        "TRADITION/EVENT": 0,
+        "ORGANIZATION": 0,
+        "FOOD": 0,
+        "TIME": 0
+    },
+    "part_1": "Avelyn: Alright, everyone, thanks for gathering here. I know it's been a hectic week, but we need to go over a few important updates for the upcoming shifts.\n\nLynda: Absolutely, Avelyn. We need to ensure everything's in place, especially with the new protocols coming into effect next week.\n\nKerry: I've been reviewing those protocols, and I think we might need to adjust our current patient flow to accommodate them. It could get tricky during peak hours.\n\nClinton: I agree with Kerry. We should probably run a few simulations to see how the changes might impact our efficiency. Better to be prepared than caught off guard.\n\nAvelyn: Good points, both of you. Lynda, do you think we can arrange some time for a simulation session before the weekend?\n\nLynda: I'll check the schedule and see where we can fit it in. We might have to shuffle a few things around, but it’s doable.\n\nKerry: Great. Also, I wanted to bring up the issue with the supply chain. We've been experiencing delays, and it's starting to affect our inventory levels.\n\nClinton: Yeah, I noticed that too. Some of our essential supplies are running low. We need to address this before it becomes a bigger problem.\n\nAvelyn: Lynda, can you look into this and see if there's anything we can do to expedite the process?\n\nLynda: Of course. I'll contact our suppliers and see if we can get any updates or prioritize our orders.\n\nKerry: Thanks, Lynda. It's crucial we stay on top of this. We can't afford to run out of critical supplies.\n\nClinton: On a lighter note, I heard there's a team-building event planned for next month. Any details on that, Lynda?\n\nLynda: Yes, we're organizing a small retreat. It's a chance for everyone to unwind and strengthen our teamwork. More details will be sent out soon.\n\nAvelyn: Sounds like a great idea. We could all use a little break and some fun. Alright, if there’s nothing else, let’s get back to our duties. Thanks, everyone.\n\nKerry: Thanks, Avelyn. Let’s make sure we’re all set for the changes.\n\nClinton: Agreed. Let’s keep the momentum going.\n\nLynda: I’ll follow up on the action items. Have a good shift, everyone!",
+    "part_2": "Lynda: I’ll follow up on the action items. Have a good shift, everyone! Oh, I need to step out for a moment to verify some appointment details. I'll be back shortly.\n\nClinton: And I have to check on something real quick. Catch you both later.\n\nAvelyn: Alright, see you both soon. Kerry, while it's just us, I wanted to discuss something about Lynda. I noticed there was a mix-up with the schedule last week.\n\nKerry: Yeah, I remember that. It caused a bit of confusion with the shifts. Do you think it might be worth having a chat with her about it?\n\nAvelyn: I think so. It’s important we address it before it becomes a recurring issue. Maybe we can offer some support or resources to help her manage the scheduling better.\n\nKerry: That sounds like a good plan. Lynda’s usually on top of things, so it might just be a one-off mistake. But it’s better to be proactive.\n\nAvelyn: Exactly. I’ll bring it up with her once she’s back. We all make mistakes, but it’s crucial to learn from them and improve.\n\nKerry: Agreed. And who knows, maybe there are some tools or strategies we can suggest to make her job easier.\n\nAvelyn: Definitely. Let’s keep an open mind and see how we can help. Thanks for your input, Kerry. It’s always good to have your perspective.\n\nKerry: Anytime, Avelyn. We’re all in this together, after all.",
+    "part_3": "Clinton: Hey, I'm back. Did I miss anything important?\n\nAvelyn: Not much, Clinton. We were just discussing some internal matters. But since you're here, I wanted to talk about a patient complaint we received yesterday.\n\nClinton: Oh, really? What happened?\n\nKerry: It seems there was a mix-up with a medication order. The patient was understandably upset, and we need to ensure it doesn’t happen again.\n\nClinton: That's concerning. Do we know how the mix-up occurred?\n\nAvelyn: We're still looking into it, but it seems like a communication error between the pharmacy and our team. We need to tighten our processes.\n\nKerry: Maybe we should have a meeting with the pharmacy staff to discuss how we can improve coordination.\n\nClinton: Agreed. It's crucial we address this quickly. I’ll make a note to follow up on it.\n\nAvelyn: Thanks, Clinton. Your input is always valuable. \n\nClinton: No problem. Oh, I just remembered—I forgot to print some documents I need for later. I have to leave again now, but I'll be back soon.\n\nAvelyn: Alright, Clinton. We'll catch up later.\n\nKerry: See you, Clinton. Let us know if you need any help with those documents.\n\nClinton: Will do. Thanks, both of you.",
+    "part_4": "Lynda: Hey, I'm back. Sorry for the delay. Did I miss anything?\n\nAvelyn: Welcome back, Lynda. We were just wrapping up a few things.\n\nLynda: Great. By the way, I heard there was a patient complaint yesterday. Do you know what happened?\n\nAvelyn: Yes, there was an issue, but it turned out to be a rare allergic reaction. It wasn't something we could have prevented.\n\nKerry: Exactly. We looked into it, and everything was handled according to protocol. Just one of those unpredictable situations.\n\nLynda: Oh, I see. That's a relief to hear. I was worried it might have been related to the staffing adjustments I made.\n\nAvelyn: No, it wasn't related to that. We managed fine, even with the changes. \n\nKerry: Yeah, the team pulled together well. No need to worry about the adjustments.\n\nLynda: Thanks for clarifying. I appreciate you both handling it so smoothly.",
+    "full_context": "Avelyn: Alright, everyone, thanks for gathering here. I know it's been a hectic week, but we need to go over a few important updates for the upcoming shifts.\n\nLynda: Absolutely, Avelyn. We need to ensure everything's in place, especially with the new protocols coming into effect next week.\n\nKerry: I've been reviewing those protocols, and I think we might need to adjust our current patient flow to accommodate them. It could get tricky during peak hours.\n\nClinton: I agree with Kerry. We should probably run a few simulations to see how the changes might impact our efficiency. Better to be prepared than caught off guard.\n\nAvelyn: Good points, both of you. Lynda, do you think we can arrange some time for a simulation session before the weekend?\n\nLynda: I'll check the schedule and see where we can fit it in. We might have to shuffle a few things around, but it’s doable.\n\nKerry: Great. Also, I wanted to bring up the issue with the supply chain. We've been experiencing delays, and it's starting to affect our inventory levels.\n\nClinton: Yeah, I noticed that too. Some of our essential supplies are running low. We need to address this before it becomes a bigger problem.\n\nAvelyn: Lynda, can you look into this and see if there's anything we can do to expedite the process?\n\nLynda: Of course. I'll contact our suppliers and see if we can get any updates or prioritize our orders.\n\nKerry: Thanks, Lynda. It's crucial we stay on top of this. We can't afford to run out of critical supplies.\n\nClinton: On a lighter note, I heard there's a team-building event planned for next month. Any details on that, Lynda?\n\nLynda: Yes, we're organizing a small retreat. It's a chance for everyone to unwind and strengthen our teamwork. More details will be sent out soon.\n\nAvelyn: Sounds like a great idea. We could all use a little break and some fun. Alright, if there’s nothing else, let’s get back to our duties. Thanks, everyone.\n\nKerry: Thanks, Avelyn. Let’s make sure we’re all set for the changes.\n\nClinton: Agreed. Let’s keep the momentum going.\n\nLynda: I’ll follow up on the action items. Have a good shift, everyone!\n\nLynda: I’ll follow up on the action items. Have a good shift, everyone! Oh, I need to step out for a moment to verify some appointment details. I'll be back shortly.\n\nClinton: And I have to check on something real quick. Catch you both later.\n\nAvelyn: Alright, see you both soon. Kerry, while it's just us, I wanted to discuss something about Lynda. I noticed there was a mix-up with the schedule last week.\n\nKerry: Yeah, I remember that. It caused a bit of confusion with the shifts. Do you think it might be worth having a chat with her about it?\n\nAvelyn: I think so. It’s important we address it before it becomes a recurring issue. Maybe we can offer some support or resources to help her manage the scheduling better.\n\nKerry: That sounds like a good plan. Lynda’s usually on top of things, so it might just be a one-off mistake. But it’s better to be proactive.\n\nAvelyn: Exactly. I’ll bring it up with her once she’s back. We all make mistakes, but it’s crucial to learn from them and improve.\n\nKerry: Agreed. And who knows, maybe there are some tools or strategies we can suggest to make her job easier.\n\nAvelyn: Definitely. Let’s keep an open mind and see how we can help. Thanks for your input, Kerry. It’s always good to have your perspective.\n\nKerry: Anytime, Avelyn. We’re all in this together, after all.\n\nClinton: Hey, I'm back. Did I miss anything important?\n\nAvelyn: Not much, Clinton. We were just discussing some internal matters. But since you're here, I wanted to talk about a patient complaint we received yesterday.\n\nClinton: Oh, really? What happened?\n\nKerry: It seems there was a mix-up with a medication order. The patient was understandably upset, and we need to ensure it doesn’t happen again.\n\nClinton: That's concerning. Do we know how the mix-up occurred?\n\nAvelyn: We're still looking into it, but it seems like a communication error between the pharmacy and our team. We need to tighten our processes.\n\nKerry: Maybe we should have a meeting with the pharmacy staff to discuss how we can improve coordination.\n\nClinton: Agreed. It's crucial we address this quickly. I’ll make a note to follow up on it.\n\nAvelyn: Thanks, Clinton. Your input is always valuable. \n\nClinton: No problem. Oh, I just remembered—I forgot to print some documents I need for later. I have to leave again now, but I'll be back soon.\n\nAvelyn: Alright, Clinton. We'll catch up later.\n\nKerry: See you, Clinton. Let us know if you need any help with those documents.\n\nClinton: Will do. Thanks, both of you.\n\nLynda: Hey, I'm back. Sorry for the delay. Did I miss anything?\n\nAvelyn: Welcome back, Lynda. We were just wrapping up a few things.\n\nLynda: Great. By the way, I heard there was a patient complaint yesterday. Do you know what happened?\n\nAvelyn: Yes, there was an issue, but it turned out to be a rare allergic reaction. It wasn't something we could have prevented.\n\nKerry: Exactly. We looked into it, and everything was handled according to protocol. Just one of those unpredictable situations.\n\nLynda: Oh, I see. That's a relief to hear. I was worried it might have been related to the staffing adjustments I made.\n\nAvelyn: No, it wasn't related to that. We managed fine, even with the changes. \n\nKerry: Yeah, the team pulled together well. No need to worry about the adjustments.\n\nLynda: Thanks for clarifying. I appreciate you both handling it so smoothly.",
+    "short_context": "Lynda: I’ll follow up on the action items. Have a good shift, everyone! Oh, I need to step out for a moment to verify some appointment details. I'll be back shortly.\n\nClinton: And I have to check on something real quick. Catch you both later.\n\nAvelyn: Alright, see you both soon. Kerry, while it's just us, I wanted to discuss something about Lynda. I noticed there was a mix-up with the schedule last week.\n\nKerry: Yeah, I remember that. It caused a bit of confusion with the shifts. Do you think it might be worth having a chat with her about it?\n\nAvelyn: I think so. It’s important we address it before it becomes a recurring issue. Maybe we can offer some support or resources to help her manage the scheduling better.\n\nKerry: That sounds like a good plan. Lynda’s usually on top of things, so it might just be a one-off mistake. But it’s better to be proactive.\n\nAvelyn: Exactly. I’ll bring it up with her once she’s back. We all make mistakes, but it’s crucial to learn from them and improve.\n\nKerry: Agreed. And who knows, maybe there are some tools or strategies we can suggest to make her job easier.\n\nAvelyn: Definitely. Let’s keep an open mind and see how we can help. Thanks for your input, Kerry. It’s always good to have your perspective.\n\nKerry: Anytime, Avelyn. We’re all in this together, after all.\n\nClinton: Hey, I'm back. Did I miss anything important?\n\nAvelyn: Not much, Clinton. We were just discussing some internal matters. But since you're here, I wanted to talk about a patient complaint we received yesterday.\n\nClinton: Oh, really? What happened?\n\nKerry: It seems there was a mix-up with a medication order. The patient was understandably upset, and we need to ensure it doesn’t happen again.\n\nClinton: That's concerning. Do we know how the mix-up occurred?\n\nAvelyn: We're still looking into it, but it seems like a communication error between the pharmacy and our team. We need to tighten our processes.\n\nKerry: Maybe we should have a meeting with the pharmacy staff to discuss how we can improve coordination.\n\nClinton: Agreed. It's crucial we address this quickly. I’ll make a note to follow up on it.\n\nAvelyn: Thanks, Clinton. Your input is always valuable. \n\nClinton: No problem. Oh, I just remembered—I forgot to print some documents I need for later. I have to leave again now, but I'll be back soon.\n\nAvelyn: Alright, Clinton. We'll catch up later.\n\nKerry: See you, Clinton. Let us know if you need any help with those documents.\n\nClinton: Will do. Thanks, both of you.\n\nLynda: Hey, I'm back. Sorry for the delay. Did I miss anything?\n\nAvelyn: Welcome back, Lynda. We were just wrapping up a few things.\n\nLynda: Great. By the way, I heard there was a patient complaint yesterday. Do you know what happened?\n\nAvelyn: Yes, there was an issue, but it turned out to be a rare allergic reaction. It wasn't something we could have prevented.\n\nKerry: Exactly. We looked into it, and everything was handled according to protocol. Just one of those unpredictable situations.\n\nLynda: Oh, I see. That's a relief to hear. I was worried it might have been related to the staffing adjustments I made.\n\nAvelyn: No, it wasn't related to that. We managed fine, even with the changes. \n\nKerry: Yeah, the team pulled together well. No need to worry about the adjustments.\n\nLynda: Thanks for clarifying. I appreciate you both handling it so smoothly.",
+    "full_context_tokens": 1288,
+    "short_context_tokens": 801,
+    "comprehensionQA": [
+        {
+            "question": "Was what Avelyn told Lynda, 'It was a rare allergic reaction, not preventable', true?",
+            "question_type": "comprehension",
+            "correct_answer": "No",
+            "wrong_answer": "Yes",
+            "q_id": "2-3-1-0-0-comprehension-0"
+        }
+    ],
+    "justificationQA": [
+        {
+            "question": "Why did Avelyn tell Lynda 'It was a rare allergic reaction'?",
+            "question_type": "justification:liar:accompliance",
+            "correct_answer": "Avelyn wanted to prevent Lynda from feeling guilty about her earlier scheduling error.",
+            "wrong_answer": [
+                "It was a rare allergic reaction, not preventable.",
+                "Avelyn was frustrated with Lynda and wanted to avoid her.",
+                "Kerry needed more time to prepare for an unrelated event."
+            ],
+            "q_id": "2-3-1-0-0-justification-0"
+        }
+    ],
+    "fact_reasonQA": [
+        {
+            "question": "Who discussed 'Lynda could suspend because Lynda made an earlier scheduling error'?",
+            "question_type": "fact:real_reason",
+            "correct_answer": "Avelyn and Kerry talked about that.",
+            "wrong_answer": [
+                "Avelyn, Clinton and Kerry talked about that.",
+                "Lynda, Kerry and Avelyn talked about that.",
+                "Kerry and Lynda talked about that."
+            ],
+            "q_id": "2-3-1-0-0-fact_reason-0"
+        }
+    ],
+    "fact_truthQA": [],
+    "beliefQAs": [
+        {
+            "question": "What does Avelyn believe about 'Who discussed 'Lynda could suspend because Lynda made an earlier scheduling error'?'?",
+            "question_type": "tom:belief:accessible:reason",
+            "tom_type": "first-order:A",
+            "correct_answer": "Avelyn believes that Kerry discussed Lynda could suspend because Lynda made an earlier scheduling error.",
+            "wrong_answer": [
+                "Avelyn is unaware that Clinton and Lynda discussed Lynda could suspend because Lynda made an earlier scheduling error.",
+                "Avelyn believes that Kerry and Lynda discussed Lynda could suspend because Lynda made an earlier scheduling error.",
+                "Avelyn believes that Kerry, Clinton and Lynda discussed Lynda could suspend because Lynda made an earlier scheduling error."
+            ],
+            "real_reason_accessibility": "accessible",
+            "q_id": "2-3-1-0-0-belief-0"
+        },
+        {
+            "question": "What does Lynda believe about 'Who discussed 'Lynda could suspend because Lynda made an earlier scheduling error'?'?",
+            "question_type": "tom:belief:inaccessible:reason",
+            "tom_type": "first-order:B",
+            "correct_answer": "Lynda is unaware that Avelyn and Kerry discussed Lynda could suspend because Lynda made an earlier scheduling error.",
+            "wrong_answer": [
+                "Lynda is unaware that Clinton discussed Lynda could suspend because Lynda made an earlier scheduling error.",
+                "Lynda believes that Avelyn and Kerry discussed Lynda could suspend because Lynda made an earlier scheduling error.",
+                "Lynda believes that Kerry, Avelyn and Clinton discussed Lynda could suspend because Lynda made an earlier scheduling error."
+            ],
+            "real_reason_accessibility": "inaccessible",
+            "q_id": "2-3-1-0-0-belief-1"
+        },
+        {
+            "question": "What does Kerry believe about 'Who discussed 'Lynda could suspend because Lynda made an earlier scheduling error'?'?",
+            "question_type": "tom:belief:accessible:reason",
+            "tom_type": "first-order:C",
+            "correct_answer": "Kerry believes that Avelyn discussed Lynda could suspend because Lynda made an earlier scheduling error.",
+            "wrong_answer": [
+                "Kerry believes that Lynda discussed Lynda could suspend because Lynda made an earlier scheduling error.",
+                "Kerry is unaware that Avelyn discussed Lynda could suspend because Lynda made an earlier scheduling error.",
+                "Kerry is unaware that Avelyn and Lynda discussed Lynda could suspend because Lynda made an earlier scheduling error."
+            ],
+            "real_reason_accessibility": "accessible",
+            "q_id": "2-3-1-0-0-belief-2"
+        },
+        {
+            "question": "What does Lynda believe about Clinton's belief regarding 'Who discussed 'Lynda could suspend because Lynda made an earlier scheduling error'?'?",
+            "question_type": "tom:belief:inaccessible:reason",
+            "tom_type": "second-order:BD",
+            "correct_answer": "The text provides no information on what Lynda believes about Clinton's belief regarding that. Therefore, it can be stated that Lynda is unaware that Clinton is unaware that Lynda could suspend because Lynda made an earlier scheduling error.",
+            "wrong_answer": [
+                "The text provides no information on what Lynda believes about Clinton's belief regarding that. Therefore, it can be stated that Lynda is unaware that Clinton believes that Lynda could suspend because Lynda made an earlier scheduling error.",
+                "Lynda believes that Clinton is unaware that Lynda could suspend because Lynda made an earlier scheduling error, because Clinton was not involved in the conversation when this was discussed.",
+                "Lynda believes that Clinton believes that Lynda could suspend because Lynda made an earlier scheduling error."
+            ],
+            "missed_info_accessibility": "inaccessible",
+            "q_id": "2-3-1-0-0-belief-3"
+        },
+        {
+            "question": "What does Kerry believe about Avelyn's belief regarding 'Who discussed 'Lynda could suspend because Lynda made an earlier scheduling error'?'?",
+            "question_type": "tom:belief:accessible:reason",
+            "tom_type": "second-order:CA",
+            "correct_answer": "Kerry believes that Avelyn believes that Lynda could suspend because Lynda made an earlier scheduling error.",
+            "wrong_answer": [
+                "Kerry believes that Avelyn is unaware that Lynda could suspend because Lynda made an earlier scheduling error, because Avelyn was not involved in the conversation when this was discussed.",
+                "The text provides no information on what Kerry believes about Avelyn's belief regarding that. Therefore, it can be stated that Kerry is unaware that Avelyn is unaware that Lynda could suspend because Lynda made an earlier scheduling error.",
+                "The text provides no information on what Kerry believes about Avelyn's belief regarding that. Therefore, it can be stated that Kerry is unaware that Avelyn believes that Lynda could suspend because Lynda made an earlier scheduling error."
+            ],
+            "real_reason_accessibility": "accessible",
+            "q_id": "2-3-1-0-0-belief-4"
+        },
+        {
+            "question": "What does Kerry believe about Lynda's belief regarding 'Who discussed 'Lynda could suspend because Lynda made an earlier scheduling error'?'?",
+            "question_type": "tom:belief:accessible:reason",
+            "tom_type": "second-order:CB",
+            "correct_answer": "Kerry believes that Lynda is unaware that Lynda could suspend because Lynda made an earlier scheduling error, because Lynda was not involved in the conversation when this was discussed.",
+            "wrong_answer": [
+                "Kerry believes that Lynda believes that Lynda could suspend because Lynda made an earlier scheduling error.",
+                "The text provides no information on what Kerry believes about Lynda's belief regarding that. Therefore, it can be stated that Kerry is unaware that Lynda is unaware that Lynda could suspend because Lynda made an earlier scheduling error.",
+                "The text provides no information on what Kerry believes about Lynda's belief regarding that. Therefore, it can be stated that Kerry is unaware that Lynda believes that Lynda could suspend because Lynda made an earlier scheduling error."
+            ],
+            "real_reason_accessibility": "accessible",
+            "q_id": "2-3-1-0-0-belief-5"
+        },
+        {
+            "question": "What does Kerry believe about Clinton's belief regarding 'Who discussed 'Lynda could suspend because Lynda made an earlier scheduling error'?'?",
+            "question_type": "tom:belief:accessible:reason",
+            "tom_type": "second-order:CD",
+            "correct_answer": "Kerry believes that Clinton is unaware that Lynda could suspend because Lynda made an earlier scheduling error, because Clinton was not involved in the conversation when this was discussed.",
+            "wrong_answer": [
+                "Kerry believes that Clinton believes that Lynda could suspend because Lynda made an earlier scheduling error.",
+                "The text provides no information on what Kerry believes about Clinton's belief regarding that. Therefore, it can be stated that Kerry is unaware that Lynda is unaware that Lynda could suspend because Lynda made an earlier scheduling error.",
+                "The text provides no information on what Kerry believes about Clinton's belief regarding that. Therefore, it can be stated that Kerry is unaware that Lynda believes that Lynda could suspend because Lynda made an earlier scheduling error."
+            ],
+            "real_reason_accessibility": "accessible",
+            "q_id": "2-3-1-0-0-belief-6"
+        }
+    ],
+    "infoAccessibilityQA_list": [
+        {
+            "information": "Who discussed 'Lynda could suspend because Lynda made an earlier scheduling error'?",
+            "question": "List all the characters who have access to this information.",
+            "question_type": "tom:info_accessibility:list:real_reason",
+            "correct_answer": [
+                "Avelyn",
+                "Kerry"
+            ],
+            "wrong_answer": [
+                "Lynda",
+                "Clinton"
+            ],
+            "q_id": "2-3-1-0-0-info_access_list-0"
+        }
+    ],
+    "infoAccessibilityQAs_binary": [
+        {
+            "information": "Who discussed 'Lynda could suspend because Lynda made an earlier scheduling error'?",
+            "question": "Does Avelyn have access to this information?",
+            "question_type": "tom:info_accessibility:binary:real_reason",
+            "correct_answer": "yes",
+            "q_id": "2-3-1-0-0-info_access_binary-0"
+        },
+        {
+            "information": "Who discussed 'Lynda could suspend because Lynda made an earlier scheduling error'?",
+            "question": "Does Lynda have access to this information?",
+            "question_type": "tom:info_accessibility:binary:real_reason",
+            "correct_answer": "no",
+            "q_id": "2-3-1-0-0-info_access_binary-1"
+        },
+        {
+            "information": "Who discussed 'Lynda could suspend because Lynda made an earlier scheduling error'?",
+            "question": "Does Kerry have access to this information?",
+            "question_type": "tom:info_accessibility:binary:real_reason",
+            "correct_answer": "yes",
+            "q_id": "2-3-1-0-0-info_access_binary-2"
+        },
+        {
+            "information": "Who discussed 'Lynda could suspend because Lynda made an earlier scheduling error'?",
+            "question": "Does Clinton have access to this information?",
+            "question_type": "tom:info_accessibility:binary:real_reason",
+            "correct_answer": "no",
+            "q_id": "2-3-1-0-0-info_access_binary-3"
+        }
+    ],
+    "answerabilityQA_list": [
+        {
+            "fact_question_real_reason": "Who discussed 'Lynda could suspend because Lynda made an earlier scheduling error'?",
+            "question": "List all the characters who know the precise correct answer to this question.",
+            "question_type": "tom:answerability:list:real_reason",
+            "correct_answer": [
+                "Avelyn",
+                "Kerry"
+            ],
+            "wrong_answer": [
+                "Lynda",
+                "Clinton"
+            ],
+            "q_id": "2-3-1-0-0-answerability_list-0"
+        }
+    ],
+    "answerabilityQAs_binary": [
+        {
+            "fact_question_real_reason": "Who discussed 'Lynda could suspend because Lynda made an earlier scheduling error'?",
+            "question": "Does Avelyn know the precise correct answer to this question?",
+            "question_type": "tom:answerability:binary:real_reason",
+            "correct_answer": "yes",
+            "q_id": "2-3-1-0-0-answerability_binary-0"
+        },
+        {
+            "fact_question_real_reason": "Who discussed 'Lynda could suspend because Lynda made an earlier scheduling error'?",
+            "question": "Does Lynda know the precise correct answer to this question?",
+            "question_type": "tom:answerability:binary:real_reason",
+            "correct_answer": "no",
+            "q_id": "2-3-1-0-0-answerability_binary-1"
+        },
+        {
+            "fact_question_real_reason": "Who discussed 'Lynda could suspend because Lynda made an earlier scheduling error'?",
+            "question": "Does Kerry know the precise correct answer to this question?",
+            "question_type": "tom:answerability:binary:real_reason",
+            "correct_answer": "yes",
+            "q_id": "2-3-1-0-0-answerability_binary-2"
+        },
+        {
+            "fact_question_real_reason": "Who discussed 'Lynda could suspend because Lynda made an earlier scheduling error'?",
+            "question": "Does Clinton know the precise correct answer to this question?",
+            "question_type": "tom:answerability:binary:real_reason",
+            "correct_answer": "no",
+            "q_id": "2-3-1-0-0-answerability_binary-3"
+        }
+    ],
+    "liedetectabilityQAs_list": [
+        {
+            "comprehension_q": "Was what Avelyn told Lynda, 'It was a rare allergic reaction, not preventable', true?",
+            "question": "List all the characters who know the precise correct answer to this question.",
+            "question_type": "tom:liedetectability:list",
+            "correct_answer": [
+                "Avelyn",
+                "Kerry"
+            ],
+            "wrong_answer": [
+                "Lynda",
+                "Clinton"
+            ],
+            "q_id": "2-3-1-0-0-liedetect_list-0"
+        }
+    ],
+    "liedetectabilityQAs_binary": [
+        {
+            "comprehension_q": "Was what Avelyn told Lynda, 'It was a rare allergic reaction, not preventable', true?",
+            "question": "Does Avelyn know the precise correct answer to this question?",
+            "question_type": "tom:liedetectability:binary",
+            "correct_answer": "yes",
+            "q_id": "2-3-1-0-0-liedetect_binary-0"
+        },
+        {
+            "comprehension_q": "Was what Avelyn told Lynda, 'It was a rare allergic reaction, not preventable', true?",
+            "question": "Does Lynda know the precise correct answer to this question?",
+            "question_type": "tom:liedetectability:binary",
+            "correct_answer": "no",
+            "q_id": "2-3-1-0-0-liedetect_binary-1"
+        },
+        {
+            "comprehension_q": "Was what Avelyn told Lynda, 'It was a rare allergic reaction, not preventable', true?",
+            "question": "Does Kerry know the precise correct answer to this question?",
+            "question_type": "tom:liedetectability:binary",
+            "correct_answer": "yes",
+            "q_id": "2-3-1-0-0-liedetect_binary-2"
+        },
+        {
+            "comprehension_q": "Was what Avelyn told Lynda, 'It was a rare allergic reaction, not preventable', true?",
+            "question": "Does Clinton know the precise correct answer to this question?",
+            "question_type": "tom:liedetectability:binary",
+            "correct_answer": "no",
+            "q_id": "2-3-1-0-0-liedetect_binary-3"
+        }
+    ],
+    "lieabilityQAs": [
+        {
+            "question": "Please choose the correct answer from the options below:",
+            "question_type": "tom:lieability:liar:real_reason",
+            "correct_answer": "Avelyn tell Lynda that 'It was a rare allergic reaction, not preventable' because Avelyn believes that Lynda is unaware that Lynda could suspend because Lynda made an earlier scheduling error.",
+            "wrong_answer": [
+                "Avelyn tell Lynda that 'It was a rare allergic reaction, not preventable' because Avelyn believes that Lynda believes Lynda could suspend because Lynda made an earlier scheduling error.",
+                "Avelyn tell Lynda that 'It was a rare allergic reaction, not preventable' because Avelyn is unaware that Lynda is unaware that Lynda could suspend because Lynda made an earlier scheduling error.",
+                "Avelyn tell Lynda that 'It was a rare allergic reaction, not preventable' because Avelyn is unaware that Lynda believes Lynda could suspend because Lynda made an earlier scheduling error."
+            ],
+            "q_id": "2-3-1-0-0-lieability-0"
+        }
+    ],
+    "KJability": [
+        {
+            "question": "what Avelyn believes about their own type of consideration",
+            "question_type": "tom:KJ:liar",
+            "correct_answer": "Fear respect to show respect and fear to make the other person angry",
+            "wrong_answer": [
+                "white lie to comfort/make the other person feel at ease",
+                "avoid confront to avoid confrontation that would make the other person angry",
+                "no consideration"
+            ]
+        },
+        {
+            "question": "what Lynda believes about Avelyn's type of consideration",
+            "question_type": "tom:KJ:target",
+            "correct_answer": "Fear respect to show respect and fear to make the other person angry",
+            "wrong_answer": [
+                "white lie to comfort/make the other person feel at ease",
+                "avoid confront to avoid confrontation that would make the other person angry",
+                "no consideration"
+            ]
+        }
+    ]
+}
