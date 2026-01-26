@@ -1,8 +1,8 @@
-# KAI-ToM: Evaluating Theory of Mind Understanding of White Lies in Large Language Models
+# KAI-ToM: Evaluating Theory of Mind in Large Language Models
 
 ## TL;DR
 
-We introduce **KAI-ToM**, a novel benchmark evaluating LLMs' Theory of Mind ability to understand and reason about white lies in real-life conversations, uncovering their limited understanding of white lies and the motivations behind them. **KJ2 in paper are KJ3 in our code because KJ2 is the future work where study on self-humble behavior to decline things** 
+We introduce **KAI-ToM**, a novel benchmark evaluating LLMs' Theory of Mind ability to understand and reason about lies in conversations, uncovering their limited understanding of lies and the motivations behind them under cultural . **KJ2 in paper are KJ3 in our code because KJ2 is the future work where study on self-humble behavior to decline things** 
 
 ## Abstract
 
@@ -151,27 +151,6 @@ justification_qas = generate_justificationQA(selected_set)
 fact_qas = generate_fact_QA(selected_set)
 belief_qas_1st = generate_1stbeliefQAs(selected_set)
 belief_qas_2nd = generate_2ndbeliefQAs(selected_set)
-```
-
-### Generating Justification Options
-
-For creating justification options using GPT-4:
-
-```python
-from code.justification_option_generator import (
-    init_openai_client,
-    process_single_conversation
-)
-
-# Initialize OpenAI client (reads from .env)
-init_openai_client()
-
-# Process a conversation
-success = process_single_conversation(
-    json_path="dataset/elements/Tactful_conv_element_0.json",
-    set_id="0-1-0-0",
-    output_path="output.json"
-)
 ```
 
 ### Conversation Generation Platform
