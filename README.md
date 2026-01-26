@@ -36,11 +36,11 @@ tactful-tom/
 
 ### Key Features
 
-- **Real-life Conversations**: Natural, multi-turn dialogues with authentic white lies
+- **Real-life Conversations**: Natural, multi-turn dialogues with authentic lies
 - **Information Asymmetry**: Carefully designed scenarios where different participants have access to different information
-- **Multi-level ToM Reasoning**: Questions spanning white lie understanding, white lie reasoning, and belief tracking
+- **Multi-level ToM Reasoning**: Questions spanning  lie understanding, lie reasoning, and belief tracking
 - **Multi-language Support**: English and Thai language versions
-- **Diverse Categories**: three main types of white lies
+- **Diverse Categories**: three main types of lies
 - **Human-annotated**: Generated through LLM with human validation
 
 ### Statistics
@@ -77,14 +77,14 @@ Each conversation includes:
 {
   "set_id": "unique_identifier",
   "characters": {
-    "liar": "Character who tells the white lie",
+    "liar": "Character who tells the lie",
     "target": "Character being protected by the lie",
     "accomplice": "Character who helps maintain the lie (if any)",
     "observer": "Neutral observer character"
   },
   "lie": {
     "real_reason_q": "The true prosocial motivation",
-    "lie_q": "What was said (the white lie)",
+    "lie_q": "What was said (the lie)",
     "truth_q": "The actual truth being concealed"
   },
   "full_context": "Complete conversation transcript",
