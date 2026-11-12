@@ -172,4 +172,29 @@ HF_TOKEN=your_huggingface_token  # Optional
 TYPHOON_API_KEY1=your_typhoon_api_key  # Optional for Thai models
 ```
 
+## Citation
+```bibtex
+@inproceedings{kerdthaisong-etal-2026-kaitom,
+    title = "{K}ai{T}o{M}: A Benchmark for Culturally Informed Theory-of-Mind in {T}hai Context",
+    author = "Kerdthaisong, Kun  and
+      Buakhaw, Pasin  and
+      Sommuang, Wayupuk  and
+      Yongsatianchot, Nutchanon",
+    editor = "Zhang, Yue  and
+      Xu, Ruifeng  and
+      Purwarianti, Ayu  and
+      Rong, Tong  and
+      Suzuki, Jun",
+    booktitle = "Proceedings of the 15th International Joint Conference on Natural Language Processing and the 5th Conference of the {A}sia-Pacific Chapter of the {A}ssociation for {C}omputational {L}inguistics (Volume 1: Long Papers)",
+    month = nov,
+    year = "2026",
+    address = "Hengqin, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.aacl-long.125/",
+    doi = "10.18653/2026.aacl-long.125",
+    pages = "2732--2755",
+    ISBN = "979-8-89176-439-2",
+    abstract = "Large Language Models (LLMs) show impressive reasoning capabilities, yet their understanding of culturally specific social dynamics remains limited. We present KaiToM, a Theory of Mind (ToM) benchmark for Thai cultural contexts, focusing on Kreng-Jai, a uniquely Thai concept of social reluctance and consideration. Extending TactfulToM, we construct 882 conversations (39.2K questions) spanning three Kreng-Jai dimensions: White Lies, Avoidance of Confrontation, and Fear-Based Respect. To disentangle language proficiency from cultural knowledge, the dataset includes Thai scenarios at varying cultural depths, general English scenarios, and English translations of Thai content. We evaluate Thai-specialized (Typhoonv2.1, SEA-LION-v3), open-weight (Gemma-3, DeepSeek-V3.2, Kimi-K2, Qwen), and proprietary models (GPT-4o-mini, GPT-5.1, Gemini-3-Flash). Models achieve only moderate performance, struggle with Fear-Based Respect, and cannot reliably identify specific Kreng-Jai types, a failure shared by Thai-specialized models. Human evaluation shows that native speakers significantly outperform models on culturally loaded tasks. Performance also degrades in deep relative to surface-level cultural contexts, and generalist models often perform better on English translations than on the original Thai, suggesting that models capture surface cues but lack deeper cultural alignment. KaiToM supports the development of culturally aware systems for low-resource languages. Code is available at https://github.com/Augustus2011/KAI-ToM."
+}
+```
 ---
